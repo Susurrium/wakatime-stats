@@ -1,0 +1,49 @@
+name: Update WakaTime badges
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'test/**'
+      - 'config.json'
+      - 'package*.json'
+      - '.github/workflows/update.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wakatime-badges
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - name: Fetch and render verified statistics
+        run: npm run update
+        env:
+          WAKATIME_READ_TOKEN: ${{ secrets.WAKATIME_READ_TOKEN }}
+      - name: Publish generated badges
+        shell: bash
+        run: |
+          git add badges/ stats.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update WakaTime time badges'
+          git push origin HEAD:main

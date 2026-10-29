@@ -1,0 +1,12 @@
+{
+  "name": "susurrium-wakatime-stats",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "test": "node --test"
+  },
+  "dependencies": { "badge-maker": "6.0.0" }
+}
