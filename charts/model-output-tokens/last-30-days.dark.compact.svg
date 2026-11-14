@@ -1,13 +1,13 @@
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 400 300" role="img" aria-labelledby="model-output-tokens-title model-output-tokens-description">
 <rect width="400" height="300" x="0" y="0" fill="#111820"/>
-<path d="M110.5 100L110.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-490"/>
-<path d="M143.5 100L143.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-490"/>
-<path d="M176.5 100L176.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-490"/>
-<path d="M209.5 100L209.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-490"/>
-<path d="M242.5 100L242.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-490"/>
-<path d="M275.5 100L275.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-490"/>
-<path d="M308.5 100L308.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-490"/>
-<path d="M110.5 245L110.5 100" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr67-cls-490"/>
+<path d="M110.5 100L110.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-494"/>
+<path d="M143.5 100L143.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-494"/>
+<path d="M176.5 100L176.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-494"/>
+<path d="M209.5 100L209.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-494"/>
+<path d="M242.5 100L242.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-494"/>
+<path d="M275.5 100L275.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-494"/>
+<path d="M308.5 100L308.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr67-cls-494"/>
+<path d="M110.5 245L110.5 100" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr67-cls-494"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(323.16 245)" fill="#a6b3c1">output_tokens</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 220.8333)" fill="#a6b3c1">Vscode</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 172.5)" fill="#a6b3c1">Codex-Vscode</text>
@@ -18,17 +18,17 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(209.08 253)" fill="#a6b3c1">3,000,000</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(242.1067 253)" fill="#a6b3c1">4,000,000</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(275.1333 253)" fill="#a6b3c1">5,000,000</text>
-<path d="M110 208.8l0 0l0 24l0 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr67-cls-491"/>
-<path d="M110 160.5l26 0l0 24l-26 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr67-cls-491"/>
-<path d="M110 112.2l167.7 0l0 24l-167.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr67-cls-491"/>
-<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr67-cls-490"/>
+<path d="M110 208.8l0 0l0 24l0 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr67-cls-495"/>
+<path d="M110 160.5l26 0l0 24l-26 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr67-cls-495"/>
+<path d="M110 112.2l168.5 0l0 24l-168.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr67-cls-495"/>
+<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr67-cls-494"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#edf2f7">AI model output tokens</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#a6b3c1">30/30 days available; Asia/Shanghai</text>
 <style><![CDATA[
-.zr67-cls-490:hover {
+.zr67-cls-494:hover {
 pointer-events:none;
 }
-.zr67-cls-491:hover {
+.zr67-cls-495:hover {
 cursor:pointer;
 fill:rgba(61,207,255,1);
 }
