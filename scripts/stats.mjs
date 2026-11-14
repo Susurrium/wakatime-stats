@@ -41,9 +41,8 @@ export function makeSnapshot(payload, config, now = new Date()) {
     codexAi: metric(config.codexDesktopEditor)
   }
   const ai = data.categories.filter((entry) => entry.name === 'AI Coding')
-  if (ai.length !== 1 || !Number.isFinite(ai[0].total_seconds) ||
-      ai[0].total_seconds < metrics.codexAi.seconds - 1) {
-    throw new Error('Codex 来源时长与 AI Coding 分类不一致。')
+  if (ai.length > 1 || ai.some((entry) => !Number.isFinite(entry.total_seconds) || entry.total_seconds < 0)) {
+    throw new Error('AI Coding 分类无效。')
   }
   const sourceUpdatedAt = timestamp(data.modified_at, 'modified_at')
   const fetchedAt = timestamp(now.toISOString(), 'fetchedAt')
@@ -69,7 +68,7 @@ export function renderBadges(snapshot) {
   }).format(new Date(snapshot.sourceUpdatedAt))
   return {
     'badges/vscode.svg': make('VS Code', formatDuration(snapshot.metrics.vscode.seconds), '0284c7'),
-    'badges/codex-ai.svg': make('Codex AI', formatDuration(snapshot.metrics.codexAi.seconds), '059669'),
+    'badges/codex-ai.svg': make('Codex Vscode', formatDuration(snapshot.metrics.codexAi.seconds), '059669'),
     'badges/updated.svg': make('Updated', `${updated} CST`, '64748b'),
     'stats.json': JSON.stringify(snapshot, null, 2) + '\n'
   }
@@ -78,7 +77,8 @@ export function renderBadges(snapshot) {
 export async function fetchStats(token, {
   fetchImpl = fetch,
   sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms)),
-  delays = [0, 5_000, 15_000, 30_000]
+  delays = [0, 5_000, 15_000, 30_000],
+  url = statsUrl
 } = {}) {
   if (typeof token !== 'string' || !token.trim()) {
     throw new Error('缺少 WAKATIME_READ_TOKEN。')
@@ -88,7 +88,7 @@ export async function fetchStats(token, {
     if (delays[attempt]) await sleep(delays[attempt])
     let response
     try {
-      response = await fetchImpl(statsUrl, {
+      response = await fetchImpl(url, {
         headers: { Authorization: `Bearer ${token.trim()}`, Accept: 'application/json' },
         signal: AbortSignal.timeout(20_000),
         redirect: 'error'
@@ -101,7 +101,11 @@ export async function fetchStats(token, {
       failure = new Error(`WakaTime 暂时不可用（HTTP ${response.status}）。`)
       continue
     }
-    if (!response.ok) throw new Error(`WakaTime 请求失败（HTTP ${response.status}）。`)
+    if (!response.ok) {
+      const error = new Error(`WakaTime 请求失败（HTTP ${response.status}）。`)
+      error.status = response.status
+      throw error
+    }
     const payload = await response.json()
     if (payload?.data?.is_up_to_date === false) {
       failure = new Error('WakaTime 累计统计仍在刷新。')

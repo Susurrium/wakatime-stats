@@ -27,12 +27,12 @@ test('只发布精确匹配的两个来源，排除 CLI 与私密原始字段', 
   }
 })
 
-test('缺少来源、重复来源、无效秒数、分类不一致和过期缓存均失败', () => {
+test('缺少来源、重复来源、无效秒数、无效分类和过期缓存均失败', () => {
   const changes = [
     (data) => { data.editors.pop() },
     (data) => { data.editors.push(data.editors[2]) },
     (data) => { data.editors[2].total_seconds = -1 },
-    (data) => { data.categories[0].total_seconds = 1 },
+    (data) => { data.categories[0].total_seconds = -1 },
     (data) => { data.is_up_to_date = false }
   ]
   for (const change of changes) {
@@ -41,6 +41,12 @@ test('缺少来源、重复来源、无效秒数、分类不一致和过期缓�
     assert.throws(() => makeSnapshot(input, config, now))
   }
   assert.throws(() => makeSnapshot(payload(), { ...config, codexDesktopEditor: 'VS Code' }, now))
+})
+
+test('编辑器与分类是独立维度，两个总量不构成交叉归属证明', () => {
+  const input = payload()
+  input.data.categories[0].total_seconds = 1
+  assert.equal(makeSnapshot(input, config, now).metrics.codexAi.seconds, 42670.009531)
 })
 
 test('徽章使用真实指标和北京时间的源更新时间', () => {

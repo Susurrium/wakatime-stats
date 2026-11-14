@@ -3,10 +3,19 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "update": "node scripts/update.mjs",
-    "test": "node --test"
+    "test": "node --test",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
   },
-  "dependencies": { "badge-maker": "6.0.0" }
+  "dependencies": {
+    "@xmldom/xmldom": "0.9.12",
+    "badge-maker": "6.0.0",
+    "echarts": "6.1.0",
+    "sharp": "0.35.5"
+  }
 }
