@@ -1,0 +1,40 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 400 300" role="img" aria-labelledby="editors-title editors-description">
+<rect width="400" height="300" x="0" y="0" fill="#111820"/>
+<path d="M110.5 100L110.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr15-cls-30"/>
+<path d="M150.5 100L150.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr15-cls-30"/>
+<path d="M191.5 100L191.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr15-cls-30"/>
+<path d="M232.5 100L232.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr15-cls-30"/>
+<path d="M272.5 100L272.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr15-cls-30"/>
+<path d="M313.5 100L313.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr15-cls-30"/>
+<path d="M354.5 100L354.5 245" fill="none" pointer-events="visible" stroke="#344251" class="zr15-cls-30"/>
+<path d="M110.5 245L110.5 100" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr15-cls-30"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(368.88 245)" fill="#a6b3c1">hours</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" transform="translate(102 220.8333)" fill="#a6b3c1">Codex CLI</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" transform="translate(102 172.5)" fill="#a6b3c1">VS Code</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" transform="translate(102 124.1667)" fill="#a6b3c1">Codex Vscode</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(110 253)" fill="#a6b3c1">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(150.6467 253)" fill="#a6b3c1">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(191.2933 253)" fill="#a6b3c1">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(231.94 253)" fill="#a6b3c1">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(272.5867 253)" fill="#a6b3c1">40</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(313.2333 253)" fill="#a6b3c1">50</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(353.88 253)" fill="#a6b3c1">60</text>
+<path d="M110 208.8l22.3 0l0 24l-22.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr15-cls-31"/>
+<path d="M110 160.5l31.3 0l0 24l-31.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr15-cls-31"/>
+<path d="M110 112.2l220.1 0l0 24l-220.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr15-cls-31"/>
+<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr15-cls-30"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" y="8" transform="translate(27 21)" fill="#edf2f7">Editors</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#a6b3c1">Through 2026-11-14; Asia/Shanghai</text>
+<style><![CDATA[
+.zr15-cls-30:hover {
+pointer-events:none;
+}
+.zr15-cls-31:hover {
+cursor:pointer;
+fill:rgba(61,207,255,1);
+}
+
+]]>
+
+</style>
+<title id="editors-title">Editors</title><desc id="editors-description">按累计活动小时排列，显示前十项。 Through 2026-11-14; Asia/Shanghai </desc></svg>

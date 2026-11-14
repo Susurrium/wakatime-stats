@@ -1,0 +1,66 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 400 300" role="img" aria-labelledby="daily-title daily-description">
+<rect width="400" height="300" x="0" y="0" fill="#ffffff"/>
+<path d="M110 245.5L370 245.5" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M110 221.5L370 221.5" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M110 196.5L370 196.5" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M110 172.5L370 172.5" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M110 148.5L370 148.5" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M110 124.5L370 124.5" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M110 100.5L370 100.5" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="-6" transform="translate(110 85)" fill="#536170">hours</text>
+<path d="M110 245.5L370 245.5" fill="none" pointer-events="visible" stroke="#e5e9ed" stroke-linecap="round" class="zr29-cls-56"/>
+<path d="M110.5 245L110.5 250" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M155.5 245L155.5 250" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M199.5 245L199.5 250" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M244.5 245L244.5 250" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M289.5 245L289.5 250" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<path d="M334.5 245L334.5 250" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr29-cls-56"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 245)" fill="#536170">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 220.8333)" fill="#536170">2</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 196.6667)" fill="#536170">4</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 172.5)" fill="#536170">6</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 148.3333)" fill="#536170">8</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 124.1667)" fill="#536170">10</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 100)" fill="#536170">12</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(110 253)" fill="#536170">10-17</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(154.8276 253)" fill="#536170">10-22</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(199.6552 253)" fill="#536170">10-27</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(244.4828 253)" fill="#536170">11-01</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(289.3103 253)" fill="#536170">11-06</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(334.1379 253)" fill="#536170">11-11</text>
+<g clip-path="url(#zr29-c0)">
+<path d="M110 245L119 245L127.9 245L136.9 245L145.9 243.6L154.8 243.5L163.8 243.9L172.8 237.1L181.7 244.9L190.7 233.5L199.7 170.1L208.6 217.4L217.6 176L226.6 195.9L235.5 237.2L244.5 183.4L253.4 221.4L262.4 225.4L271.4 235L280.3 187.9L289.3 235L298.3 155.2L307.2 199.2L316.2 116.3L325.2 201.8L334.1 220.6L343.1 184.5L352.1 232.2L361 234.7L370 224.2" fill="none" pointer-events="visible" stroke="#0284c7" stroke-width="2" stroke-linejoin="bevel" class="zr29-cls-58"/>
+</g>
+<path d="M-5 -5l90 0l0 23.2l-89.9 0Z" transform="translate(160.025 61)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr29-cls-56"/>
+<path d="M0 7L25 7" transform="translate(161.025 60.6)" fill="#000" stroke="#0284c7" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr29-cls-56"/>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.4A5.6 5.6 0 0 1 18.1 7" transform="translate(161.025 60.6)" fill="#fff" stroke="#0284c7" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr29-cls-56"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(161.025 60.6)" fill="#17212b">All activity</text>
+<path d="M-1 0.4l80 0l0 13.2l-79.9 0Z" transform="translate(161.025 60.6)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" class="zr29-cls-59"/>
+<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr29-cls-56"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#17212b">Daily activity</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#536170">30/30 days available; Asia/Shanghai</text>
+<defs>
+<clipPath id="zr29-c0">
+<path d="M109 99l262 0l0 147l-262 0Z" fill="#000" class="zr29-cls-57"/>
+</clipPath>
+</defs>
+<style><![CDATA[
+.zr29-cls-56:hover {
+pointer-events:none;
+}
+.zr29-cls-57:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr29-cls-58:hover {
+cursor:pointer;
+}
+.zr29-cls-59:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+<title id="daily-title">Daily activity</title><desc id="daily-description">每日全部活动小时；缺失日期保留间隔。 30/30 days available; Asia/Shanghai </desc></svg>

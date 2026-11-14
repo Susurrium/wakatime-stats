@@ -1,0 +1,15 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 400 300" role="img" aria-labelledby="goals-title goals-description">
+<rect width="400" height="300" x="0" y="0" fill="#ffffff"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(24 144)" fill="#536170">No goals selected for public display.</text>
+<path d="M-5 -5l149 0l0 47l-149 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr81-cls-541"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#17212b">Programming goals</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="31.5" transform="translate(27 21)" fill="#536170">Unavailable</text>
+<style><![CDATA[
+.zr81-cls-541:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+<title id="goals-title">Programming goals</title><desc id="goals-description">已允许公开的目标，显示最近一期实际活动与目标小时。 30/30 days available; Asia/Shanghai No goals selected for public display.</desc></svg>

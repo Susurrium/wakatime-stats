@@ -1,0 +1,42 @@
+<svg width="800" height="360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 360" role="img" aria-labelledby="overview-title overview-description">
+<rect width="800" height="360" x="0" y="0" fill="#111820"/>
+<path d="M155.5 100L155.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr2-cls-4"/>
+<path d="M240.5 100L240.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr2-cls-4"/>
+<path d="M325.5 100L325.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr2-cls-4"/>
+<path d="M411.5 100L411.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr2-cls-4"/>
+<path d="M496.5 100L496.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr2-cls-4"/>
+<path d="M581.5 100L581.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr2-cls-4"/>
+<path d="M666.5 100L666.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr2-cls-4"/>
+<path d="M752.5 100L752.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr2-cls-4"/>
+<path d="M155.5 305L155.5 100" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr2-cls-4"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(766.88 305)" fill="#a6b3c1">hours</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" transform="translate(147 270.8333)" fill="#a6b3c1">AI Coding</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 202.5)" fill="#a6b3c1">Coding</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" transform="translate(147 134.1667)" fill="#a6b3c1">All activity</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(155 313)" fill="#a6b3c1">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(240.2686 313)" fill="#a6b3c1">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(325.5371 313)" fill="#a6b3c1">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(410.8057 313)" fill="#a6b3c1">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(496.0743 313)" fill="#a6b3c1">40</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(581.3429 313)" fill="#a6b3c1">50</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(666.6114 313)" fill="#a6b3c1">60</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(751.88 313)" fill="#a6b3c1">70</text>
+<path d="M155 257.8l530.2 0l0 26l-530.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr2-cls-5"/>
+<path d="M155 189.5l42.5 0l0 26l-42.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr2-cls-5"/>
+<path d="M155 121.2l574.3 0l0 26l-574.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr2-cls-5"/>
+<path d="M-5 -5l188.2 0l0 50l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr2-cls-4"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="9.5" transform="translate(27 21)" fill="#edf2f7">Activity overview</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#a6b3c1">Through 2026-11-14; Asia/Shanghai</text>
+<style><![CDATA[
+.zr2-cls-4:hover {
+pointer-events:none;
+}
+.zr2-cls-5:hover {
+cursor:pointer;
+fill:rgba(61,207,255,1);
+}
+
+]]>
+
+</style>
+<title id="overview-title">Activity overview</title><desc id="overview-description">累计全部活动、Coding 与 AI Coding 分类时长。 Through 2026-11-14; Asia/Shanghai </desc></svg>

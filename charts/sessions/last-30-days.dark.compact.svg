@@ -1,0 +1,74 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 400 300" role="img" aria-labelledby="sessions-title sessions-description">
+<rect width="400" height="300" x="0" y="0" fill="#111820"/>
+<path d="M110 245.5L370 245.5" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M110 216.5L370 216.5" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M110 187.5L370 187.5" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M110 158.5L370 158.5" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M110 129.5L370 129.5" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M110 100.5L370 100.5" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="-6" transform="translate(110 85)" fill="#a6b3c1">count</text>
+<path d="M110 245.5L370 245.5" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr75-cls-520"/>
+<path d="M110.5 245L110.5 250" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M155.5 245L155.5 250" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M199.5 245L199.5 250" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M244.5 245L244.5 250" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M289.5 245L289.5 250" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<path d="M334.5 245L334.5 250" fill="none" pointer-events="visible" stroke="#344251" class="zr75-cls-520"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 245)" fill="#a6b3c1">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 216)" fill="#a6b3c1">30</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 187)" fill="#a6b3c1">60</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 158)" fill="#a6b3c1">90</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 129)" fill="#a6b3c1">120</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 100)" fill="#a6b3c1">150</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(110 253)" fill="#a6b3c1">10-17</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(154.8276 253)" fill="#a6b3c1">10-22</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(199.6552 253)" fill="#a6b3c1">10-27</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(244.4828 253)" fill="#a6b3c1">11-01</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(289.3103 253)" fill="#a6b3c1">11-06</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(334.1379 253)" fill="#a6b3c1">11-11</text>
+<g clip-path="url(#zr75-c0)">
+<path d="M110 245L119 245L127.9 245L136.9 244L145.9 244L154.8 243.1L163.8 244L172.8 244L181.7 244L190.7 241.1L199.7 227.6L208.6 236.3L217.6 216L226.6 237.3L235.5 244L244.5 232.4L253.4 235.3L262.4 232.4L271.4 240.2L280.3 224.7L289.3 238.2L298.3 198.6L307.2 222.8L316.2 220.8L325.2 232.4L334.1 236.3L343.1 236.3L352.1 237.3L361 237.3L370 240.2" fill="none" pointer-events="visible" stroke="#38bdf8" stroke-width="2" stroke-linejoin="bevel" class="zr75-cls-522"/>
+</g>
+<g clip-path="url(#zr75-c1)">
+<path d="M110 245L119 245L127.9 245L136.9 244L145.9 242.1L154.8 243.1L163.8 245L172.8 234.4L181.7 244L190.7 235.3L199.7 203.4L208.6 225.7L217.6 188L226.6 224.7L235.5 244L244.5 217.9L253.4 223.7L262.4 226.6L271.4 232.4L280.3 165.7L289.3 234.4L298.3 165.7L307.2 194.7L316.2 117.4L325.2 189.9L334.1 225.7L343.1 193.8L352.1 222.8L361 233.4L370 227.6" fill="none" pointer-events="visible" stroke="#34d399" stroke-width="2" stroke-linejoin="bevel" class="zr75-cls-522"/>
+</g>
+<path d="M-5 -5l165.8 0l0 23.2l-165.8 0Z" transform="translate(122.1 61)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr75-cls-520"/>
+<path d="M0 7L25 7" transform="translate(123.1 60.6)" fill="#000" stroke="#38bdf8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr75-cls-520"/>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.4A5.6 5.6 0 0 1 18.1 7" transform="translate(123.1 60.6)" fill="#fff" stroke="#38bdf8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr75-cls-520"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" x="30" y="7" transform="translate(123.1 60.6)" fill="#edf2f7">Sessions</text>
+<path d="M-1 0.4l75.8 0l0 13.2l-75.8 0Z" transform="translate(123.1 60.6)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" class="zr75-cls-523"/>
+<path d="M0 7L25 7" transform="translate(206.87 60.6)" fill="#000" stroke="#34d399" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr75-cls-520"/>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.4A5.6 5.6 0 0 1 18.1 7" transform="translate(206.87 60.6)" fill="#fff" stroke="#34d399" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr75-cls-520"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" x="30" y="7" transform="translate(206.87 60.6)" fill="#edf2f7">Prompts</text>
+<path d="M-1 0.4l72 0l0 13.2l-72 0Z" transform="translate(206.87 60.6)" fill="none" pointer-events="visible" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" class="zr75-cls-523"/>
+<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr75-cls-520"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#edf2f7">AI sessions and prompts</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#a6b3c1">30/30 days available; Asia/Shanghai</text>
+<defs>
+<clipPath id="zr75-c0">
+<path d="M109 99l262 0l0 147l-262 0Z" fill="#000" class="zr75-cls-521"/>
+</clipPath>
+<clipPath id="zr75-c1">
+<path d="M109 99l262 0l0 147l-262 0Z" fill="#000" class="zr75-cls-521"/>
+</clipPath>
+</defs>
+<style><![CDATA[
+.zr75-cls-520:hover {
+pointer-events:none;
+}
+.zr75-cls-521:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr75-cls-522:hover {
+cursor:pointer;
+}
+.zr75-cls-523:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+<title id="sessions-title">AI sessions and prompts</title><desc id="sessions-description">每日会话数与提示次数；跨日会话分别按当天来源统计。 30/30 days available; Asia/Shanghai </desc></svg>

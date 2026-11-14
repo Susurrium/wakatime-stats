@@ -1,0 +1,30 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 400 300" role="img" aria-labelledby="summary-title summary-description">
+<rect width="400" height="300" x="0" y="0" fill="#ffffff"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(32 110)" fill="#17212b">Activity hours</text>
+<path d="M0 0l37.2 0l0 24l-37.2 0Z" transform="translate(32 136)" fill="none" pointer-events="visible" class="zr5-cls-10"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(32 136)" fill="#17212b">72.0</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(216 110)" fill="#17212b">Daily average hours</text>
+<path d="M0 0l26.6 0l0 24l-26.6 0Z" transform="translate(216 136)" fill="none" pointer-events="visible" class="zr5-cls-10"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(216 136)" fill="#17212b">2.4</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(32 210)" fill="#17212b">Active days</text>
+<path d="M0 0l21.3 0l0 24l-21.3 0Z" transform="translate(32 236)" fill="none" pointer-events="visible" class="zr5-cls-10"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(32 236)" fill="#17212b">26</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(216 210)" fill="#17212b">Best day</text>
+<path d="M0 0l125 0l0 48l-125 0Z" transform="translate(216 236)" fill="none" pointer-events="visible" class="zr5-cls-10"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(216 236)" fill="#17212b">2026-11-09</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" xml:space="preserve" y="36" transform="translate(216 236)" fill="#17212b">10 hrs 39 mins</text>
+<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr5-cls-11"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#17212b">Recent activity summary</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#536170">30/30 days available; Asia/Shanghai</text>
+<style><![CDATA[
+.zr5-cls-10:hover {
+cursor:pointer;
+}
+.zr5-cls-11:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+<title id="summary-title">Recent activity summary</title><desc id="summary-description">最近 30 天已取得记录的总活动、按记录天数计算的日均、活跃天数和最高活动日。 30/30 days available; Asia/Shanghai </desc></svg>

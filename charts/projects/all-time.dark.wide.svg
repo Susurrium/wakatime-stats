@@ -1,0 +1,15 @@
+<svg width="800" height="360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 360" role="img" aria-labelledby="projects-title projects-description">
+<rect width="800" height="360" x="0" y="0" fill="#111820"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(24 174)" fill="#a6b3c1">No projects selected for public display.</text>
+<path d="M-5 -5l133.9 0l0 50l-133.9 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr22-cls-42"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="9.5" transform="translate(27 21)" fill="#edf2f7">Public projects</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="34.5" transform="translate(27 21)" fill="#a6b3c1">Unavailable</text>
+<style><![CDATA[
+.zr22-cls-42:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+<title id="projects-title">Public projects</title><desc id="projects-description">按累计活动小时排列，显示前十项。 Through 2026-11-14; Asia/Shanghai No projects selected for public display.</desc></svg>

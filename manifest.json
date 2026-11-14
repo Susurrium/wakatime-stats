@@ -1,0 +1,1068 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-14T19:29:13.952Z",
+  "sourceUpdatedAt": "2026-11-14T17:08:23.000Z",
+  "timezone": "Asia/Shanghai",
+  "timeout": 15,
+  "writesOnly": false,
+  "sourceRange": {
+    "start": "2026-09-08T16:00:00.000Z",
+    "end": "2026-11-14T15:59:59.000Z",
+    "includingToday": false
+  },
+  "sources": {
+    "summaries": {
+      "status": "ready",
+      "reason": null
+    },
+    "durations": {
+      "status": "ready",
+      "reason": null
+    },
+    "goals": {
+      "status": "ready",
+      "reason": null
+    }
+  },
+  "baseUrl": "https://raw.githubusercontent.com/Susurrium/wakatime-stats/main/",
+  "entries": [
+    {
+      "id": "badge-coding",
+      "title": "Code Time",
+      "description": "Code Time 累计时长，对应 Coding 分类。",
+      "group": "badges",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "variants": [
+        {
+          "theme": "neutral",
+          "size": "badge",
+          "width": 156,
+          "height": 20,
+          "svg": "badges/coding/all-time.svg",
+          "png": "badges/coding/all-time.png"
+        }
+      ]
+    },
+    {
+      "id": "badge-ai-coding",
+      "title": "AI Code Time",
+      "description": "AI Code Time 累计时长，对应 AI Coding 分类。",
+      "group": "badges",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "variants": [
+        {
+          "theme": "neutral",
+          "size": "badge",
+          "width": 178,
+          "height": 20,
+          "svg": "badges/ai-coding/all-time.svg",
+          "png": "badges/ai-coding/all-time.png"
+        }
+      ]
+    },
+    {
+      "id": "badge-total-activity",
+      "title": "Total Activity",
+      "description": "Total Activity 累计时长，包含所有活动分类与 Other 语言。",
+      "group": "badges",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "variants": [
+        {
+          "theme": "neutral",
+          "size": "badge",
+          "width": 176,
+          "height": 20,
+          "svg": "badges/total-activity/all-time.svg",
+          "png": "badges/total-activity/all-time.png"
+        }
+      ]
+    },
+    {
+      "id": "badge-editors/Q29kZXggVnNjb2Rl",
+      "title": "Codex Vscode",
+      "description": "编辑器来源 Codex Vscode 的累计时长。",
+      "group": "badges",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "variants": [
+        {
+          "theme": "neutral",
+          "size": "badge",
+          "width": 174,
+          "height": 20,
+          "svg": "badges/editors/Q29kZXggVnNjb2Rl/all-time.svg",
+          "png": "badges/editors/Q29kZXggVnNjb2Rl/all-time.png"
+        }
+      ]
+    },
+    {
+      "id": "badge-editors/VlMgQ29kZQ",
+      "title": "VS Code",
+      "description": "编辑器来源 VS Code 的累计时长。",
+      "group": "badges",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "variants": [
+        {
+          "theme": "neutral",
+          "size": "badge",
+          "width": 144,
+          "height": 20,
+          "svg": "badges/editors/VlMgQ29kZQ/all-time.svg",
+          "png": "badges/editors/VlMgQ29kZQ/all-time.png"
+        }
+      ]
+    },
+    {
+      "id": "badge-editors/Q29kZXggQ0xJ",
+      "title": "Codex CLI",
+      "description": "编辑器来源 Codex CLI 的累计时长。",
+      "group": "badges",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "variants": [
+        {
+          "theme": "neutral",
+          "size": "badge",
+          "width": 154,
+          "height": 20,
+          "svg": "badges/editors/Q29kZXggQ0xJ/all-time.svg",
+          "png": "badges/editors/Q29kZXggQ0xJ/all-time.png"
+        }
+      ]
+    },
+    {
+      "id": "overview",
+      "title": "Activity overview",
+      "description": "累计全部活动、Coding 与 AI Coding 分类时长。",
+      "group": "activity",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "Through 2026-11-14; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/overview/all-time.light.wide.svg",
+          "png": "charts/overview/all-time.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/overview/all-time.light.compact.svg",
+          "png": "charts/overview/all-time.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/overview/all-time.dark.wide.svg",
+          "png": "charts/overview/all-time.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/overview/all-time.dark.compact.svg",
+          "png": "charts/overview/all-time.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "Recent activity summary",
+      "description": "最近 30 天已取得记录的总活动、按记录天数计算的日均、活跃天数和最高活动日。",
+      "group": "activity",
+      "range": "last-30-days",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/summary/last-30-days.light.wide.svg",
+          "png": "charts/summary/last-30-days.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/summary/last-30-days.light.compact.svg",
+          "png": "charts/summary/last-30-days.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/summary/last-30-days.dark.wide.svg",
+          "png": "charts/summary/last-30-days.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/summary/last-30-days.dark.compact.svg",
+          "png": "charts/summary/last-30-days.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "languages",
+      "title": "Languages",
+      "description": "按累计活动小时排列，显示前十项。",
+      "group": "breakdown",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "Through 2026-11-14; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/languages/all-time.light.wide.svg",
+          "png": "charts/languages/all-time.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/languages/all-time.light.compact.svg",
+          "png": "charts/languages/all-time.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/languages/all-time.dark.wide.svg",
+          "png": "charts/languages/all-time.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/languages/all-time.dark.compact.svg",
+          "png": "charts/languages/all-time.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "editors",
+      "title": "Editors",
+      "description": "按累计活动小时排列，显示前十项。",
+      "group": "breakdown",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "Through 2026-11-14; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/editors/all-time.light.wide.svg",
+          "png": "charts/editors/all-time.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/editors/all-time.light.compact.svg",
+          "png": "charts/editors/all-time.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/editors/all-time.dark.wide.svg",
+          "png": "charts/editors/all-time.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/editors/all-time.dark.compact.svg",
+          "png": "charts/editors/all-time.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "categories",
+      "title": "Activity categories",
+      "description": "按累计活动小时排列，显示前十项。",
+      "group": "breakdown",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "Through 2026-11-14; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/categories/all-time.light.wide.svg",
+          "png": "charts/categories/all-time.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/categories/all-time.light.compact.svg",
+          "png": "charts/categories/all-time.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/categories/all-time.dark.wide.svg",
+          "png": "charts/categories/all-time.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/categories/all-time.dark.compact.svg",
+          "png": "charts/categories/all-time.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "title": "Public projects",
+      "description": "按累计活动小时排列，显示前十项。",
+      "group": "breakdown",
+      "range": "all-time",
+      "status": "unavailable",
+      "reason": "No projects selected for public display.",
+      "subtitle": "Through 2026-11-14; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/projects/all-time.light.wide.svg",
+          "png": "charts/projects/all-time.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/projects/all-time.light.compact.svg",
+          "png": "charts/projects/all-time.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/projects/all-time.dark.wide.svg",
+          "png": "charts/projects/all-time.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/projects/all-time.dark.compact.svg",
+          "png": "charts/projects/all-time.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "operating-systems",
+      "title": "Operating systems",
+      "description": "按累计活动小时排列，显示前十项。",
+      "group": "breakdown",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "Through 2026-11-14; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/operating-systems/all-time.light.wide.svg",
+          "png": "charts/operating-systems/all-time.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/operating-systems/all-time.light.compact.svg",
+          "png": "charts/operating-systems/all-time.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/operating-systems/all-time.dark.wide.svg",
+          "png": "charts/operating-systems/all-time.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/operating-systems/all-time.dark.compact.svg",
+          "png": "charts/operating-systems/all-time.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "daily",
+      "title": "Daily activity",
+      "description": "每日全部活动小时；缺失日期保留间隔。",
+      "group": "activity",
+      "range": "last-30-days",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/daily/last-30-days.light.wide.svg",
+          "png": "charts/daily/last-30-days.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/daily/last-30-days.light.compact.svg",
+          "png": "charts/daily/last-30-days.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/daily/last-30-days.dark.wide.svg",
+          "png": "charts/daily/last-30-days.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/daily/last-30-days.dark.compact.svg",
+          "png": "charts/daily/last-30-days.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "coding-trend",
+      "title": "Coding and AI Coding",
+      "description": "每日 Coding 与 AI Coding 分类小时。",
+      "group": "activity",
+      "range": "last-30-days",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/coding-trend/last-30-days.light.wide.svg",
+          "png": "charts/coding-trend/last-30-days.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/coding-trend/last-30-days.light.compact.svg",
+          "png": "charts/coding-trend/last-30-days.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/coding-trend/last-30-days.dark.wide.svg",
+          "png": "charts/coding-trend/last-30-days.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/coding-trend/last-30-days.dark.compact.svg",
+          "png": "charts/coding-trend/last-30-days.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "weekdays",
+      "title": "Activity by weekday",
+      "description": "最近 30 天各星期的平均活动小时，分母仅含已取得数据的日期。",
+      "group": "activity",
+      "range": "last-30-days",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/weekdays/last-30-days.light.wide.svg",
+          "png": "charts/weekdays/last-30-days.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/weekdays/last-30-days.light.compact.svg",
+          "png": "charts/weekdays/last-30-days.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/weekdays/last-30-days.dark.wide.svg",
+          "png": "charts/weekdays/last-30-days.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/weekdays/last-30-days.dark.compact.svg",
+          "png": "charts/weekdays/last-30-days.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "calendar",
+      "title": "2026 activity calendar",
+      "description": "每天的全部活动小时，空白表示尚无已验证记录。",
+      "group": "activity",
+      "range": "2026",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "68/68 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/calendar/2026.light.wide.svg",
+          "png": "charts/calendar/2026.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 860,
+          "svg": "charts/calendar/2026.light.compact.svg",
+          "png": "charts/calendar/2026.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/calendar/2026.dark.wide.svg",
+          "png": "charts/calendar/2026.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 860,
+          "svg": "charts/calendar/2026.dark.compact.svg",
+          "png": "charts/calendar/2026.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "hours",
+      "title": "Activity by hour",
+      "description": "已取得的日内活动区间按本地小时切分；重叠区间沿用来源统计口径。",
+      "group": "activity",
+      "range": "recent-hours",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "2026-11-09 to 2026-11-15; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/hours/recent-hours.light.wide.svg",
+          "png": "charts/hours/recent-hours.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/hours/recent-hours.light.compact.svg",
+          "png": "charts/hours/recent-hours.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/hours/recent-hours.dark.wide.svg",
+          "png": "charts/hours/recent-hours.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/hours/recent-hours.dark.compact.svg",
+          "png": "charts/hours/recent-hours.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "code-changes",
+      "title": "Code additions and deletions",
+      "description": "来源报告的 AI 与人工代码新增、删除行数。",
+      "group": "ai",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "Through 2026-11-14; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/code-changes/all-time.light.wide.svg",
+          "png": "charts/code-changes/all-time.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/code-changes/all-time.light.compact.svg",
+          "png": "charts/code-changes/all-time.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/code-changes/all-time.dark.wide.svg",
+          "png": "charts/code-changes/all-time.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/code-changes/all-time.dark.compact.svg",
+          "png": "charts/code-changes/all-time.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "models",
+      "title": "AI model code changes",
+      "description": "按模型报告的指标排行。",
+      "group": "ai",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "Through 2026-11-14; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/models/all-time.light.wide.svg",
+          "png": "charts/models/all-time.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/models/all-time.light.compact.svg",
+          "png": "charts/models/all-time.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/models/all-time.dark.wide.svg",
+          "png": "charts/models/all-time.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/models/all-time.dark.compact.svg",
+          "png": "charts/models/all-time.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "model-costs",
+      "title": "Estimated AI model cost",
+      "description": "按来源 Token 价格估算的美元费用。",
+      "group": "ai",
+      "range": "all-time",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "Through 2026-11-14; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/model-costs/all-time.light.wide.svg",
+          "png": "charts/model-costs/all-time.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/model-costs/all-time.light.compact.svg",
+          "png": "charts/model-costs/all-time.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/model-costs/all-time.dark.wide.svg",
+          "png": "charts/model-costs/all-time.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/model-costs/all-time.dark.compact.svg",
+          "png": "charts/model-costs/all-time.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "model-input-tokens",
+      "title": "AI model input tokens",
+      "description": "最近 30 天每日汇总中可用的模型 Token 累计量。",
+      "group": "ai",
+      "range": "last-30-days",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/model-input-tokens/last-30-days.light.wide.svg",
+          "png": "charts/model-input-tokens/last-30-days.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/model-input-tokens/last-30-days.light.compact.svg",
+          "png": "charts/model-input-tokens/last-30-days.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/model-input-tokens/last-30-days.dark.wide.svg",
+          "png": "charts/model-input-tokens/last-30-days.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/model-input-tokens/last-30-days.dark.compact.svg",
+          "png": "charts/model-input-tokens/last-30-days.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "model-output-tokens",
+      "title": "AI model output tokens",
+      "description": "最近 30 天每日汇总中可用的模型 Token 累计量。",
+      "group": "ai",
+      "range": "last-30-days",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/model-output-tokens/last-30-days.light.wide.svg",
+          "png": "charts/model-output-tokens/last-30-days.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/model-output-tokens/last-30-days.light.compact.svg",
+          "png": "charts/model-output-tokens/last-30-days.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/model-output-tokens/last-30-days.dark.wide.svg",
+          "png": "charts/model-output-tokens/last-30-days.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/model-output-tokens/last-30-days.dark.compact.svg",
+          "png": "charts/model-output-tokens/last-30-days.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "token-trend",
+      "title": "AI tokens per day",
+      "description": "每日输入与输出 Token，缺失字段保留空白。",
+      "group": "ai",
+      "range": "last-30-days",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/token-trend/last-30-days.light.wide.svg",
+          "png": "charts/token-trend/last-30-days.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/token-trend/last-30-days.light.compact.svg",
+          "png": "charts/token-trend/last-30-days.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/token-trend/last-30-days.dark.wide.svg",
+          "png": "charts/token-trend/last-30-days.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/token-trend/last-30-days.dark.compact.svg",
+          "png": "charts/token-trend/last-30-days.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "sessions",
+      "title": "AI sessions and prompts",
+      "description": "每日会话数与提示次数；跨日会话分别按当天来源统计。",
+      "group": "ai",
+      "range": "last-30-days",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/sessions/last-30-days.light.wide.svg",
+          "png": "charts/sessions/last-30-days.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/sessions/last-30-days.light.compact.svg",
+          "png": "charts/sessions/last-30-days.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/sessions/last-30-days.dark.wide.svg",
+          "png": "charts/sessions/last-30-days.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/sessions/last-30-days.dark.compact.svg",
+          "png": "charts/sessions/last-30-days.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "prompt-length",
+      "title": "AI prompt length",
+      "description": "每日提示平均字符数及按会话汇总的中位数。",
+      "group": "ai",
+      "range": "last-30-days",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/prompt-length/last-30-days.light.wide.svg",
+          "png": "charts/prompt-length/last-30-days.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/prompt-length/last-30-days.light.compact.svg",
+          "png": "charts/prompt-length/last-30-days.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/prompt-length/last-30-days.dark.wide.svg",
+          "png": "charts/prompt-length/last-30-days.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/prompt-length/last-30-days.dark.compact.svg",
+          "png": "charts/prompt-length/last-30-days.dark.compact.png"
+        }
+      ]
+    },
+    {
+      "id": "goals",
+      "title": "Programming goals",
+      "description": "已允许公开的目标，显示最近一期实际活动与目标小时。",
+      "group": "goals",
+      "range": "current-period",
+      "status": "unavailable",
+      "reason": "No goals selected for public display.",
+      "subtitle": "30/30 days available; Asia/Shanghai",
+      "variants": [
+        {
+          "theme": "light",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/goals/current-period.light.wide.svg",
+          "png": "charts/goals/current-period.light.wide.png"
+        },
+        {
+          "theme": "light",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/goals/current-period.light.compact.svg",
+          "png": "charts/goals/current-period.light.compact.png"
+        },
+        {
+          "theme": "dark",
+          "size": "wide",
+          "width": 800,
+          "height": 360,
+          "svg": "charts/goals/current-period.dark.wide.svg",
+          "png": "charts/goals/current-period.dark.wide.png"
+        },
+        {
+          "theme": "dark",
+          "size": "compact",
+          "width": 400,
+          "height": 300,
+          "svg": "charts/goals/current-period.dark.compact.svg",
+          "png": "charts/goals/current-period.dark.compact.png"
+        }
+      ]
+    }
+  ]
+}
