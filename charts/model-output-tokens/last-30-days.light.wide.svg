@@ -21,7 +21,7 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(706.16 313)" fill="#536170">6,000,000</text>
 <path d="M155 258.8l0 0l0 24l0 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr64-cls-485"/>
 <path d="M155 190.5l72.3 0l0 24l-72.3 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr64-cls-485"/>
-<path d="M155 122.2l465.6 0l0 24l-465.6 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr64-cls-485"/>
+<path d="M155 122.2l466.4 0l0 24l-466.4 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr64-cls-485"/>
 <path d="M-5 -5l205.3 0l0 50l-205.3 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr64-cls-484"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="9.5" transform="translate(27 21)" fill="#17212b">AI model output tokens</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#536170">30/30 days available; Asia/Shanghai</text>

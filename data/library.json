@@ -3,7 +3,7 @@
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
-  "fetchedAt": "2026-11-14T19:29:13.952Z",
+  "fetchedAt": "2026-11-14T19:32:58.075Z",
   "sourceUpdatedAt": "2026-11-14T17:08:23.000Z",
   "privacyHash": "d827049039f82a8b65a9b0f52e637cf3bc5d1e0dec7d6198edf901a5e3dcae7d",
   "sourceRange": {
@@ -2894,7 +2894,7 @@
     },
     {
       "date": "2026-11-09",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-14T19:32:58.075Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2990,7 +2990,7 @@
     },
     {
       "date": "2026-11-10",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-14T19:32:58.075Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3086,7 +3086,7 @@
     },
     {
       "date": "2026-11-11",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-14T19:32:58.075Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3178,7 +3178,7 @@
     },
     {
       "date": "2026-11-12",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-14T19:32:58.075Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3266,7 +3266,7 @@
     },
     {
       "date": "2026-11-13",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-14T19:32:58.075Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3338,7 +3338,7 @@
     },
     {
       "date": "2026-11-14",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-14T19:32:58.075Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3430,17 +3430,17 @@
     },
     {
       "date": "2026-11-15",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-14T19:32:58.075Z",
       "categories": [
         {
           "name": "AI Coding",
-          "seconds": 6183.359
+          "seconds": 6522.914
         }
       ],
       "editors": [
         {
           "name": "Codex Vscode",
-          "seconds": 6153.878
+          "seconds": 6493.433
         },
         {
           "name": "Codex CLI",
@@ -3450,11 +3450,11 @@
       "languages": [
         {
           "name": "Markdown",
-          "seconds": 2191.344
+          "seconds": 2221.17
         },
         {
           "name": "Other",
-          "seconds": 1269.888
+          "seconds": 1579.617
         },
         {
           "name": "JavaScript",
@@ -3489,33 +3489,33 @@
       "operatingSystems": [
         {
           "name": "Windows",
-          "seconds": 6183.359
+          "seconds": 6522.914
         }
       ],
-      "totalSeconds": 6183.359,
+      "totalSeconds": 6522.914,
       "ai": {
-        "ai_additions": 1438,
+        "ai_additions": 1445,
         "ai_deletions": 61,
         "human_additions": 0,
         "human_deletions": 0,
-        "ai_input_tokens": 1985626,
-        "ai_output_tokens": 553473,
+        "ai_input_tokens": 2006167,
+        "ai_output_tokens": 561441,
         "ai_sessions": 5,
-        "ai_prompt_events_total": 18,
-        "ai_prompt_length_avg": 763,
-        "ai_prompt_length_avg_per_session": 2089,
-        "ai_prompt_length_median_per_session": 315,
+        "ai_prompt_events_total": 22,
+        "ai_prompt_length_avg": 628,
+        "ai_prompt_length_avg_per_session": 2065,
+        "ai_prompt_length_median_per_session": 198,
         "ai_prompt_events_avg_per_session": 4,
         "ai_prompt_events_median_per_session": 4,
-        "ai_model_total_cost": 20.967703,
+        "ai_model_total_cost": 21.761707,
         "models": [
           {
             "name": "GPT",
-            "lines": 1499,
-            "cost": 20.967703,
-            "input_tokens": 1985626,
-            "output_tokens": 553473,
-            "cached_input_tokens": 114617216
+            "lines": 1506,
+            "cost": 21.761707,
+            "input_tokens": 2006167,
+            "output_tokens": 561441,
+            "cached_input_tokens": 121349632
           },
           {
             "name": "Codex-Vscode",
@@ -3710,7 +3710,7 @@
         1437.134,
         1687.8,
         1827.785,
-        1230.64,
+        1570.195,
         0,
         0,
         0,

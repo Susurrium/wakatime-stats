@@ -168,7 +168,7 @@
 <path d="M109.8 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(138,193,222)" ecmeta_series_index="0" ecmeta_data_index="144" ecmeta_ssr_type="chart" class="zr45-cls-317"/>
 <path d="M120.6 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(123,186,219)" ecmeta_series_index="0" ecmeta_data_index="145" ecmeta_ssr_type="chart" class="zr45-cls-318"/>
 <path d="M131.4 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(114,182,218)" ecmeta_series_index="0" ecmeta_data_index="146" ecmeta_ssr_type="chart" class="zr45-cls-319"/>
-<path d="M142.3 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(151,198,224)" ecmeta_series_index="0" ecmeta_data_index="147" ecmeta_ssr_type="chart" class="zr45-cls-320"/>
+<path d="M142.3 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(130,189,220)" ecmeta_series_index="0" ecmeta_data_index="147" ecmeta_ssr_type="chart" class="zr45-cls-320"/>
 <path d="M153.1 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(229,233,237)" ecmeta_series_index="0" ecmeta_data_index="148" ecmeta_ssr_type="chart" class="zr45-cls-267"/>
 <path d="M163.9 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(229,233,237)" ecmeta_series_index="0" ecmeta_data_index="149" ecmeta_ssr_type="chart" class="zr45-cls-267"/>
 <path d="M174.8 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(229,233,237)" ecmeta_series_index="0" ecmeta_data_index="150" ecmeta_ssr_type="chart" class="zr45-cls-267"/>
@@ -638,7 +638,7 @@ fill:rgba(125,200,239,1);
 }
 .zr45-cls-320:hover {
 cursor:pointer;
-fill:rgba(166,217,246,1);
+fill:rgba(143,207,242,1);
 }
 .zr45-cls-321:hover {
 cursor:pointer;

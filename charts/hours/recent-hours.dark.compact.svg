@@ -168,7 +168,7 @@
 <path d="M109.8 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(54,115,148)" ecmeta_series_index="0" ecmeta_data_index="144" ecmeta_ssr_type="chart" class="zr47-cls-437"/>
 <path d="M120.6 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(54,124,159)" ecmeta_series_index="0" ecmeta_data_index="145" ecmeta_ssr_type="chart" class="zr47-cls-438"/>
 <path d="M131.4 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(54,128,166)" ecmeta_series_index="0" ecmeta_data_index="146" ecmeta_ssr_type="chart" class="zr47-cls-439"/>
-<path d="M142.3 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(53,108,138)" ecmeta_series_index="0" ecmeta_data_index="147" ecmeta_ssr_type="chart" class="zr47-cls-440"/>
+<path d="M142.3 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(54,120,154)" ecmeta_series_index="0" ecmeta_data_index="147" ecmeta_ssr_type="chart" class="zr47-cls-440"/>
 <path d="M153.1 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(52,66,81)" ecmeta_series_index="0" ecmeta_data_index="148" ecmeta_ssr_type="chart" class="zr47-cls-388"/>
 <path d="M163.9 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(52,66,81)" ecmeta_series_index="0" ecmeta_data_index="149" ecmeta_ssr_type="chart" class="zr47-cls-388"/>
 <path d="M174.8 99.8l11.3 0l0 21.2l-11.3 0Z" fill="rgb(52,66,81)" ecmeta_series_index="0" ecmeta_data_index="150" ecmeta_ssr_type="chart" class="zr47-cls-388"/>
@@ -634,7 +634,7 @@ fill:rgba(59,140,182,1);
 }
 .zr47-cls-440:hover {
 cursor:pointer;
-fill:rgba(58,118,151,1);
+fill:rgba(59,132,169,1);
 }
 .zr47-cls-441:hover {
 cursor:pointer;
