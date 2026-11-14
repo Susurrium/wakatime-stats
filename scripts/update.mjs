@@ -1,29 +1,25 @@
-import { mkdir, readFile, rename, writeFile } from 'node:fs/promises'
-import { dirname, resolve } from 'node:path'
-import { fileURLToPath } from 'node:url'
-import { fetchStats, makeSnapshot, renderBadges } from './stats.mjs'
-
-const root = fileURLToPath(new URL('../', import.meta.url))
+import { readFile, writeFile } from 'node:fs/promises'
+import { resolve } from 'node:path'
+import { collect } from './data.mjs'
+import { makeSnapshot, renderBadges } from './stats.mjs'
+import { build, exists, publishFiles, root } from './build.mjs'
+import { check } from './check.mjs'
 
 try {
   const config = JSON.parse(await readFile(resolve(root, 'config.json'), 'utf8'))
-  const payload = await fetchStats(process.env.WAKATIME_READ_TOKEN)
-  const snapshot = makeSnapshot(payload, config)
-  // 验证和生成全部成功后才写入；工作流仅提交成功执行的整批产物。
-  const files = renderBadges(snapshot)
-  const staging = resolve(root, 'artifacts/generated')
-  await mkdir(staging, { recursive: true })
-  for (const [name, contents] of Object.entries(files)) {
-    const temporary = resolve(staging, name)
-    const destination = resolve(root, name)
-    await mkdir(dirname(temporary), { recursive: true })
-    await mkdir(dirname(destination), { recursive: true })
-    await writeFile(temporary, contents, 'utf8')
-    await rename(temporary, destination)
-  }
-  console.log(`Updated VS Code: ${snapshot.metrics.vscode.seconds}s; Codex Desktop: ${snapshot.metrics.codexAi.seconds}s; source: ${snapshot.sourceUpdatedAt}`)
+  const historyPath = resolve(root, 'data/library.json')
+  const previous = await exists(historyPath) ? JSON.parse(await readFile(historyPath, 'utf8')) : null
+  const { payload, library } = await collect(process.env.WAKATIME_READ_TOKEN, config, previous)
+  const legacy = renderBadges(makeSnapshot(payload, config, new Date(library.fetchedAt)))
+  const destination = resolve(root, 'artifacts/releases', `${Date.now()}-${process.pid}`)
+  const manifest = await build(library, config, destination)
+  for (const [path, content] of Object.entries(legacy)) await writeFile(resolve(destination, path), content)
+  await check(destination)
+  const paths = ['index.html', 'gallery.css', 'gallery.js', '.nojekyll', 'CATALOG.md', 'manifest.json', 'data/library.json',
+    ...Object.keys(legacy), ...manifest.entries.flatMap((entry) => entry.variants.flatMap((variant) => [variant.svg, variant.png]))]
+  await publishFiles(destination, paths)
+  console.log(`Generated ${manifest.entries.length} charts; source updated ${library.sourceUpdatedAt}`)
 } catch (error) {
-  // 错误只输出诊断消息，不输出请求头和原始统计响应。
   const token = process.env.WAKATIME_READ_TOKEN
   console.error(token ? error.message.replaceAll(token, '[REDACTED]') : error.message)
   process.exitCode = 1
