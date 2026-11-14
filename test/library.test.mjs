@@ -91,6 +91,7 @@ test('真实 SVG 与 PNG 渲染、图表清单和整批检查', async () => {
   assert.ok(manifest.entries.length >= 20)
   assert.equal(manifest.entries.find((entry) => entry.id === 'badge-coding').status, 'ready')
   await check(destination)
+  await check(`${destination}/`)
   const html = await readFile(resolve(destination, 'index.html'), 'utf8')
   assert.match(html, /复制 Markdown/)
   assert.match(html, /name="theme"/)

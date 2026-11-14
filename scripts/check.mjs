@@ -6,6 +6,7 @@ import { DOMParser } from '@xmldom/xmldom'
 import { number } from './data.mjs'
 
 export async function check(root) {
+  root = resolve(root)
   const manifest = JSON.parse(await readFile(resolve(root, 'manifest.json'), 'utf8'))
   const library = JSON.parse(await readFile(resolve(root, 'data/library.json'), 'utf8'))
   if (manifest.schemaVersion !== 1 || library.schemaVersion !== 2 ||
