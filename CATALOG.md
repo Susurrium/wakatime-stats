@@ -112,13 +112,13 @@ Total Activity 累计时长，包含所有活动分类与 Other 语言。
 
 [SVG](charts/categories/all-time.light.wide.svg) · [PNG](charts/categories/all-time.light.wide.png)
 
-## Public projects
+## All projects
 
-按累计活动小时排列，显示前十项。
+按累计活动小时排列，展示 WakaTime 返回的全部项目。
 
-状态 unavailable，范围 all-time。
+状态 ready，范围 all-time。
 
-![Public projects](charts/projects/all-time.light.wide.svg)
+![All projects](charts/projects/all-time.light.wide.svg)
 
 [SVG](charts/projects/all-time.light.wide.svg) · [PNG](charts/projects/all-time.light.wide.png)
 
@@ -262,12 +262,12 @@ Total Activity 累计时长，包含所有活动分类与 Other 语言。
 
 [SVG](charts/prompt-length/last-30-days.light.wide.svg) · [PNG](charts/prompt-length/last-30-days.light.wide.png)
 
-## Programming goals
+## Daily programming goal
 
-已允许公开的目标，显示最近一期实际活动与目标小时。
+WakaTime 中实际启用的每日 3 小时目标，范围包含全部项目、语言和编辑器及每天。
 
-状态 unavailable，范围 current-period。
+状态 ready，范围 current-period。
 
-![Programming goals](charts/goals/current-period.light.wide.svg)
+![Daily programming goal](charts/goals/current-period.light.wide.svg)
 
 [SVG](charts/goals/current-period.light.wide.svg) · [PNG](charts/goals/current-period.light.wide.png)

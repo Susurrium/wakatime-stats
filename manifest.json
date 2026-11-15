@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T01:56:12.682Z",
+  "generatedAt": "2026-11-15T06:04:31.981Z",
   "sourceUpdatedAt": "2026-11-14T17:08:23.000Z",
   "timezone": "Asia/Shanghai",
   "timeout": 15,
@@ -362,19 +362,19 @@
     },
     {
       "id": "projects",
-      "title": "Public projects",
-      "description": "按累计活动小时排列，显示前十项。",
+      "title": "All projects",
+      "description": "按累计活动小时排列，展示 WakaTime 返回的全部项目。",
       "group": "breakdown",
       "range": "all-time",
-      "status": "unavailable",
-      "reason": "No projects selected for public display.",
+      "status": "ready",
+      "reason": null,
       "subtitle": "Through 2026-11-14; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
           "size": "wide",
           "width": 800,
-          "height": 360,
+          "height": 1560,
           "svg": "charts/projects/all-time.light.wide.svg",
           "png": "charts/projects/all-time.light.wide.png"
         },
@@ -382,7 +382,7 @@
           "theme": "light",
           "size": "compact",
           "width": 400,
-          "height": 300,
+          "height": 2030,
           "svg": "charts/projects/all-time.light.compact.svg",
           "png": "charts/projects/all-time.light.compact.png"
         },
@@ -390,7 +390,7 @@
           "theme": "dark",
           "size": "wide",
           "width": 800,
-          "height": 360,
+          "height": 1560,
           "svg": "charts/projects/all-time.dark.wide.svg",
           "png": "charts/projects/all-time.dark.wide.png"
         },
@@ -398,7 +398,7 @@
           "theme": "dark",
           "size": "compact",
           "width": 400,
-          "height": 300,
+          "height": 2030,
           "svg": "charts/projects/all-time.dark.compact.svg",
           "png": "charts/projects/all-time.dark.compact.png"
         }
@@ -1022,13 +1022,13 @@
     },
     {
       "id": "goals",
-      "title": "Programming goals",
-      "description": "已允许公开的目标，显示最近一期实际活动与目标小时。",
+      "title": "Daily programming goal",
+      "description": "WakaTime 中实际启用的每日 3 小时目标，范围包含全部项目、语言和编辑器及每天。",
       "group": "goals",
       "range": "current-period",
-      "status": "unavailable",
-      "reason": "No goals selected for public display.",
-      "subtitle": "30/30 days available; Asia/Shanghai",
+      "status": "ready",
+      "reason": null,
+      "subtitle": "Daily target 3h; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",

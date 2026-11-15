@@ -3,9 +3,9 @@
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
-  "fetchedAt": "2026-11-15T01:56:12.682Z",
+  "fetchedAt": "2026-11-15T06:04:31.981Z",
   "sourceUpdatedAt": "2026-11-14T17:08:23.000Z",
-  "privacyHash": "d827049039f82a8b65a9b0f52e637cf3bc5d1e0dec7d6198edf901a5e3dcae7d",
+  "privacyHash": "de65fae96f3138069d45a745c30c1e574d27355cab5ecc952bbdd98a52f08671",
   "sourceRange": {
     "start": "2026-09-08T16:00:00.000Z",
     "end": "2026-11-14T15:59:59.000Z",
@@ -105,7 +105,196 @@
         "seconds": 1.424
       }
     ],
-    "projects": [],
+    "projects": [
+      {
+        "name": "信息科学中的数学",
+        "seconds": 45378.627
+      },
+      {
+        "name": "生化（一）",
+        "seconds": 23759.48
+      },
+      {
+        "name": "有机",
+        "seconds": 22073.53
+      },
+      {
+        "name": "计概A",
+        "seconds": 21591.639
+      },
+      {
+        "name": "blog_susurrium",
+        "seconds": 19744.105
+      },
+      {
+        "name": "practice",
+        "seconds": 17012.808
+      },
+      {
+        "name": "仪器分析实验",
+        "seconds": 12502.64
+      },
+      {
+        "name": "马原",
+        "seconds": 11822.944
+      },
+      {
+        "name": "new-chat",
+        "seconds": 8910.033
+      },
+      {
+        "name": "生化实验",
+        "seconds": 7565.083
+      },
+      {
+        "name": "vscode-r-r-wakatime-vscode",
+        "seconds": 7380.769
+      },
+      {
+        "name": "有机实验",
+        "seconds": 7340.028
+      },
+      {
+        "name": "R语言",
+        "seconds": 4242.352
+      },
+      {
+        "name": "生物统计",
+        "seconds": 3614.601
+      },
+      {
+        "name": "course",
+        "seconds": 3569.886
+      },
+      {
+        "name": "高数B(一)",
+        "seconds": 3277.181
+      },
+      {
+        "name": "new-chat-2",
+        "seconds": 3163.392
+      },
+      {
+        "name": "wox",
+        "seconds": 1915.058
+      },
+      {
+        "name": "codex",
+        "seconds": 1826.89
+      },
+      {
+        "name": "vscodecch",
+        "seconds": 1754.791
+      },
+      {
+        "name": "20261114十八届大数竞",
+        "seconds": 1640.075
+      },
+      {
+        "name": "grill-me",
+        "seconds": 1555.971
+      },
+      {
+        "name": "商务英语",
+        "seconds": 1526.236
+      },
+      {
+        "name": "word论文排版",
+        "seconds": 1060.159
+      },
+      {
+        "name": "Unknown Project",
+        "seconds": 967.812
+      },
+      {
+        "name": "wode",
+        "seconds": 935.166
+      },
+      {
+        "name": "alphafold-2",
+        "seconds": 884.048
+      },
+      {
+        "name": "wa",
+        "seconds": 808.525
+      },
+      {
+        "name": "PkuHoleStudio",
+        "seconds": 706.16
+      },
+      {
+        "name": "nahimic-dll-vs-code-x20",
+        "seconds": 670.245
+      },
+      {
+        "name": "acs-nano-x20",
+        "seconds": 571.475
+      },
+      {
+        "name": "骑行",
+        "seconds": 518.966
+      },
+      {
+        "name": "rectangle",
+        "seconds": 456.895
+      },
+      {
+        "name": "https-pku-canteen-x9jh8ec0457-qoder-zone",
+        "seconds": 431.13
+      },
+      {
+        "name": "new-chat-3",
+        "seconds": 346.452
+      },
+      {
+        "name": "skills",
+        "seconds": 166.59
+      },
+      {
+        "name": "m",
+        "seconds": 159.44
+      },
+      {
+        "name": "ran",
+        "seconds": 149.546
+      },
+      {
+        "name": "codex-voice",
+        "seconds": 122.815
+      },
+      {
+        "name": "医药产业导论",
+        "seconds": 90.812
+      },
+      {
+        "name": "algorithms",
+        "seconds": 69.199
+      },
+      {
+        "name": "selected-text-selection-1-max-my",
+        "seconds": 64.951
+      },
+      {
+        "name": "github-plugin-github-openai-curated-remote",
+        "seconds": 56.216
+      },
+      {
+        "name": "alphafold",
+        "seconds": 51.555
+      },
+      {
+        "name": "bp",
+        "seconds": 13.807
+      },
+      {
+        "name": "new-chat-4",
+        "seconds": 5.916
+      },
+      {
+        "name": "mod",
+        "seconds": 4.889
+      }
+    ],
     "operatingSystems": [
       {
         "name": "Windows",
@@ -151,7 +340,7 @@
   "days": [
     {
       "date": "2026-09-09",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -170,7 +359,12 @@
           "seconds": 0
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "susurrus",
+          "seconds": 0
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -198,7 +392,7 @@
     },
     {
       "date": "2026-09-10",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -225,7 +419,7 @@
     },
     {
       "date": "2026-09-11",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -252,7 +446,7 @@
     },
     {
       "date": "2026-09-12",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -279,7 +473,7 @@
     },
     {
       "date": "2026-09-13",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -306,7 +500,7 @@
     },
     {
       "date": "2026-09-14",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -333,7 +527,7 @@
     },
     {
       "date": "2026-09-15",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -360,7 +554,7 @@
     },
     {
       "date": "2026-09-16",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -387,7 +581,7 @@
     },
     {
       "date": "2026-09-17",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -414,7 +608,7 @@
     },
     {
       "date": "2026-09-18",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -441,7 +635,7 @@
     },
     {
       "date": "2026-09-19",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -468,7 +662,7 @@
     },
     {
       "date": "2026-09-20",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -495,7 +689,7 @@
     },
     {
       "date": "2026-09-21",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -522,7 +716,7 @@
     },
     {
       "date": "2026-09-22",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -549,7 +743,7 @@
     },
     {
       "date": "2026-09-23",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -576,7 +770,7 @@
     },
     {
       "date": "2026-09-24",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -603,7 +797,7 @@
     },
     {
       "date": "2026-09-25",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -630,7 +824,7 @@
     },
     {
       "date": "2026-09-26",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -657,7 +851,7 @@
     },
     {
       "date": "2026-09-27",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -684,7 +878,7 @@
     },
     {
       "date": "2026-09-28",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -711,7 +905,7 @@
     },
     {
       "date": "2026-09-29",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -730,7 +924,12 @@
           "seconds": 0
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "susurrus",
+          "seconds": 0
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -758,7 +957,7 @@
     },
     {
       "date": "2026-09-30",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -785,7 +984,7 @@
     },
     {
       "date": "2026-10-01",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -812,7 +1011,7 @@
     },
     {
       "date": "2026-10-02",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -839,7 +1038,7 @@
     },
     {
       "date": "2026-10-03",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -866,7 +1065,7 @@
     },
     {
       "date": "2026-10-04",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -893,7 +1092,7 @@
     },
     {
       "date": "2026-10-05",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -920,7 +1119,7 @@
     },
     {
       "date": "2026-10-06",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -947,7 +1146,7 @@
     },
     {
       "date": "2026-10-07",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -974,7 +1173,7 @@
     },
     {
       "date": "2026-10-08",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1001,7 +1200,7 @@
     },
     {
       "date": "2026-10-09",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1028,7 +1227,7 @@
     },
     {
       "date": "2026-10-10",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1055,7 +1254,7 @@
     },
     {
       "date": "2026-10-11",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1082,7 +1281,7 @@
     },
     {
       "date": "2026-10-12",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1109,7 +1308,7 @@
     },
     {
       "date": "2026-10-13",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1136,7 +1335,7 @@
     },
     {
       "date": "2026-10-14",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1163,7 +1362,7 @@
     },
     {
       "date": "2026-10-15",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1190,7 +1389,7 @@
     },
     {
       "date": "2026-10-16",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1217,7 +1416,7 @@
     },
     {
       "date": "2026-10-17",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1244,7 +1443,7 @@
     },
     {
       "date": "2026-10-18",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1271,7 +1470,7 @@
     },
     {
       "date": "2026-10-19",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [],
       "editors": [],
       "languages": [],
@@ -1298,7 +1497,7 @@
     },
     {
       "date": "2026-10-20",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1317,7 +1516,12 @@
           "seconds": 0
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "new-chat-2",
+          "seconds": 0
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -1354,7 +1558,7 @@
     },
     {
       "date": "2026-10-21",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1377,7 +1581,16 @@
           "seconds": 77.317
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "new-chat-2",
+          "seconds": 351.524
+        },
+        {
+          "name": "有机",
+          "seconds": 77.317
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -1414,7 +1627,7 @@
     },
     {
       "date": "2026-10-22",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1445,7 +1658,16 @@
           "seconds": 0
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "PkuHoleStudio",
+          "seconds": 358.087
+        },
+        {
+          "name": "okf-workspace",
+          "seconds": 75.963
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -1490,7 +1712,7 @@
     },
     {
       "date": "2026-10-23",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1509,7 +1731,12 @@
           "seconds": 335.71
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "okf-workspace",
+          "seconds": 335.71
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -1546,7 +1773,7 @@
     },
     {
       "date": "2026-10-24",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1565,7 +1792,12 @@
           "seconds": 2367.965
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "骑行",
+          "seconds": 2367.965
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -1602,7 +1834,7 @@
     },
     {
       "date": "2026-10-25",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1625,7 +1857,12 @@
           "seconds": 23.509
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "有机",
+          "seconds": 23.509
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -1670,7 +1907,7 @@
     },
     {
       "date": "2026-10-26",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1717,7 +1954,28 @@
           "seconds": 94.985
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "grill-me",
+          "seconds": 1164.205
+        },
+        {
+          "name": "blog_susurrium",
+          "seconds": 740.072
+        },
+        {
+          "name": "有机",
+          "seconds": 576.161
+        },
+        {
+          "name": "wakatime-stats",
+          "seconds": 470.924
+        },
+        {
+          "name": "Unknown Project",
+          "seconds": 468.365
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -1762,7 +2020,7 @@
     },
     {
       "date": "2026-10-27",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1825,7 +2083,52 @@
           "seconds": 44.463
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "blog_susurrium",
+          "seconds": 17407.732
+        },
+        {
+          "name": "有机",
+          "seconds": 1608.827
+        },
+        {
+          "name": "骑行",
+          "seconds": 1393.971
+        },
+        {
+          "name": "new-chat",
+          "seconds": 583.75
+        },
+        {
+          "name": "计概A",
+          "seconds": 457.017
+        },
+        {
+          "name": "grill-me",
+          "seconds": 391.766
+        },
+        {
+          "name": "new-chat-3",
+          "seconds": 287.009
+        },
+        {
+          "name": "PkuHoleStudio",
+          "seconds": 109.528
+        },
+        {
+          "name": "wakatime-stats",
+          "seconds": 44.463
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 14.531
+        },
+        {
+          "name": "bp",
+          "seconds": 13.807
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -1870,7 +2173,7 @@
     },
     {
       "date": "2026-10-28",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1897,7 +2200,12 @@
           "seconds": 1169.054
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "有机",
+          "seconds": 8230.719
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -1942,7 +2250,7 @@
     },
     {
       "date": "2026-10-29",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -1973,7 +2281,52 @@
           "seconds": 670.841
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "有机",
+          "seconds": 12233.984
+        },
+        {
+          "name": "有机实验",
+          "seconds": 3462.177
+        },
+        {
+          "name": "计概A",
+          "seconds": 2029.149
+        },
+        {
+          "name": "信息科学中的数学",
+          "seconds": 919.649
+        },
+        {
+          "name": "PkuHoleStudio",
+          "seconds": 577.508
+        },
+        {
+          "name": "blog_susurrium",
+          "seconds": 446.904
+        },
+        {
+          "name": "https-pku-canteen-x9jh8ec0457-qoder-zone",
+          "seconds": 431.13
+        },
+        {
+          "name": "生化（一）",
+          "seconds": 260.985
+        },
+        {
+          "name": "m",
+          "seconds": 159.44
+        },
+        {
+          "name": "new-chat-3",
+          "seconds": 34.61
+        },
+        {
+          "name": "new-chat",
+          "seconds": 0
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2018,7 +2371,7 @@
     },
     {
       "date": "2026-10-30",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2097,7 +2450,48 @@
           "seconds": 0
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "blog_susurrium",
+          "seconds": 6594.524
+        },
+        {
+          "name": "生化实验",
+          "seconds": 4595.661
+        },
+        {
+          "name": "wa",
+          "seconds": 1702.193
+        },
+        {
+          "name": "计概A",
+          "seconds": 623.058
+        },
+        {
+          "name": "practice",
+          "seconds": 506.271
+        },
+        {
+          "name": "wakatime-stats",
+          "seconds": 443.62
+        },
+        {
+          "name": "algorithms",
+          "seconds": 69.199
+        },
+        {
+          "name": "new-chat",
+          "seconds": 63.482
+        },
+        {
+          "name": "有机实验",
+          "seconds": 17.392
+        },
+        {
+          "name": "信息科学中的数学",
+          "seconds": 0
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2142,7 +2536,7 @@
     },
     {
       "date": "2026-10-31",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "Coding",
@@ -2177,7 +2571,16 @@
           "seconds": 149.546
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "practice",
+          "seconds": 2165.561
+        },
+        {
+          "name": "ran",
+          "seconds": 149.546
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2222,7 +2625,7 @@
     },
     {
       "date": "2026-11-01",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2269,7 +2672,24 @@
           "seconds": 54.123
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "信息科学中的数学",
+          "seconds": 17790.65
+        },
+        {
+          "name": "生物统计",
+          "seconds": 508.242
+        },
+        {
+          "name": "Unknown Project",
+          "seconds": 57.27
+        },
+        {
+          "name": "mod",
+          "seconds": 4.889
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2314,7 +2734,7 @@
     },
     {
       "date": "2026-11-02",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2349,7 +2769,16 @@
           "seconds": 364.385
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "信息科学中的数学",
+          "seconds": 6899.865
+        },
+        {
+          "name": "codex-voice",
+          "seconds": 122.815
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2394,7 +2823,7 @@
     },
     {
       "date": "2026-11-03",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2425,7 +2854,24 @@
           "seconds": 64.752
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "信息科学中的数学",
+          "seconds": 5471.213
+        },
+        {
+          "name": "blog_susurrium",
+          "seconds": 202.202
+        },
+        {
+          "name": "new-chat",
+          "seconds": 122.263
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 36.678
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2470,7 +2916,7 @@
     },
     {
       "date": "2026-11-04",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2493,7 +2939,24 @@
           "seconds": 2979.688
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "new-chat",
+          "seconds": 1846.868
+        },
+        {
+          "name": "acs-nano-x20",
+          "seconds": 571.475
+        },
+        {
+          "name": "信息科学中的数学",
+          "seconds": 382.834
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 178.511
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2538,7 +3001,7 @@
     },
     {
       "date": "2026-11-05",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2589,7 +3052,28 @@
           "seconds": 0
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "信息科学中的数学",
+          "seconds": 13914.416
+        },
+        {
+          "name": "计概A",
+          "seconds": 1473.269
+        },
+        {
+          "name": "practice",
+          "seconds": 1043.943
+        },
+        {
+          "name": "rectangle",
+          "seconds": 456.895
+        },
+        {
+          "name": "生化（一）",
+          "seconds": 135.8
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2634,7 +3118,7 @@
     },
     {
       "date": "2026-11-06",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2669,7 +3153,32 @@
           "seconds": 1178.565
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "R语言",
+          "seconds": 1289.978
+        },
+        {
+          "name": "practice",
+          "seconds": 1178.565
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 359.862
+        },
+        {
+          "name": "医药产业导论",
+          "seconds": 55.637
+        },
+        {
+          "name": "有机实验",
+          "seconds": 42.587
+        },
+        {
+          "name": "new-chat",
+          "seconds": 41.162
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2714,7 +3223,7 @@
     },
     {
       "date": "2026-11-07",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2765,7 +3274,28 @@
           "seconds": 16.177
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "practice",
+          "seconds": 12118.468
+        },
+        {
+          "name": "计概A",
+          "seconds": 11946.523
+        },
+        {
+          "name": "codex",
+          "seconds": 1826.89
+        },
+        {
+          "name": "new-chat",
+          "seconds": 786.28
+        },
+        {
+          "name": "selected-text-selection-1-max-my",
+          "seconds": 64.951
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2810,7 +3340,7 @@
     },
     {
       "date": "2026-11-08",
-      "fetchedAt": "2026-11-14T19:29:13.952Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2849,7 +3379,32 @@
           "seconds": 808.544
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "仪器分析实验",
+          "seconds": 4442.765
+        },
+        {
+          "name": "计概A",
+          "seconds": 3618.83
+        },
+        {
+          "name": "高数B(一)",
+          "seconds": 3277.181
+        },
+        {
+          "name": "马原",
+          "seconds": 1289.539
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 834.997
+        },
+        {
+          "name": "生物统计",
+          "seconds": 179.99
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2894,7 +3449,7 @@
     },
     {
       "date": "2026-11-09",
-      "fetchedAt": "2026-11-15T01:56:12.682Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -2945,7 +3500,68 @@
           "seconds": 1879.761
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "仪器分析实验",
+          "seconds": 7797.165
+        },
+        {
+          "name": "vscode-r-r-wakatime-vscode",
+          "seconds": 7380.769
+        },
+        {
+          "name": "马原",
+          "seconds": 5333.736
+        },
+        {
+          "name": "new-chat",
+          "seconds": 4418.087
+        },
+        {
+          "name": "生物统计",
+          "seconds": 2926.369
+        },
+        {
+          "name": "course",
+          "seconds": 1879.761
+        },
+        {
+          "name": "vscodecch",
+          "seconds": 1754.791
+        },
+        {
+          "name": "有机实验",
+          "seconds": 1698.504
+        },
+        {
+          "name": "商务英语",
+          "seconds": 1519.564
+        },
+        {
+          "name": "R语言",
+          "seconds": 1369.074
+        },
+        {
+          "name": "wode",
+          "seconds": 935.166
+        },
+        {
+          "name": "nahimic-dll-vs-code-x20",
+          "seconds": 670.245
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 500.731
+        },
+        {
+          "name": "skills",
+          "seconds": 166.59
+        },
+        {
+          "name": "new-chat-4",
+          "seconds": 5.916
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -2990,7 +3606,7 @@
     },
     {
       "date": "2026-11-10",
-      "fetchedAt": "2026-11-15T01:56:12.682Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3041,7 +3657,48 @@
           "seconds": 1.424
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "马原",
+          "seconds": 5199.669
+        },
+        {
+          "name": "wox",
+          "seconds": 1915.058
+        },
+        {
+          "name": "course",
+          "seconds": 1690.125
+        },
+        {
+          "name": "R语言",
+          "seconds": 1583.3
+        },
+        {
+          "name": "生化（一）",
+          "seconds": 1512.656
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 607.521
+        },
+        {
+          "name": "仪器分析实验",
+          "seconds": 262.71
+        },
+        {
+          "name": "new-chat",
+          "seconds": 104.188
+        },
+        {
+          "name": "商务英语",
+          "seconds": 6.672
+        },
+        {
+          "name": "Unknown Project",
+          "seconds": 0
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -3086,7 +3743,7 @@
     },
     {
       "date": "2026-11-11",
-      "fetchedAt": "2026-11-15T01:56:12.682Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3133,7 +3790,20 @@
           "seconds": 0
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "生化（一）",
+          "seconds": 6200.472
+        },
+        {
+          "name": "word论文排版",
+          "seconds": 1060.159
+        },
+        {
+          "name": "new-chat",
+          "seconds": 0
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -3178,7 +3848,7 @@
     },
     {
       "date": "2026-11-12",
-      "fetchedAt": "2026-11-15T01:56:12.682Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3221,7 +3891,24 @@
           "seconds": 32.771
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "生化（一）",
+          "seconds": 15794.369
+        },
+        {
+          "name": "生化实验",
+          "seconds": 844.447
+        },
+        {
+          "name": "计概A",
+          "seconds": 799.212
+        },
+        {
+          "name": "有机实验",
+          "seconds": 573.102
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -3266,7 +3953,7 @@
     },
     {
       "date": "2026-11-13",
-      "fetchedAt": "2026-11-15T01:56:12.682Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3293,7 +3980,20 @@
           "seconds": 1640.075
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "20261114十八届大数竞",
+          "seconds": 1657.42
+        },
+        {
+          "name": "有机实验",
+          "seconds": 1546.266
+        },
+        {
+          "name": "计概A",
+          "seconds": 605.315
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -3338,7 +4038,7 @@
     },
     {
       "date": "2026-11-14",
-      "fetchedAt": "2026-11-15T01:56:12.682Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3377,7 +4077,40 @@
           "seconds": 60.008
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "new-chat",
+          "seconds": 943.953
+        },
+        {
+          "name": "alphafold-2",
+          "seconds": 884.048
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 630.561
+        },
+        {
+          "name": "Unknown Project",
+          "seconds": 442.177
+        },
+        {
+          "name": "github-plugin-github-openai-curated-remote",
+          "seconds": 56.216
+        },
+        {
+          "name": "alphafold",
+          "seconds": 51.555
+        },
+        {
+          "name": "医药产业导论",
+          "seconds": 35.175
+        },
+        {
+          "name": "new-chat-3",
+          "seconds": 24.833
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
@@ -3430,39 +4163,43 @@
     },
     {
       "date": "2026-11-15",
-      "fetchedAt": "2026-11-15T01:56:12.682Z",
+      "fetchedAt": "2026-11-15T06:04:31.981Z",
       "categories": [
         {
           "name": "AI Coding",
-          "seconds": 8542.372
+          "seconds": 9405.213
         }
       ],
       "editors": [
         {
           "name": "Codex Vscode",
-          "seconds": 8512.891
+          "seconds": 9371.177
         },
         {
           "name": "Codex CLI",
-          "seconds": 29.481
+          "seconds": 34.036
         }
       ],
       "languages": [
         {
           "name": "Markdown",
-          "seconds": 4088.702
+          "seconds": 4151.669
         },
         {
           "name": "JavaScript",
-          "seconds": 2234.026
+          "seconds": 2428.993
+        },
+        {
+          "name": "Other",
+          "seconds": 1251.702
         },
         {
           "name": "Astro",
           "seconds": 969.891
         },
         {
-          "name": "Other",
-          "seconds": 721.892
+          "name": "JSON",
+          "seconds": 241.576
         },
         {
           "name": "PowerShell",
@@ -3473,10 +4210,6 @@
           "seconds": 170.855
         },
         {
-          "name": "JSON",
-          "seconds": 166.479
-        },
-        {
           "name": "CSS",
           "seconds": 0
         },
@@ -3485,37 +4218,62 @@
           "seconds": 0
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "name": "blog_susurrium",
+          "seconds": 4911.672
+        },
+        {
+          "name": "wakatime-stats",
+          "seconds": 1879.589
+        },
+        {
+          "name": "医药产业导论",
+          "seconds": 1731.219
+        },
+        {
+          "name": "okf-workspace",
+          "seconds": 809.505
+        },
+        {
+          "name": "new-chat",
+          "seconds": 73.228
+        },
+        {
+          "name": "https-github-com-langchain-ai-openwiki",
+          "seconds": 0
+        }
+      ],
       "operatingSystems": [
         {
           "name": "Windows",
-          "seconds": 8542.372
+          "seconds": 9405.213
         }
       ],
-      "totalSeconds": 8542.372,
+      "totalSeconds": 9405.213,
       "ai": {
-        "ai_additions": 1537,
-        "ai_deletions": 61,
+        "ai_additions": 1596,
+        "ai_deletions": 68,
         "human_additions": 0,
         "human_deletions": 0,
-        "ai_input_tokens": 2034816,
-        "ai_output_tokens": 585574,
-        "ai_sessions": 5,
-        "ai_prompt_events_total": 27,
-        "ai_prompt_length_avg": 541,
-        "ai_prompt_length_avg_per_session": 2063,
-        "ai_prompt_length_median_per_session": 185,
+        "ai_input_tokens": 2646582,
+        "ai_output_tokens": 610277,
+        "ai_sessions": 7,
+        "ai_prompt_events_total": 35,
+        "ai_prompt_length_avg": 654,
+        "ai_prompt_length_avg_per_session": 1729,
+        "ai_prompt_length_median_per_session": 180,
         "ai_prompt_events_avg_per_session": 5,
-        "ai_prompt_events_median_per_session": 4,
-        "ai_model_total_cost": 25.345236,
+        "ai_prompt_events_median_per_session": 3,
+        "ai_model_total_cost": 28.143333,
         "models": [
           {
             "name": "GPT",
-            "lines": 1598,
-            "cost": 25.345236,
-            "input_tokens": 2034816,
-            "output_tokens": 585574,
-            "cached_input_tokens": 154198656
+            "lines": 1664,
+            "cost": 28.143333,
+            "input_tokens": 2646582,
+            "output_tokens": 610277,
+            "cached_input_tokens": 167474048
           },
           {
             "name": "Codex-Vscode",
@@ -3711,7 +4469,7 @@
         1687.8,
         1827.785,
         3211.874,
-        377.779,
+        497.466,
         0,
         0,
         0,
@@ -3720,8 +4478,8 @@
         0,
         0,
         0,
-        0,
-        0,
+        513.619,
+        229.535,
         0,
         0,
         0,
@@ -3734,7 +4492,16 @@
       ]
     }
   ],
-  "goals": [],
+  "goals": [
+    {
+      "name": "Daily 3h",
+      "targetSeconds": 10800,
+      "period": "day",
+      "status": "pending",
+      "actualSeconds": 8930.393,
+      "periodTarget": 10800
+    }
+  ],
   "sources": {
     "summaries": {
       "status": "ready",
