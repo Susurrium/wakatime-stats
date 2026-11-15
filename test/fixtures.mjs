@@ -1,8 +1,8 @@
 // 此文件只为隔离测试提供数据，正式更新只读取 WakaTime 接口。
 export const config = {
   vscodeEditor: 'VS Code', codexDesktopEditor: 'Codex Vscode', timezone: 'Asia/Shanghai',
-  historyDays: 30, durationDays: 7, publicProjects: { 'private-project': 'Public project' },
-  publicGoals: {}, baseUrl: 'https://raw.githubusercontent.com/Susurrium/wakatime-stats/main/'
+  historyDays: 30, durationDays: 7,
+  dailyGoalSeconds: 10800, baseUrl: 'https://raw.githubusercontent.com/Susurrium/wakatime-stats/main/'
 }
 
 export function stats() {

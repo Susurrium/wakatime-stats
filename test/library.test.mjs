@@ -2,7 +2,7 @@ import assert from 'node:assert/strict'
 import test from 'node:test'
 import { readFile, mkdir, writeFile } from 'node:fs/promises'
 import { resolve } from 'node:path'
-import { collect, sanitizeStats, sanitizeDays, sanitizeHours, datesBetween } from '../scripts/data.mjs'
+import { collect, sanitizeStats, sanitizeDays, sanitizeHours, sanitizeGoals, datesBetween } from '../scripts/data.mjs'
 import { chartSpecs } from '../scripts/charts.mjs'
 import { build, root } from '../scripts/build.mjs'
 import { check } from '../scripts/check.mjs'
@@ -21,13 +21,13 @@ async function service(_token, options) {
   throw new Error('测试请求未识别。')
 }
 
-test('公开数据通过明确字段构造，项目使用公开别名', () => {
+test('完整发布项目名称与时长，文件及机器信息保留在采集端', () => {
   const data = sanitizeStats(stats(), config)
   const serialized = JSON.stringify(data)
-  for (const privateValue of ['private-project', 'not-public', 'private-machine', 'C:/private']) {
+  for (const privateValue of ['private-machine', 'C:/private']) {
     assert.equal(serialized.includes(privateValue), false)
   }
-  assert.deepEqual(data.projects, [{ name: 'Public project', seconds: 10000 }])
+  assert.deepEqual(data.projects, [{ name: 'private-project', seconds: 10000 }, { name: 'not-public', seconds: 15200 }])
   assert.equal(data.ai.ai_input_tokens, 12000)
   const missing = stats()
   delete missing.ai_input_tokens
@@ -41,6 +41,28 @@ test('每日记录拒绝重复日期、越界、时区错误和损坏数值', ()
   assert.throws(() => normalize([day('2026-12-01')]))
   assert.throws(() => normalize([{ ...day('2026-11-01'), range: { date: '2026-11-01', timezone: 'UTC' } }]))
   assert.equal(normalize([]).length, 0)
+})
+
+test('目标来自实际启用的每日三小时全范围设置，缺少目标时保留空结果', () => {
+  const goal = { id: 'source-id', is_enabled: true, is_inverse: false, ignore_zero_days: false,
+    delta: 'day', seconds: 10800, projects: [], languages: [], editors: [], ignore_days: [], status: 'pending',
+    chart_data: [{ actual_seconds: 4200, goal_seconds: 10800, range: { end: '2026-11-15T15:59:59Z' } }] }
+  assert.equal(sanitizeGoals({ data: [] }, config).length, 0)
+  const [actual] = sanitizeGoals({ data: [goal] }, config)
+  assert.equal(actual.targetSeconds, 10800)
+  assert.equal(actual.actualSeconds, 4200)
+  assert.equal(sanitizeGoals({ data: [{ ...goal, seconds: 7200 }] }, config).length, 0)
+  assert.equal(sanitizeGoals({ data: [{ ...goal, ignore_days: ['Sunday'] }] }, config).length, 0)
+})
+
+test('超过十个项目时完整发布并生成全部项目行', async () => {
+  const { library } = await collect('test-token', config, null, now, service)
+  const data = stats()
+  data.projects = Array.from({ length: 18 }, (_, index) => ({ name: `Project ${index}`, total_seconds: index * 100 }))
+  library.allTime = sanitizeStats(data, config)
+  assert.equal(library.allTime.projects.length, 18)
+  const chart = chartSpecs(library, config).find((entry) => entry.id === 'projects')
+  assert.equal(chart.option.yAxis.data.length, 18)
 })
 
 test('跨小时、跨午夜活动按上海时间正确分割', () => {
@@ -95,7 +117,7 @@ test('真实 SVG 与 PNG 渲染、图表清单和整批检查', async () => {
   const html = await readFile(resolve(destination, 'index.html'), 'utf8')
   assert.match(html, /复制 Markdown/)
   assert.match(html, /name="theme"/)
-  assert.equal(html.includes('private-project'), false)
+  assert.equal(manifest.entries.find((entry) => entry.id === 'projects').status, 'ready')
   await mkdir(resolve(root, 'artifacts'), { recursive: true })
   // 浏览器回归读取此路径；测试数据只保存在忽略目录。
   await writeFile(resolve(root, 'artifacts/test-site-path.txt'), destination)

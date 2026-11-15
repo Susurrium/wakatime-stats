@@ -4,7 +4,6 @@
   "timezone": "Asia/Shanghai",
   "historyDays": 366,
   "durationDays": 7,
-  "publicProjects": {},
-  "publicGoals": {},
+  "dailyGoalSeconds": 10800,
   "baseUrl": "https://raw.githubusercontent.com/Susurrium/wakatime-stats/main/"
 }

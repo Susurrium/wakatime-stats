@@ -97,13 +97,7 @@ export function validateConfig(config) {
       throw new Error(`${key} 超出允许范围。`)
     }
   }
-  for (const key of ['publicProjects', 'publicGoals']) {
-    if (!config[key] || typeof config[key] !== 'object' || Array.isArray(config[key])) {
-      throw new Error(`${key} 必须是来源与公开别名的映射。`)
-    }
-    const aliases = Object.values(config[key]).map(label)
-    if (new Set(aliases).size !== aliases.length) throw new Error('公开别名必须唯一。')
-  }
+  if (!Number.isInteger(config.dailyGoalSeconds) || config.dailyGoalSeconds <= 0) throw new Error('每日目标匹配时长必须是正整数秒数。')
   const base = new URL(config.baseUrl)
   if (base.protocol !== 'https:' || base.username || base.password || base.search || base.hash || !base.pathname.endsWith('/')) {
     throw new Error('baseUrl 必须是不含凭据的 HTTPS 目录地址。')
@@ -111,14 +105,11 @@ export function validateConfig(config) {
 }
 
 export function sanitizeStats(data, config) {
-  const projects = breakdown(data.projects, '项目')
-  const allowedProjects = projects?.filter(({ name }) => Object.hasOwn(config.publicProjects, name))
-    .map(({ name, seconds }) => ({ name: config.publicProjects[name], seconds })) ?? []
   return {
     categories: breakdown(data.categories, '活动分类', true),
     editors: breakdown(data.editors, '编辑器', true),
     languages: breakdown(data.languages, '语言', true),
-    projects: allowedProjects,
+    projects: breakdown(data.projects, '项目', true),
     operatingSystems: breakdown(data.operating_systems, '操作系统'),
     totalSeconds: number(data.total_seconds_including_other_language, '全部活动时间'),
     ai: aiMetrics(data)
@@ -167,11 +158,14 @@ export function sanitizeHours(payload, date, config) {
 
 export function sanitizeGoals(payload, config) {
   if (!Array.isArray(payload?.data)) throw new Error('目标统计缺少 data 数组。')
-  return payload.data.filter((goal) => goal.is_enabled && Object.hasOwn(config.publicGoals, goal.id)).map((goal) => {
+  const match = payload.data.find((goal) => goal.is_enabled && goal.delta === 'day' && !goal.is_inverse &&
+    goal.seconds === config.dailyGoalSeconds && goal.ignore_zero_days === false &&
+    ['projects', 'languages', 'editors', 'ignore_days'].every((key) => Array.isArray(goal[key]) && goal[key].length === 0))
+  return (match ? [match] : []).map((goal) => {
     if (!Array.isArray(goal.chart_data)) throw new Error('目标缺少进度记录。')
     const latest = [...goal.chart_data].sort((a, b) => Date.parse(b.range.end) - Date.parse(a.range.end))[0]
     return {
-      name: config.publicGoals[goal.id], targetSeconds: number(goal.seconds, '目标秒数'),
+      name: `Daily ${config.dailyGoalSeconds / 3600}h`, targetSeconds: number(goal.seconds, '目标秒数'),
       period: label(goal.delta), status: label(goal.status),
       actualSeconds: latest ? number(latest.actual_seconds, '目标实际秒数') : null,
       periodTarget: latest ? number(latest.goal_seconds, '本期目标秒数') : null
@@ -197,7 +191,7 @@ export async function collect(token, config, previous, now = new Date(), request
   if (Date.parse(sourceRange.end) < Date.parse(sourceRange.start)) throw new Error('统计时间范围无效。')
   number(data.timeout, '活动合并间隔')
   const allTime = sanitizeStats(data, config)
-  const privacyHash = createHash('sha256').update(JSON.stringify([config.publicProjects, config.publicGoals])).digest('hex')
+  const privacyHash = createHash('sha256').update(JSON.stringify({ projects: 'all', dailyGoalSeconds: config.dailyGoalSeconds })).digest('hex')
   const start = [accountStart, addDays(today, 1 - config.historyDays)].sort().at(-1)
   const compatible = previous?.schemaVersion === 2 && previous.timezone === config.timezone &&
     previous.timeout === data.timeout && previous.writesOnly === data.writes_only && previous.privacyHash === privacyHash
