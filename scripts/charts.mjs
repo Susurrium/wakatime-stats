@@ -16,13 +16,13 @@ function category(data, name) {
   return data.categories.find((entry) => entry.name === name)?.seconds ?? 0
 }
 
-function ranking(entries, metric = 'seconds') {
+function ranking(entries, metric = 'seconds', limit = 10) {
   return [...(entries ?? [])].filter((entry) => entry[metric] != null)
-    .sort((a, b) => b[metric] - a[metric]).slice(0, 10)
+    .sort((a, b) => b[metric] - a[metric]).slice(0, limit)
 }
 
-function bars(entries, metric = 'seconds', divisor = 3600) {
-  const sorted = ranking(entries, metric).reverse()
+function bars(entries, metric = 'seconds', divisor = 3600, limit = 10) {
+  const sorted = ranking(entries, metric, limit).reverse()
   return {
     xAxis: { type: 'value', name: divisor === 3600 ? 'hours' : metric },
     yAxis: { type: 'category', data: sorted.map((entry) => entry.name), axisLabel: { width: 130, overflow: 'truncate' } },
@@ -89,11 +89,13 @@ export function chartSpecs(library, config) {
   if (known.length) specs.at(-1).status = dailyStatus
   for (const [id, title, entries] of [
     ['languages', 'Languages', all.languages], ['editors', 'Editors', all.editors],
-    ['categories', 'Activity categories', all.categories], ['projects', 'Public projects', all.projects],
+    ['categories', 'Activity categories', all.categories], ['projects', 'All projects', all.projects],
     ['operating-systems', 'Operating systems', all.operatingSystems]
   ]) {
-    add(id, title, '按累计活动小时排列，显示前十项。', 'breakdown', 'all-time', bars(entries),
-      Boolean(entries?.length), id === 'projects' ? 'No projects selected for public display.' : 'No breakdown reported.')
+    const projects = id === 'projects'
+    add(id, title, projects ? '按累计活动小时排列，展示 WakaTime 返回的全部项目。' : '按累计活动小时排列，显示前十项。',
+      'breakdown', 'all-time', bars(entries, 'seconds', 3600, projects ? Infinity : 10),
+      Boolean(entries?.length), 'No breakdown reported.')
   }
   daily('daily', 'Daily activity', '每日全部活动小时；缺失日期保留间隔。', [['All activity', (day) => day.totalSeconds / 3600]])
   daily('coding-trend', 'Coding and AI Coding', '每日 Coding 与 AI Coding 分类小时。', [
@@ -192,13 +194,13 @@ export function chartSpecs(library, config) {
   specs.at(-1).option.yAxis.name = 'characters'
   specs.at(-1).group = 'ai'
   const goals = library.goals?.filter((goal) => goal.actualSeconds != null && goal.periodTarget != null) ?? []
-  add('goals', 'Programming goals', '已允许公开的目标，显示最近一期实际活动与目标小时。', 'goals', 'current-period', {
+  add('goals', 'Daily programming goal', 'WakaTime 中实际启用的每日 3 小时目标，范围包含全部项目、语言和编辑器及每天。', 'goals', 'current-period', {
     legend: { top: 56 }, xAxis: { type: 'value', name: 'hours' },
     yAxis: { type: 'category', data: goals.map((goal) => goal.name) },
     series: [['Actual', 'actualSeconds'], ['Target', 'periodTarget']].map(([name, key]) => ({
       name, type: 'bar', data: goals.map((goal) => goal[key] / 3600)
     }))
-  }, goals.length > 0, library.sources.goals?.reason ?? 'No goals selected for public display.')
+  }, goals.length > 0, library.sources.goals?.reason ?? 'No matching daily goal with activity data was reported by WakaTime.')
   return specs
 }
 
@@ -223,6 +225,11 @@ function renderChart(spec, themeName, width, height) {
         splitLine: { lineStyle: { color: theme.grid } } }
     }
     if (option.legend) option.legend.textStyle = { color: theme.text, fontSize: 11 }
+    if (spec.id === 'projects' && !unavailable) {
+      const labelWidth = width < 500 ? 160 : 240
+      option.grid.left = labelWidth + 24
+      option.yAxis.axisLabel = { color: theme.muted, width: labelWidth, overflow: 'break', fontSize: 11, lineHeight: 14 }
+    }
     if (option.visualMap) {
       option.visualMap.inRange = { color: [theme.grid, theme.colors[0]] }
       option.visualMap.textStyle = { color: theme.muted }
@@ -303,7 +310,11 @@ export async function renderLibrary(library, config) {
     delete entry.option
     for (const theme of Object.keys(themes)) {
       for (const [size, width, height] of [['wide', 800, 360], ['compact', 400, 300]]) {
-        const imageHeight = spec.id === 'calendar' && size === 'compact' ? 860 : height
+        const labelWidth = width < 500 ? 160 : 240
+        const projectRowHeight = Math.max(30, ...library.allTime.projects.map(({ name }) =>
+          Math.ceil(echarts.format.getTextRect(name, '11px Arial').width / labelWidth) * 14 + 12))
+        const imageHeight = spec.id === 'calendar' && size === 'compact' ? 860 :
+          spec.id === 'projects' ? Math.max(height, library.allTime.projects.length * projectRowHeight + 150) : height
         await asset(entry, `charts/${spec.id}/${spec.range}.${theme}.${size}`,
           renderChart(spec, theme, width, imageHeight), theme, size)
       }
