@@ -194,13 +194,14 @@ export function chartSpecs(library, config) {
   specs.at(-1).option.yAxis.name = 'characters'
   specs.at(-1).group = 'ai'
   const goals = library.goals?.filter((goal) => goal.actualSeconds != null && goal.periodTarget != null) ?? []
-  add('goals', 'Daily programming goal', 'WakaTime 中实际启用的每日 3 小时目标，范围包含全部项目、语言和编辑器及每天。', 'goals', 'current-period', {
+  add('goals', 'Daily programming goal', `WakaTime 中实际启用的每日 ${config.dailyGoalSeconds / 3600} 小时目标，范围包含全部项目、语言和编辑器及每天。`, 'goals', 'current-period', {
     legend: { top: 56 }, xAxis: { type: 'value', name: 'hours' },
     yAxis: { type: 'category', data: goals.map((goal) => goal.name) },
     series: [['Actual', 'actualSeconds'], ['Target', 'periodTarget']].map(([name, key]) => ({
       name, type: 'bar', data: goals.map((goal) => goal[key] / 3600)
     }))
   }, goals.length > 0, library.sources.goals?.reason ?? 'No matching daily goal with activity data was reported by WakaTime.')
+  specs.at(-1).subtitle = `Daily target ${config.dailyGoalSeconds / 3600}h; ${library.timezone}`
   return specs
 }
 
