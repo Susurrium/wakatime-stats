@@ -2,17 +2,17 @@
 <rect width="400" height="300" x="0" y="0" fill="#111820"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(32 110)" fill="#edf2f7">Activity hours</text>
 <path d="M0 0l37.2 0l0 24l-37.2 0Z" transform="translate(32 136)" fill="none" pointer-events="visible" class="zr7-cls-14"/>
-<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(32 136)" fill="#edf2f7">80.3</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(32 136)" fill="#edf2f7">81.0</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(216 110)" fill="#edf2f7">Daily average hours</text>
 <path d="M0 0l26.6 0l0 24l-26.6 0Z" transform="translate(216 136)" fill="none" pointer-events="visible" class="zr7-cls-14"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(216 136)" fill="#edf2f7">2.7</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(32 210)" fill="#edf2f7">Active days</text>
 <path d="M0 0l21.3 0l0 24l-21.3 0Z" transform="translate(32 236)" fill="none" pointer-events="visible" class="zr7-cls-14"/>
-<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(32 236)" fill="#edf2f7">26</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(32 236)" fill="#edf2f7">27</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(216 210)" fill="#edf2f7">Best day</text>
 <path d="M0 0l125 0l0 48l-125 0Z" transform="translate(216 236)" fill="none" pointer-events="visible" class="zr7-cls-14"/>
-<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(216 236)" fill="#edf2f7">2026-11-09</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" xml:space="preserve" y="36" transform="translate(216 236)" fill="#edf2f7">10 hrs 39 mins</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(216 236)" fill="#edf2f7">2026-11-15</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" xml:space="preserve" y="36" transform="translate(216 236)" fill="#edf2f7">10 hrs 44 mins</text>
 <path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr7-cls-15"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#edf2f7">Recent activity summary</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#a6b3c1">30/30 days available; Asia/Shanghai</text>

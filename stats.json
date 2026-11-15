@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "range": "all_time",
-  "fetchedAt": "2026-11-15T14:32:25.591Z",
-  "sourceUpdatedAt": "2026-11-14T17:08:23.000Z",
+  "fetchedAt": "2026-11-15T20:10:03.013Z",
+  "sourceUpdatedAt": "2026-11-15T19:27:01.000Z",
   "metrics": {
     "vscode": {
       "editor": "VS Code",
-      "seconds": 27720.231
+      "seconds": 27866.805
     },
     "codexAi": {
       "editor": "Codex Vscode",
-      "seconds": 194976.830531
+      "seconds": 231980.308531
     }
   }
 }

@@ -1,163 +1,182 @@
-<svg width="800" height="1560" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 1560" role="img" aria-labelledby="projects-title projects-description">
-<rect width="800" height="1560" x="0" y="0" fill="#111820"/>
-<path d="M264.5 100L264.5 1505" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
-<path d="M361.5 100L361.5 1505" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
-<path d="M459.5 100L459.5 1505" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
-<path d="M556.5 100L556.5 1505" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
-<path d="M654.5 100L654.5 1505" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
-<path d="M752.5 100L752.5 1505" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
-<path d="M264.5 1505L264.5 100" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(766.88 1505)" fill="#a6b3c1">hours</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1490.0532)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1490.0532)" fill="#a6b3c1">mod</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1460.1596)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1460.1596)" fill="#a6b3c1">new-chat-4</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1430.266)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1430.266)" fill="#a6b3c1">bp</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1400.3723)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1400.3723)" fill="#a6b3c1">alphafold</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1370.4787)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1370.4787)" fill="#a6b3c1">github-plugin-github-openai-curated-remote</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1340.5851)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1340.5851)" fill="#a6b3c1">selected-text-selection-1-max-my</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1310.6915)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1310.6915)" fill="#a6b3c1">algorithms</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1280.7979)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1280.7979)" fill="#a6b3c1">医药产业导论</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1250.9043)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1250.9043)" fill="#a6b3c1">codex-voice</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1221.0106)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1221.0106)" fill="#a6b3c1">ran</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1191.117)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1191.117)" fill="#a6b3c1">m</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1161.2234)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1161.2234)" fill="#a6b3c1">skills</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1131.3298)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1131.3298)" fill="#a6b3c1">new-chat-3</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1101.4362)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1101.4362)" fill="#a6b3c1">https-pku-canteen-x9jh8ec0457-qoder-zone</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1071.5426)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1071.5426)" fill="#a6b3c1">rectangle</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1041.6489)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1041.6489)" fill="#a6b3c1">骑行</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1011.7553)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1011.7553)" fill="#a6b3c1">acs-nano-x20</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 981.8617)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 981.8617)" fill="#a6b3c1">nahimic-dll-vs-code-x20</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 951.9681)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 951.9681)" fill="#a6b3c1">PkuHoleStudio</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 922.0745)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 922.0745)" fill="#a6b3c1">wa</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 892.1809)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 892.1809)" fill="#a6b3c1">alphafold-2</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 862.2872)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 862.2872)" fill="#a6b3c1">wode</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 832.3936)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" transform="translate(256 832.3936)" fill="#a6b3c1">Unknown Project</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 802.5)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 802.5)" fill="#a6b3c1">word论文排版</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 772.6064)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 772.6064)" fill="#a6b3c1">商务英语</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 742.7128)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 742.7128)" fill="#a6b3c1">grill-me</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 712.8191)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 712.8191)" fill="#a6b3c1">20261114十八届大数竞</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 682.9255)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 682.9255)" fill="#a6b3c1">vscodecch</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 653.0319)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 653.0319)" fill="#a6b3c1">codex</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 623.1383)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 623.1383)" fill="#a6b3c1">wox</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 593.2447)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 593.2447)" fill="#a6b3c1">new-chat-2</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 563.3511)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 563.3511)" fill="#a6b3c1">高数B(一)</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 533.4574)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 533.4574)" fill="#a6b3c1">course</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 503.5638)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 503.5638)" fill="#a6b3c1">生物统计</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 473.6702)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 473.6702)" fill="#a6b3c1">R语言</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 443.7766)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 443.7766)" fill="#a6b3c1">有机实验</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 413.883)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 413.883)" fill="#a6b3c1">vscode-r-r-wakatime-vscode</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 383.9894)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 383.9894)" fill="#a6b3c1">生化实验</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 354.0957)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 354.0957)" fill="#a6b3c1">new-chat</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 324.2021)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 324.2021)" fill="#a6b3c1">马原</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 294.3085)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 294.3085)" fill="#a6b3c1">仪器分析实验</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 264.4149)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 264.4149)" fill="#a6b3c1">practice</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 234.5213)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 234.5213)" fill="#a6b3c1">blog_susurrium</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 204.6277)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 204.6277)" fill="#a6b3c1">计概A</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 174.734)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 174.734)" fill="#a6b3c1">有机</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 144.8404)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 144.8404)" fill="#a6b3c1">生化（一）</text>
-<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 114.9468)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
-<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 114.9468)" fill="#a6b3c1">信息科学中的数学</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(264 1513)" fill="#a6b3c1">0</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(361.576 1513)" fill="#a6b3c1">3</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(459.152 1513)" fill="#a6b3c1">6</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(556.728 1513)" fill="#a6b3c1">9</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(654.304 1513)" fill="#a6b3c1">12</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(751.88 1513)" fill="#a6b3c1">15</text>
-<path d="M264 1479.7l0 0l0 20.6l0 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1449.8l0.1 0l0 20.6l-0.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1420l0.1 0l0 20.6l-0.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1390.1l0.5 0l0 20.6l-0.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1360.2l0.5 0l0 20.6l-0.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1330.3l0.6 0l0 20.6l-0.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1300.4l0.6 0l0 20.6l-0.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1270.5l0.8 0l0 20.6l-0.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1240.6l1.1 0l0 20.6l-1.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1210.7l1.4 0l0 20.6l-1.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1180.8l1.4 0l0 20.6l-1.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="10" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1150.9l1.5 0l0 20.6l-1.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="11" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1121l3.1 0l0 20.6l-3.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="12" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1091.1l3.9 0l0 20.6l-3.9 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="13" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1061.2l4.1 0l0 20.6l-4.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="14" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1031.3l4.7 0l0 20.6l-4.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="15" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 1001.4l5.2 0l0 20.6l-5.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="16" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 971.5l6.1 0l0 20.6l-6.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="17" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 941.7l6.4 0l0 20.6l-6.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="18" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 911.8l7.3 0l0 20.6l-7.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="19" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 881.9l8 0l0 20.6l-8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="20" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 852l8.4 0l0 20.6l-8.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="21" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 822.1l8.7 0l0 20.6l-8.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="22" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 792.2l9.6 0l0 20.6l-9.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="23" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 762.3l13.8 0l0 20.6l-13.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="24" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 732.4l14.1 0l0 20.6l-14.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="25" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 702.5l14.8 0l0 20.6l-14.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="26" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 672.6l15.9 0l0 20.6l-15.9 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="27" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 642.7l16.5 0l0 20.6l-16.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="28" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 612.8l17.3 0l0 20.6l-17.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="29" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 582.9l28.6 0l0 20.6l-28.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="30" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 553l29.6 0l0 20.6l-29.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="31" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 523.1l32.3 0l0 20.6l-32.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="32" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 493.3l32.7 0l0 20.6l-32.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="33" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 463.4l38.3 0l0 20.6l-38.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="34" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 433.5l66.3 0l0 20.6l-66.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="35" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 403.6l66.7 0l0 20.6l-66.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="36" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 373.7l68.3 0l0 20.6l-68.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="37" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 343.8l80.5 0l0 20.6l-80.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="38" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 313.9l106.8 0l0 20.6l-106.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="39" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 284l113 0l0 20.6l-113 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="40" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 254.1l153.7 0l0 20.6l-153.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="41" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 224.2l178.4 0l0 20.6l-178.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="42" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 194.3l195.1 0l0 20.6l-195.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="43" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 164.4l199.4 0l0 20.6l-199.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="44" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 134.5l214.7 0l0 20.6l-214.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="45" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
-<path d="M264 104.6l410 0l0 20.6l-410 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="46" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<svg width="800" height="2270" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 2270" role="img" aria-labelledby="projects-title projects-description">
+<rect width="800" height="2270" x="0" y="0" fill="#111820"/>
+<path d="M264.5 100L264.5 2215" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
+<path d="M361.5 100L361.5 2215" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
+<path d="M459.5 100L459.5 2215" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
+<path d="M556.5 100L556.5 2215" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
+<path d="M654.5 100L654.5 2215" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
+<path d="M752.5 100L752.5 2215" fill="none" pointer-events="visible" stroke="#344251" class="zr22-cls-44"/>
+<path d="M264.5 2215L264.5 100" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(766.88 2215)" fill="#a6b3c1">hours</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 2195.0472)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 2195.0472)" fill="#a6b3c1">mod</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 2155.1415)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 2155.1415)" fill="#a6b3c1">bp</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 2115.2358)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 2115.2358)" fill="#a6b3c1">jie</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 2075.3302)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 2075.3302)" fill="#a6b3c1">alphafold</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 2035.4245)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 2035.4245)" fill="#a6b3c1">github-plugin-github-openai-curated-remote</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1995.5189)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1995.5189)" fill="#a6b3c1">https-github-com-langchain-ai-openwiki</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1955.6132)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1955.6132)" fill="#a6b3c1">selected-text-selection-1-max-my</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1915.7075)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1915.7075)" fill="#a6b3c1">algorithms</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1875.8019)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1875.8019)" fill="#a6b3c1">codex-voice</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1835.8962)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1835.8962)" fill="#a6b3c1">ran</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1795.9906)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1795.9906)" fill="#a6b3c1">m</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1756.0849)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1756.0849)" fill="#a6b3c1">skills</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1716.1792)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1716.1792)" fill="#a6b3c1">new-chat-5</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1676.2736)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1676.2736)" fill="#a6b3c1">https-pku-canteen-x9jh8ec0457-qoder-zone</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1636.3679)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1636.3679)" fill="#a6b3c1">rectangle</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1596.4623)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1596.4623)" fill="#a6b3c1">骑行</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1556.5566)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1556.5566)" fill="#a6b3c1">acs-nano-x20</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1516.6509)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1516.6509)" fill="#a6b3c1">nahimic-dll-vs-code-x20</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1476.7453)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1476.7453)" fill="#a6b3c1">PkuHoleStudio</text>
+<path d="M-240 -14l240 0l0 28l-240 0Z" transform="translate(256 1436.8396)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="-7" transform="translate(256 1436.8396)" fill="#a6b3c1">https-raw-githubusercontent-com-tencent-brows</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="7" transform="translate(256 1436.8396)" fill="#a6b3c1">erskill</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1396.934)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1396.934)" fill="#a6b3c1">new-chat-4</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1357.0283)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1357.0283)" fill="#a6b3c1">wa</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1317.1226)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1317.1226)" fill="#a6b3c1">alphafold-2</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1277.217)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1277.217)" fill="#a6b3c1">wode</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1237.3113)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1237.3113)" fill="#a6b3c1">new-chat-3</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1197.4057)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1197.4057)" fill="#a6b3c1">word论文排版</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1157.5)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" transform="translate(256 1157.5)" fill="#a6b3c1">Unknown Project</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1117.5943)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1117.5943)" fill="#a6b3c1">商务英语</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1077.6887)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1077.6887)" fill="#a6b3c1">grill-me</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 1037.783)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 1037.783)" fill="#a6b3c1">20261114十八届大数竞</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 997.8774)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 997.8774)" fill="#a6b3c1">vscodecch</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 957.9717)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 957.9717)" fill="#a6b3c1">医药产业导论</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 918.066)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 918.066)" fill="#a6b3c1">codex</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 878.1604)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 878.1604)" fill="#a6b3c1">wox</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 838.2547)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 838.2547)" fill="#a6b3c1">wakatime-stats</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 798.3491)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 798.3491)" fill="#a6b3c1">高数B(一)</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 758.4434)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 758.4434)" fill="#a6b3c1">course</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 718.5377)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 718.5377)" fill="#a6b3c1">生物统计</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 678.6321)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 678.6321)" fill="#a6b3c1">R语言</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 638.7264)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 638.7264)" fill="#a6b3c1">new-chat-2</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 598.8208)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 598.8208)" fill="#a6b3c1">vscode-r-r-wakatime-vscode</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 558.9151)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 558.9151)" fill="#a6b3c1">生化实验</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 519.0094)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 519.0094)" fill="#a6b3c1">有机实验</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 479.1038)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 479.1038)" fill="#a6b3c1">new-chat</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 439.1981)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 439.1981)" fill="#a6b3c1">okf-workspace</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 399.2925)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 399.2925)" fill="#a6b3c1">马原</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 359.3868)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 359.3868)" fill="#a6b3c1">practice</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 319.4811)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 319.4811)" fill="#a6b3c1">仪器分析实验</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 279.5755)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 279.5755)" fill="#a6b3c1">计概A</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 239.6698)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 239.6698)" fill="#a6b3c1">有机</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 199.7642)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 199.7642)" fill="#a6b3c1">生化（一）</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 159.8585)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 159.8585)" fill="#a6b3c1">blog_susurrium</text>
+<path d="M-240 -7l240 0l0 14l-240 0Z" transform="translate(256 119.9528)" fill="none" pointer-events="visible" class="zr22-cls-44"/>
+<text dominant-baseline="central" text-anchor="end" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(256 119.9528)" fill="#a6b3c1">信息科学中的数学</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(264 2223)" fill="#a6b3c1">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(361.576 2223)" fill="#a6b3c1">3</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(459.152 2223)" fill="#a6b3c1">6</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(556.728 2223)" fill="#a6b3c1">9</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(654.304 2223)" fill="#a6b3c1">12</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(751.88 2223)" fill="#a6b3c1">15</text>
+<path d="M264 2183l0 0l0 24l0 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 2143.1l0.1 0l0 24l-0.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 2103.2l0.2 0l0 24l-0.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 2063.3l0.5 0l0 24l-0.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 2023.4l0.5 0l0 24l-0.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1983.5l0.6 0l0 24l-0.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1943.6l0.6 0l0 24l-0.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1903.7l0.6 0l0 24l-0.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1863.8l1.1 0l0 24l-1.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1823.9l1.4 0l0 24l-1.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1784l1.4 0l0 24l-1.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="10" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1744.1l1.5 0l0 24l-1.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="11" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1704.2l2.4 0l0 24l-2.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="12" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1664.3l3.9 0l0 24l-3.9 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="13" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1624.4l4.1 0l0 24l-4.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="14" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1584.5l4.7 0l0 24l-4.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="15" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1544.6l5.2 0l0 24l-5.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="16" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1504.7l6.1 0l0 24l-6.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="17" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1464.7l6.4 0l0 24l-6.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="18" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1424.8l6.6 0l0 24l-6.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="19" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1384.9l7 0l0 24l-7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="20" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1345l7.3 0l0 24l-7.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="21" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1305.1l8 0l0 24l-8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="22" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1265.2l8.4 0l0 24l-8.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="23" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1225.3l9.1 0l0 24l-9.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="24" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1185.4l9.6 0l0 24l-9.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="25" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1145.5l10.1 0l0 24l-10.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="26" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1105.6l13.8 0l0 24l-13.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="27" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1065.7l14.1 0l0 24l-14.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="28" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 1025.8l14.8 0l0 24l-14.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="29" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 985.9l15.9 0l0 24l-15.9 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="30" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 946l16.5 0l0 24l-16.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="31" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 906.1l16.5 0l0 24l-16.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="32" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 866.2l17.3 0l0 24l-17.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="33" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 826.3l17.4 0l0 24l-17.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="34" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 786.3l29.6 0l0 24l-29.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="35" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 746.4l32.3 0l0 24l-32.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="36" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 706.5l32.7 0l0 24l-32.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="37" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 666.6l38.3 0l0 24l-38.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="38" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 626.7l49.7 0l0 24l-49.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="39" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 586.8l66.7 0l0 24l-66.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="40" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 546.9l68.3 0l0 24l-68.3 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="41" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 507l68.8 0l0 24l-68.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="42" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 467.1l81.4 0l0 24l-81.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="43" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 427.2l104.8 0l0 24l-104.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="44" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 387.3l106.8 0l0 24l-106.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="45" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 347.4l153.7 0l0 24l-153.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="46" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 307.5l187 0l0 24l-187 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="47" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 267.6l195.1 0l0 24l-195.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="48" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 227.7l199.4 0l0 24l-199.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="49" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 187.8l214.7 0l0 24l-214.7 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="50" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 147.9l263 0l0 24l-263 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="51" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
+<path d="M264 108l410 0l0 24l-410 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="52" ecmeta_ssr_type="chart" class="zr22-cls-45"/>
 <path d="M-5 -5l188.2 0l0 50l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr22-cls-44"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="9.5" transform="translate(27 21)" fill="#edf2f7">All projects</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#a6b3c1">Through 2026-11-14; Asia/Shanghai</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#a6b3c1">Through 2026-11-15; Asia/Shanghai</text>
 <style><![CDATA[
 .zr22-cls-44:hover {
 pointer-events:none;
@@ -170,4 +189,4 @@ fill:rgba(61,207,255,1);
 ]]>
 
 </style>
-<title id="projects-title">All projects</title><desc id="projects-description">按累计活动小时排列，展示 WakaTime 返回的全部项目。 Through 2026-11-14; Asia/Shanghai </desc></svg>
+<title id="projects-title">All projects</title><desc id="projects-description">按累计活动小时排列，展示 WakaTime 返回的全部项目。 Through 2026-11-15; Asia/Shanghai </desc></svg>
