@@ -3,7 +3,7 @@
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
-  "fetchedAt": "2026-11-15T06:04:31.981Z",
+  "fetchedAt": "2026-11-15T06:20:24.524Z",
   "sourceUpdatedAt": "2026-11-14T17:08:23.000Z",
   "privacyHash": "de65fae96f3138069d45a745c30c1e574d27355cab5ecc952bbdd98a52f08671",
   "sourceRange": {
@@ -3449,7 +3449,7 @@
     },
     {
       "date": "2026-11-09",
-      "fetchedAt": "2026-11-15T06:04:31.981Z",
+      "fetchedAt": "2026-11-15T06:20:24.524Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3606,7 +3606,7 @@
     },
     {
       "date": "2026-11-10",
-      "fetchedAt": "2026-11-15T06:04:31.981Z",
+      "fetchedAt": "2026-11-15T06:20:24.524Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3743,7 +3743,7 @@
     },
     {
       "date": "2026-11-11",
-      "fetchedAt": "2026-11-15T06:04:31.981Z",
+      "fetchedAt": "2026-11-15T06:20:24.524Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3848,7 +3848,7 @@
     },
     {
       "date": "2026-11-12",
-      "fetchedAt": "2026-11-15T06:04:31.981Z",
+      "fetchedAt": "2026-11-15T06:20:24.524Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -3953,7 +3953,7 @@
     },
     {
       "date": "2026-11-13",
-      "fetchedAt": "2026-11-15T06:04:31.981Z",
+      "fetchedAt": "2026-11-15T06:20:24.524Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4038,7 +4038,7 @@
     },
     {
       "date": "2026-11-14",
-      "fetchedAt": "2026-11-15T06:04:31.981Z",
+      "fetchedAt": "2026-11-15T06:20:24.524Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4163,21 +4163,21 @@
     },
     {
       "date": "2026-11-15",
-      "fetchedAt": "2026-11-15T06:04:31.981Z",
+      "fetchedAt": "2026-11-15T06:20:24.524Z",
       "categories": [
         {
           "name": "AI Coding",
-          "seconds": 9405.213
+          "seconds": 10274.425
         }
       ],
       "editors": [
         {
           "name": "Codex Vscode",
-          "seconds": 9371.177
+          "seconds": 10235.582
         },
         {
           "name": "Codex CLI",
-          "seconds": 34.036
+          "seconds": 38.843
         }
       ],
       "languages": [
@@ -4191,7 +4191,7 @@
         },
         {
           "name": "Other",
-          "seconds": 1251.702
+          "seconds": 2120.914
         },
         {
           "name": "Astro",
@@ -4221,7 +4221,7 @@
       "projects": [
         {
           "name": "blog_susurrium",
-          "seconds": 4911.672
+          "seconds": 5294.665
         },
         {
           "name": "wakatime-stats",
@@ -4233,7 +4233,11 @@
         },
         {
           "name": "okf-workspace",
-          "seconds": 809.505
+          "seconds": 1078.022
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 152.842
         },
         {
           "name": "new-chat",
@@ -4241,39 +4245,39 @@
         },
         {
           "name": "https-github-com-langchain-ai-openwiki",
-          "seconds": 0
+          "seconds": 64.86
         }
       ],
       "operatingSystems": [
         {
           "name": "Windows",
-          "seconds": 9405.213
+          "seconds": 10274.425
         }
       ],
-      "totalSeconds": 9405.213,
+      "totalSeconds": 10274.425,
       "ai": {
-        "ai_additions": 1596,
+        "ai_additions": 1599,
         "ai_deletions": 68,
         "human_additions": 0,
         "human_deletions": 0,
-        "ai_input_tokens": 2646582,
-        "ai_output_tokens": 610277,
-        "ai_sessions": 7,
-        "ai_prompt_events_total": 35,
-        "ai_prompt_length_avg": 654,
-        "ai_prompt_length_avg_per_session": 1729,
-        "ai_prompt_length_median_per_session": 180,
+        "ai_input_tokens": 2826179,
+        "ai_output_tokens": 631321,
+        "ai_sessions": 8,
+        "ai_prompt_events_total": 40,
+        "ai_prompt_length_avg": 774,
+        "ai_prompt_length_avg_per_session": 2350,
+        "ai_prompt_length_median_per_session": 322,
         "ai_prompt_events_avg_per_session": 5,
         "ai_prompt_events_median_per_session": 3,
-        "ai_model_total_cost": 28.143333,
+        "ai_model_total_cost": 29.593734,
         "models": [
           {
             "name": "GPT",
-            "lines": 1664,
-            "cost": 28.143333,
-            "input_tokens": 2646582,
-            "output_tokens": 610277,
-            "cached_input_tokens": 167474048
+            "lines": 1667,
+            "cost": 29.593734,
+            "input_tokens": 2826179,
+            "output_tokens": 631321,
+            "cached_input_tokens": 176281728
           },
           {
             "name": "Codex-Vscode",
@@ -4479,7 +4483,7 @@
         0,
         0,
         513.619,
-        229.535,
+        1098.747,
         0,
         0,
         0,
@@ -4498,7 +4502,7 @@
       "targetSeconds": 10800,
       "period": "day",
       "status": "pending",
-      "actualSeconds": 8930.393,
+      "actualSeconds": 10274.425,
       "periodTarget": 10800
     }
   ],

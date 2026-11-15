@@ -2,7 +2,7 @@
 <rect width="800" height="360" x="0" y="0" fill="#111820"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(64 110)" fill="#edf2f7">Activity hours</text>
 <path d="M0 0l37.2 0l0 24l-37.2 0Z" transform="translate(64 136)" fill="none" pointer-events="visible" class="zr6-cls-12"/>
-<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(64 136)" fill="#edf2f7">72.9</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(64 136)" fill="#edf2f7">73.1</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(432 110)" fill="#edf2f7">Daily average hours</text>
 <path d="M0 0l26.6 0l0 24l-26.6 0Z" transform="translate(432 136)" fill="none" pointer-events="visible" class="zr6-cls-12"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(432 136)" fill="#edf2f7">2.4</text>

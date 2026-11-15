@@ -432,7 +432,7 @@
 <path d="M192.4 718l21.6 0l0 17l-21.6 0Z" fill="rgb(54,124,159)" ecmeta_series_index="3" ecmeta_data_index="42" ecmeta_ssr_type="chart" class="zr43-cls-198"/>
 <path d="M192.4 737l21.6 0l0 17l-21.6 0Z" fill="rgb(52,78,98)" ecmeta_series_index="3" ecmeta_data_index="43" ecmeta_ssr_type="chart" class="zr43-cls-199"/>
 <path d="M192.4 756l21.6 0l0 17l-21.6 0Z" fill="rgb(52,76,94)" ecmeta_series_index="3" ecmeta_data_index="44" ecmeta_ssr_type="chart" class="zr43-cls-191"/>
-<path d="M192.4 775l21.6 0l0 17l-21.6 0Z" fill="rgb(53,96,122)" ecmeta_series_index="3" ecmeta_data_index="45" ecmeta_ssr_type="chart" class="zr43-cls-200"/>
+<path d="M192.4 775l21.6 0l0 17l-21.6 0Z" fill="rgb(53,99,126)" ecmeta_series_index="3" ecmeta_data_index="45" ecmeta_ssr_type="chart" class="zr43-cls-200"/>
 <polyline points="73.6 120 73.6 139 73.6 139 73.6 158 73.6 158 73.6 177 50 177 50 196 50 196 50 215 50 215 50 234 50 234 50 253" fill="none" pointer-events="visible" stroke="#54555a" class="zr43-cls-201"/>
 <polyline points="167.9 120 167.9 139 167.9 139 167.9 158 167.9 158 167.9 177 167.9 177 167.9 196 167.9 196 167.9 215 167.9 215 167.9 234 144.3 234 144.3 253" fill="none" pointer-events="visible" stroke="#54555a" class="zr43-cls-201"/>
 <polyline points="262.1 120 262.1 139 262.1 139 262.1 158 262.1 158 262.1 177 262.1 177 262.1 196 262.1 196 262.1 215 262.1 215 262.1 234 238.6 234 238.6 253" fill="none" pointer-events="visible" stroke="#54555a" class="zr43-cls-201"/>
@@ -807,7 +807,7 @@ fill:rgba(57,85,107,1);
 }
 .zr43-cls-200:hover {
 cursor:pointer;
-fill:rgba(58,105,134,1);
+fill:rgba(58,108,138,1);
 }
 .zr43-cls-201:hover {
 cursor:pointer;
