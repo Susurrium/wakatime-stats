@@ -47,7 +47,7 @@
 
 ## 更新与权限
 
-`Update WakaTime chart library` 每小时第 17 分钟运行，也支持手动触发。GitHub 调度和图片缓存可能延迟。读取 Token 保存为 Actions Secret `WAKATIME_READ_TOKEN`，采用 OAuth Bearer 认证。
+`Update WakaTime chart library` 按每小时整点触发（`0 * * * *`），也支持手动触发。GitHub 调度和图片缓存可能延迟。读取 Token 保存为 Actions Secret `WAKATIME_READ_TOKEN`，采用 OAuth Bearer 认证。
 
 累计统计需要 `read_stats`，每日汇总需要 `read_summaries`，日内区间需要 `read_heartbeats`，目标需要 `read_goals`。实际数据还受账号套餐和采集工具支持情况影响。HTTP 402／403 会登记对应来源不可用。认证错误、网络重试耗尽、源数据损坏或生成失败会使整次更新失败，保留上次发布的文件。
 
