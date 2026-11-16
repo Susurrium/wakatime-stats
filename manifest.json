@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T07:41:10.287Z",
+  "generatedAt": "2026-11-16T17:58:30.924Z",
   "sourceUpdatedAt": "2026-11-15T19:27:01.000Z",
   "timezone": "Asia/Shanghai",
   "timeout": 15,
@@ -588,7 +588,7 @@
       "range": "2026",
       "status": "ready",
       "reason": null,
-      "subtitle": "69/69 days available; Asia/Shanghai",
+      "subtitle": "70/70 days available; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -632,7 +632,7 @@
       "range": "recent-hours",
       "status": "ready",
       "reason": null,
-      "subtitle": "2026-11-10 to 2026-11-16; Asia/Shanghai",
+      "subtitle": "2026-11-11 to 2026-11-17; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
