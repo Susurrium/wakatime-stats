@@ -14,11 +14,11 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(457.46 313)" fill="#536170">400</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(608.69 313)" fill="#536170">600</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(759.92 313)" fill="#536170">800</text>
-<path d="M155 241.8l276 0l0 24l-276 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr56-cls-455"/>
+<path d="M155 241.8l290.8 0l0 24l-290.8 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr56-cls-455"/>
 <path d="M155 139.3l573.9 0l0 24l-573.9 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr56-cls-455"/>
 <path d="M-5 -5l215.6 0l0 50l-215.6 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr56-cls-454"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="9.5" transform="translate(27 21)" fill="#17212b">Estimated AI model cost</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#536170">Through 2026-11-15; Asia/Shanghai</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#536170">Through 2026-11-16; Asia/Shanghai</text>
 <style><![CDATA[
 .zr56-cls-454:hover {
 pointer-events:none;
@@ -31,4 +31,4 @@ fill:rgba(2,145,218,1);
 ]]>
 
 </style>
-<title id="model-costs-title">Estimated AI model cost</title><desc id="model-costs-description">按来源 Token 价格估算的美元费用。 Through 2026-11-15; Asia/Shanghai </desc></svg>
+<title id="model-costs-title">Estimated AI model cost</title><desc id="model-costs-description">按来源 Token 价格估算的美元费用。 Through 2026-11-16; Asia/Shanghai </desc></svg>
