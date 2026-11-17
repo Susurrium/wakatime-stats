@@ -1,12 +1,13 @@
 <svg width="800" height="360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 360" role="img" aria-labelledby="editors-title editors-description">
 <rect width="800" height="360" x="0" y="0" fill="#111820"/>
 <path d="M155.5 100L155.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
-<path d="M240.5 100L240.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
-<path d="M325.5 100L325.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
-<path d="M411.5 100L411.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
-<path d="M496.5 100L496.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
-<path d="M581.5 100L581.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
-<path d="M666.5 100L666.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
+<path d="M229.5 100L229.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
+<path d="M304.5 100L304.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
+<path d="M379.5 100L379.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
+<path d="M453.5 100L453.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
+<path d="M528.5 100L528.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
+<path d="M602.5 100L602.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
+<path d="M677.5 100L677.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
 <path d="M752.5 100L752.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr14-cls-28"/>
 <path d="M155.5 305L155.5 100" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr14-cls-28"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(766.88 305)" fill="#a6b3c1">hours</text>
@@ -14,19 +15,20 @@
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" transform="translate(147 202.5)" fill="#a6b3c1">VS Code</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" transform="translate(147 134.1667)" fill="#a6b3c1">Codex Vscode</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(155 313)" fill="#a6b3c1">0</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(240.2686 313)" fill="#a6b3c1">10</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(325.5371 313)" fill="#a6b3c1">20</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(410.8057 313)" fill="#a6b3c1">30</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(496.0743 313)" fill="#a6b3c1">40</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(581.3429 313)" fill="#a6b3c1">50</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(666.6114 313)" fill="#a6b3c1">60</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(751.88 313)" fill="#a6b3c1">70</text>
-<path d="M155 258.8l54.1 0l0 24l-54.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr14-cls-29"/>
-<path d="M155 190.5l66 0l0 24l-66 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr14-cls-29"/>
-<path d="M155 122.2l593.9 0l0 24l-593.9 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr14-cls-29"/>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(229.61 313)" fill="#a6b3c1">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(304.22 313)" fill="#a6b3c1">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(378.83 313)" fill="#a6b3c1">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(453.44 313)" fill="#a6b3c1">40</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(528.05 313)" fill="#a6b3c1">50</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(602.66 313)" fill="#a6b3c1">60</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(677.27 313)" fill="#a6b3c1">70</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(751.88 313)" fill="#a6b3c1">80</text>
+<path d="M155 258.8l48.2 0l0 24l-48.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr14-cls-29"/>
+<path d="M155 190.5l66.4 0l0 24l-66.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr14-cls-29"/>
+<path d="M155 122.2l541.6 0l0 24l-541.6 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr14-cls-29"/>
 <path d="M-5 -5l188.2 0l0 50l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr14-cls-28"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" y="9.5" transform="translate(27 21)" fill="#edf2f7">Editors</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#a6b3c1">Through 2026-11-16; Asia/Shanghai</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#a6b3c1">Through 2026-11-17; Asia/Shanghai</text>
 <style><![CDATA[
 .zr14-cls-28:hover {
 pointer-events:none;
@@ -39,4 +41,4 @@ fill:rgba(61,207,255,1);
 ]]>
 
 </style>
-<title id="editors-title">Editors</title><desc id="editors-description">按累计活动小时排列，显示前十项。 Through 2026-11-16; Asia/Shanghai </desc></svg>
+<title id="editors-title">Editors</title><desc id="editors-description">按累计活动小时排列，显示前十项。 Through 2026-11-17; Asia/Shanghai </desc></svg>
