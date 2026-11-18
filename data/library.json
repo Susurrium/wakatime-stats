@@ -3,7 +3,7 @@
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
-  "fetchedAt": "2026-11-17T19:39:14.411Z",
+  "fetchedAt": "2026-11-18T02:09:03.894Z",
   "sourceUpdatedAt": "2026-11-17T19:36:42.000Z",
   "privacyHash": "de65fae96f3138069d45a745c30c1e574d27355cab5ecc952bbdd98a52f08671",
   "sourceRange": {
@@ -3972,7 +3972,7 @@
     },
     {
       "date": "2026-11-12",
-      "fetchedAt": "2026-11-17T19:39:14.411Z",
+      "fetchedAt": "2026-11-18T02:09:03.894Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4077,7 +4077,7 @@
     },
     {
       "date": "2026-11-13",
-      "fetchedAt": "2026-11-17T19:39:14.411Z",
+      "fetchedAt": "2026-11-18T02:09:03.894Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4162,7 +4162,7 @@
     },
     {
       "date": "2026-11-14",
-      "fetchedAt": "2026-11-17T19:39:14.411Z",
+      "fetchedAt": "2026-11-18T02:09:03.894Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4287,7 +4287,7 @@
     },
     {
       "date": "2026-11-15",
-      "fetchedAt": "2026-11-17T19:39:14.411Z",
+      "fetchedAt": "2026-11-18T02:09:03.894Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4468,7 +4468,7 @@
     },
     {
       "date": "2026-11-16",
-      "fetchedAt": "2026-11-17T19:39:14.411Z",
+      "fetchedAt": "2026-11-18T02:09:03.894Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4681,7 +4681,7 @@
     },
     {
       "date": "2026-11-17",
-      "fetchedAt": "2026-11-17T19:39:14.411Z",
+      "fetchedAt": "2026-11-18T02:09:03.894Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4838,7 +4838,7 @@
     },
     {
       "date": "2026-11-18",
-      "fetchedAt": "2026-11-17T19:39:14.411Z",
+      "fetchedAt": "2026-11-18T02:09:03.894Z",
       "categories": [
         {
           "name": "AI Coding",
