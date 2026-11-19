@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T11:12:59.999Z",
-  "sourceUpdatedAt": "2026-11-18T18:15:06.000Z",
+  "generatedAt": "2026-11-19T19:59:57.497Z",
+  "sourceUpdatedAt": "2026-11-19T19:39:48.000Z",
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
   "sourceRange": {
     "start": "2026-09-08T16:00:00.000Z",
-    "end": "2026-11-18T15:59:59.000Z",
+    "end": "2026-11-19T15:59:59.000Z",
     "includingToday": false
   },
   "sources": {
@@ -114,7 +114,7 @@
         {
           "theme": "neutral",
           "size": "badge",
-          "width": 144,
+          "width": 150,
           "height": 20,
           "svg": "badges/editors/VlMgQ29kZQ/all-time.svg",
           "png": "badges/editors/VlMgQ29kZQ/all-time.png"
@@ -133,7 +133,7 @@
         {
           "theme": "neutral",
           "size": "badge",
-          "width": 154,
+          "width": 160,
           "height": 20,
           "svg": "badges/editors/Q29kZXggQ0xJ/all-time.svg",
           "png": "badges/editors/Q29kZXggQ0xJ/all-time.png"
@@ -148,7 +148,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-18; Asia/Shanghai",
+      "subtitle": "Through 2026-11-19; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -236,7 +236,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-18; Asia/Shanghai",
+      "subtitle": "Through 2026-11-19; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -280,7 +280,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-18; Asia/Shanghai",
+      "subtitle": "Through 2026-11-19; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -324,7 +324,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-18; Asia/Shanghai",
+      "subtitle": "Through 2026-11-19; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -368,13 +368,13 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-18; Asia/Shanghai",
+      "subtitle": "Through 2026-11-19; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
           "size": "wide",
           "width": 800,
-          "height": 3110,
+          "height": 3190,
           "svg": "charts/projects/all-time.light.wide.svg",
           "png": "charts/projects/all-time.light.wide.png"
         },
@@ -382,7 +382,7 @@
           "theme": "light",
           "size": "compact",
           "width": 400,
-          "height": 3110,
+          "height": 3190,
           "svg": "charts/projects/all-time.light.compact.svg",
           "png": "charts/projects/all-time.light.compact.png"
         },
@@ -390,7 +390,7 @@
           "theme": "dark",
           "size": "wide",
           "width": 800,
-          "height": 3110,
+          "height": 3190,
           "svg": "charts/projects/all-time.dark.wide.svg",
           "png": "charts/projects/all-time.dark.wide.png"
         },
@@ -398,7 +398,7 @@
           "theme": "dark",
           "size": "compact",
           "width": 400,
-          "height": 3110,
+          "height": 3190,
           "svg": "charts/projects/all-time.dark.compact.svg",
           "png": "charts/projects/all-time.dark.compact.png"
         }
@@ -412,7 +412,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-18; Asia/Shanghai",
+      "subtitle": "Through 2026-11-19; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -588,7 +588,7 @@
       "range": "2026",
       "status": "ready",
       "reason": null,
-      "subtitle": "72/72 days available; Asia/Shanghai",
+      "subtitle": "73/73 days available; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -632,7 +632,7 @@
       "range": "recent-hours",
       "status": "ready",
       "reason": null,
-      "subtitle": "2026-11-13 to 2026-11-19; Asia/Shanghai",
+      "subtitle": "2026-11-14 to 2026-11-20; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -676,7 +676,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-18; Asia/Shanghai",
+      "subtitle": "Through 2026-11-19; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -720,7 +720,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-18; Asia/Shanghai",
+      "subtitle": "Through 2026-11-19; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -764,7 +764,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-18; Asia/Shanghai",
+      "subtitle": "Through 2026-11-19; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
