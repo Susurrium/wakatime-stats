@@ -1,28 +1,28 @@
 <svg width="800" height="360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 360" role="img" aria-labelledby="sessions-title sessions-description">
 <rect width="800" height="360" x="0" y="0" fill="#111820"/>
-<path d="M155 305.5L770 305.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M155 264.5L770 264.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M155 223.5L770 223.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M155 182.5L770 182.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M155 141.5L770 141.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M155 100.5L770 100.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
+<path d="M155 305.5L770 305.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M155 264.5L770 264.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M155 223.5L770 223.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M155 182.5L770 182.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M155 141.5L770 141.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M155 100.5L770 100.5" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="-6" transform="translate(155 85)" fill="#a6b3c1">count</text>
-<path d="M155 305.5L770 305.5" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr74-cls-514"/>
-<path d="M155.5 305L155.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M197.5 305L197.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M240.5 305L240.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M282.5 305L282.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M324.5 305L324.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M367.5 305L367.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M409.5 305L409.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M452.5 305L452.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M494.5 305L494.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M536.5 305L536.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M579.5 305L579.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M621.5 305L621.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M664.5 305L664.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M706.5 305L706.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
-<path d="M749.5 305L749.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-514"/>
+<path d="M155 305.5L770 305.5" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr74-cls-516"/>
+<path d="M155.5 305L155.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M197.5 305L197.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M240.5 305L240.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M282.5 305L282.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M324.5 305L324.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M367.5 305L367.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M409.5 305L409.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M452.5 305L452.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M494.5 305L494.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M536.5 305L536.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M579.5 305L579.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M621.5 305L621.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M664.5 305L664.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M706.5 305L706.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
+<path d="M749.5 305L749.5 310" fill="none" pointer-events="visible" stroke="#344251" class="zr74-cls-516"/>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 305)" fill="#a6b3c1">0</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 264)" fill="#a6b3c1">30</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 223)" fill="#a6b3c1">60</text>
@@ -45,43 +45,43 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(706.3793 313)" fill="#a6b3c1">11-17</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(748.7931 313)" fill="#a6b3c1">11-19</text>
 <g clip-path="url(#zr74-c0)">
-<path d="M155 302.3L176.2 303.6L197.4 303.6L218.6 303.6L239.8 299.5L261 280.4L282.2 292.7L303.4 264L324.7 294.1L345.9 303.6L367.1 287.2L388.3 291.3L409.5 287.2L430.7 298.2L451.9 276.3L473.1 295.4L494.3 239.4L515.5 273.6L536.7 270.8L557.9 287.2L579.1 292.7L600.3 292.7L621.6 294.1L642.8 294.1L664 258.5L685.2 272.2L706.4 294.1L727.6 287.2L748.8 284.5L770 300.9" fill="none" pointer-events="visible" stroke="#38bdf8" stroke-width="2" stroke-linejoin="bevel" class="zr74-cls-516"/>
+<path d="M155 302.3L176.2 303.6L197.4 303.6L218.6 303.6L239.8 299.5L261 280.4L282.2 292.7L303.4 264L324.7 294.1L345.9 303.6L367.1 287.2L388.3 291.3L409.5 287.2L430.7 298.2L451.9 276.3L473.1 295.4L494.3 239.4L515.5 273.6L536.7 270.8L557.9 287.2L579.1 292.7L600.3 292.7L621.6 294.1L642.8 294.1L664 257.2L685.2 272.2L706.4 294.1L727.6 287.2L748.8 284.5L770 299.5" fill="none" pointer-events="visible" stroke="#38bdf8" stroke-width="2" stroke-linejoin="bevel" class="zr74-cls-518"/>
 </g>
 <g clip-path="url(#zr74-c1)">
-<path d="M155 302.3L176.2 305L197.4 290L218.6 303.6L239.8 291.3L261 246.2L282.2 277.7L303.4 224.4L324.7 276.3L345.9 303.6L367.1 266.7L388.3 274.9L409.5 279L430.7 287.2L451.9 192.9L473.1 290L494.3 192.9L515.5 233.9L536.7 124.6L557.9 227.1L579.1 277.7L600.3 232.6L621.6 273.6L642.8 288.6L664 126L685.2 195.7L706.4 265.4L727.6 246.2L748.8 244.9L770 296.8" fill="none" pointer-events="visible" stroke="#34d399" stroke-width="2" stroke-linejoin="bevel" class="zr74-cls-516"/>
+<path d="M155 302.3L176.2 305L197.4 290L218.6 303.6L239.8 291.3L261 246.2L282.2 277.7L303.4 224.4L324.7 276.3L345.9 303.6L367.1 266.7L388.3 274.9L409.5 279L430.7 287.2L451.9 192.9L473.1 290L494.3 192.9L515.5 233.9L536.7 124.6L557.9 227.1L579.1 277.7L600.3 232.6L621.6 273.6L642.8 288.6L664 113.7L685.2 195.7L706.4 265.4L727.6 246.2L748.8 244.9L770 292.7" fill="none" pointer-events="visible" stroke="#34d399" stroke-width="2" stroke-linejoin="bevel" class="zr74-cls-518"/>
 </g>
-<path d="M-5 -5l165.8 0l0 23.2l-165.8 0Z" transform="translate(322.1 61)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr74-cls-514"/>
-<path d="M0 7L25 7" transform="translate(323.1 60.6)" fill="#000" stroke="#38bdf8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr74-cls-514"/>
-<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.4A5.6 5.6 0 0 1 18.1 7" transform="translate(323.1 60.6)" fill="#fff" stroke="#38bdf8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr74-cls-514"/>
+<path d="M-5 -5l165.8 0l0 23.2l-165.8 0Z" transform="translate(322.1 61)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr74-cls-516"/>
+<path d="M0 7L25 7" transform="translate(323.1 60.6)" fill="#000" stroke="#38bdf8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr74-cls-516"/>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.4A5.6 5.6 0 0 1 18.1 7" transform="translate(323.1 60.6)" fill="#fff" stroke="#38bdf8" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr74-cls-516"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" x="30" y="7" transform="translate(323.1 60.6)" fill="#edf2f7">Sessions</text>
-<path d="M-1 0.4l75.8 0l0 13.2l-75.8 0Z" transform="translate(323.1 60.6)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" class="zr74-cls-517"/>
-<path d="M0 7L25 7" transform="translate(406.87 60.6)" fill="#000" stroke="#34d399" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr74-cls-514"/>
-<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.4A5.6 5.6 0 0 1 18.1 7" transform="translate(406.87 60.6)" fill="#fff" stroke="#34d399" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr74-cls-514"/>
+<path d="M-1 0.4l75.8 0l0 13.2l-75.8 0Z" transform="translate(323.1 60.6)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" class="zr74-cls-519"/>
+<path d="M0 7L25 7" transform="translate(406.87 60.6)" fill="#000" stroke="#34d399" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr74-cls-516"/>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.4A5.6 5.6 0 0 1 18.1 7" transform="translate(406.87 60.6)" fill="#fff" stroke="#34d399" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr74-cls-516"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" x="30" y="7" transform="translate(406.87 60.6)" fill="#edf2f7">Prompts</text>
-<path d="M-1 0.4l72 0l0 13.2l-72 0Z" transform="translate(406.87 60.6)" fill="none" pointer-events="visible" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" class="zr74-cls-517"/>
-<path d="M-5 -5l218.8 0l0 50l-218.8 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr74-cls-514"/>
+<path d="M-1 0.4l72 0l0 13.2l-72 0Z" transform="translate(406.87 60.6)" fill="none" pointer-events="visible" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" class="zr74-cls-519"/>
+<path d="M-5 -5l218.8 0l0 50l-218.8 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr74-cls-516"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="9.5" transform="translate(27 21)" fill="#edf2f7">AI sessions and prompts</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#a6b3c1">30/30 days available; Asia/Shanghai</text>
 <defs>
 <clipPath id="zr74-c0">
-<path d="M154 99l617 0l0 207l-617 0Z" fill="#000" class="zr74-cls-515"/>
+<path d="M154 99l617 0l0 207l-617 0Z" fill="#000" class="zr74-cls-517"/>
 </clipPath>
 <clipPath id="zr74-c1">
-<path d="M154 99l617 0l0 207l-617 0Z" fill="#000" class="zr74-cls-515"/>
+<path d="M154 99l617 0l0 207l-617 0Z" fill="#000" class="zr74-cls-517"/>
 </clipPath>
 </defs>
 <style><![CDATA[
-.zr74-cls-514:hover {
+.zr74-cls-516:hover {
 pointer-events:none;
 }
-.zr74-cls-515:hover {
+.zr74-cls-517:hover {
 cursor:pointer;
 fill:rgba(0,0,0,1);
 }
-.zr74-cls-516:hover {
+.zr74-cls-518:hover {
 cursor:pointer;
 }
-.zr74-cls-517:hover {
+.zr74-cls-519:hover {
 cursor:pointer;
 fill:rgba(0,0,0,0);
 }
