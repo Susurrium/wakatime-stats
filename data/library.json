@@ -3,7 +3,7 @@
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
-  "fetchedAt": "2026-11-20T09:43:12.801Z",
+  "fetchedAt": "2026-11-20T18:21:36.377Z",
   "sourceUpdatedAt": "2026-11-19T19:39:48.000Z",
   "privacyHash": "de65fae96f3138069d45a745c30c1e574d27355cab5ecc952bbdd98a52f08671",
   "sourceRange": {
@@ -13,7 +13,7 @@
   },
   "accountStart": "2026-09-09",
   "start": "2026-09-09",
-  "end": "2026-11-20",
+  "end": "2026-11-21",
   "allTime": {
     "categories": [
       {
@@ -4307,7 +4307,7 @@
     },
     {
       "date": "2026-11-15",
-      "fetchedAt": "2026-11-20T09:43:12.801Z",
+      "fetchedAt": "2026-11-20T18:21:36.377Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4488,7 +4488,7 @@
     },
     {
       "date": "2026-11-16",
-      "fetchedAt": "2026-11-20T09:43:12.801Z",
+      "fetchedAt": "2026-11-20T18:21:36.377Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4701,7 +4701,7 @@
     },
     {
       "date": "2026-11-17",
-      "fetchedAt": "2026-11-20T09:43:12.801Z",
+      "fetchedAt": "2026-11-20T18:21:36.377Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4858,7 +4858,7 @@
     },
     {
       "date": "2026-11-18",
-      "fetchedAt": "2026-11-20T09:43:12.801Z",
+      "fetchedAt": "2026-11-20T18:21:36.377Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4987,7 +4987,7 @@
     },
     {
       "date": "2026-11-19",
-      "fetchedAt": "2026-11-20T09:43:12.801Z",
+      "fetchedAt": "2026-11-20T18:21:36.377Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5144,11 +5144,11 @@
     },
     {
       "date": "2026-11-20",
-      "fetchedAt": "2026-11-20T09:43:12.801Z",
+      "fetchedAt": "2026-11-20T18:21:36.377Z",
       "categories": [
         {
           "name": "AI Coding",
-          "seconds": 2027.21
+          "seconds": 4609.701
         },
         {
           "name": "Coding",
@@ -5158,35 +5158,47 @@
       "editors": [
         {
           "name": "Codex Vscode",
-          "seconds": 1132.17
+          "seconds": 3431.677
+        },
+        {
+          "name": "Codex CLI",
+          "seconds": 673.67
         },
         {
           "name": "VS Code",
           "seconds": 630.59
-        },
-        {
-          "name": "Codex CLI",
-          "seconds": 390.686
         }
       ],
       "languages": [
+        {
+          "name": "Other",
+          "seconds": 2302.973
+        },
         {
           "name": "Python",
           "seconds": 1765.25
         },
         {
           "name": "C++",
-          "seconds": 388.196
+          "seconds": 667.714
         }
       ],
       "projects": [
+        {
+          "name": "new-chat-2",
+          "seconds": 2069.425
+        },
         {
           "name": "有机实验",
           "seconds": 1765.25
         },
         {
           "name": "计概A",
-          "seconds": 261.96
+          "seconds": 541.478
+        },
+        {
+          "name": "new-chat-3",
+          "seconds": 233.548
         },
         {
           "name": "practice",
@@ -5196,33 +5208,41 @@
       "operatingSystems": [
         {
           "name": "Windows",
-          "seconds": 2153.446
+          "seconds": 4735.937
         }
       ],
-      "totalSeconds": 2153.446,
+      "totalSeconds": 4735.937,
       "ai": {
-        "ai_additions": 130,
+        "ai_additions": 159,
         "ai_deletions": 0,
         "human_additions": 0,
         "human_deletions": 0,
-        "ai_input_tokens": 154828,
-        "ai_output_tokens": 36344,
-        "ai_sessions": 4,
-        "ai_prompt_events_total": 9,
-        "ai_prompt_length_avg": 1088,
-        "ai_prompt_length_avg_per_session": 2126,
-        "ai_prompt_length_median_per_session": 266,
-        "ai_prompt_events_avg_per_session": 2,
-        "ai_prompt_events_median_per_session": 2,
-        "ai_model_total_cost": 4.225848,
+        "ai_input_tokens": 751213,
+        "ai_output_tokens": 54559,
+        "ai_sessions": 7,
+        "ai_prompt_events_total": 28,
+        "ai_prompt_length_avg": 1056,
+        "ai_prompt_length_avg_per_session": 1960,
+        "ai_prompt_length_median_per_session": 404,
+        "ai_prompt_events_avg_per_session": 4,
+        "ai_prompt_events_median_per_session": 4,
+        "ai_model_total_cost": 7.446267,
         "models": [
           {
             "name": "Codex-Vscode",
-            "lines": 130,
-            "cost": 3.10071,
-            "input_tokens": 136125,
-            "output_tokens": 9525,
-            "cached_input_tokens": 849820
+            "lines": 159,
+            "cost": 3.517941,
+            "input_tokens": 141690,
+            "output_tokens": 12955,
+            "cached_input_tokens": 966182
+          },
+          {
+            "name": "GPT",
+            "lines": 0,
+            "cost": 2.926185,
+            "input_tokens": 592150,
+            "output_tokens": 17555,
+            "cached_input_tokens": 10907292
           },
           {
             "name": "Vscode",
@@ -5231,49 +5251,101 @@
             "input_tokens": 17373,
             "output_tokens": 24049,
             "cached_input_tokens": 196429
-          },
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "fetchedAt": "2026-11-20T18:21:36.377Z",
+      "categories": [
+        {
+          "name": "AI Coding",
+          "seconds": 5393.307
+        }
+      ],
+      "editors": [
+        {
+          "name": "Codex Vscode",
+          "seconds": 5376.022
+        },
+        {
+          "name": "Codex CLI",
+          "seconds": 17.285
+        }
+      ],
+      "languages": [
+        {
+          "name": "Python",
+          "seconds": 3466.93
+        },
+        {
+          "name": "Markdown",
+          "seconds": 1369.353
+        },
+        {
+          "name": "JavaScript",
+          "seconds": 345.841
+        },
+        {
+          "name": "Other",
+          "seconds": 211.183
+        }
+      ],
+      "projects": [
+        {
+          "name": "挑战杯mods",
+          "seconds": 4806.715
+        },
+        {
+          "name": "仪器分析",
+          "seconds": 586.592
+        }
+      ],
+      "operatingSystems": [
+        {
+          "name": "Windows",
+          "seconds": 5393.307
+        }
+      ],
+      "totalSeconds": 5393.307,
+      "ai": {
+        "ai_additions": 1129,
+        "ai_deletions": 1,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "ai_input_tokens": 381756,
+        "ai_output_tokens": 82413,
+        "ai_sessions": 3,
+        "ai_prompt_events_total": 20,
+        "ai_prompt_length_avg": 1306,
+        "ai_prompt_length_avg_per_session": 1359,
+        "ai_prompt_length_median_per_session": 1343,
+        "ai_prompt_events_avg_per_session": 7,
+        "ai_prompt_events_median_per_session": 6,
+        "ai_model_total_cost": 42.118037,
+        "models": [
           {
             "name": "GPT",
+            "lines": 1130,
+            "cost": 42.118037,
+            "input_tokens": 381756,
+            "output_tokens": 82413,
+            "cached_input_tokens": 35634176
+          },
+          {
+            "name": "Codex-Vscode",
             "lines": 0,
-            "cost": 0.122997,
-            "input_tokens": 1330,
-            "output_tokens": 2770,
-            "cached_input_tokens": 926364
+            "cost": 0,
+            "input_tokens": 0,
+            "output_tokens": 0,
+            "cached_input_tokens": 0
           }
         ]
       }
     }
   ],
   "hourly": [
-    {
-      "date": "2026-11-14",
-      "hours": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        730.774,
-        245.983,
-        1497.119,
-        594.6419999999999
-      ]
-    },
     {
       "date": "2026-11-15",
       "hours": [
@@ -5437,7 +5509,36 @@
         0,
         0,
         0,
-        261.96,
+        541.478,
+        0,
+        0,
+        49.569,
+        2253.404,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "hours": [
+        571.71,
+        3600,
+        1221.597,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -5455,7 +5556,7 @@
       "targetSeconds": 10800,
       "period": "day",
       "status": "pending",
-      "actualSeconds": 2153.446,
+      "actualSeconds": 5393.307,
       "periodTarget": 10800
     }
   ],
