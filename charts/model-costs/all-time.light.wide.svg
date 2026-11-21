@@ -1,33 +1,37 @@
 <svg width="800" height="360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 360" role="img" aria-labelledby="model-costs-title model-costs-description">
 <rect width="800" height="360" x="0" y="0" fill="#ffffff"/>
-<path d="M155.5 100L155.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-460"/>
-<path d="M276.5 100L276.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-460"/>
-<path d="M397.5 100L397.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-460"/>
-<path d="M518.5 100L518.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-460"/>
-<path d="M639.5 100L639.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-460"/>
-<path d="M760.5 100L760.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-460"/>
-<path d="M155.5 305L155.5 100" fill="none" pointer-events="visible" stroke="#e5e9ed" stroke-linecap="round" class="zr56-cls-460"/>
+<path d="M155.5 100L155.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-462"/>
+<path d="M241.5 100L241.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-462"/>
+<path d="M328.5 100L328.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-462"/>
+<path d="M414.5 100L414.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-462"/>
+<path d="M500.5 100L500.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-462"/>
+<path d="M587.5 100L587.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-462"/>
+<path d="M673.5 100L673.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-462"/>
+<path d="M760.5 100L760.5 305" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr56-cls-462"/>
+<path d="M155.5 305L155.5 100" fill="none" pointer-events="visible" stroke="#e5e9ed" stroke-linecap="round" class="zr56-cls-462"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(774.92 305)" fill="#536170">cost</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 270.8333)" fill="#536170">Vscode</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 202.5)" fill="#536170">GPT</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 134.1667)" fill="#536170">Codex-Vscode</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 202.5)" fill="#536170">Codex-Vscode</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 134.1667)" fill="#536170">GPT</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(155 313)" fill="#536170">0</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(275.984 313)" fill="#536170">200</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(396.968 313)" fill="#536170">400</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(517.952 313)" fill="#536170">600</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(638.936 313)" fill="#536170">800</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(759.92 313)" fill="#536170">1,000</text>
-<path d="M155 258.8l5.5 0l0 24l-5.5 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr56-cls-461"/>
-<path d="M155 190.5l353.3 0l0 24l-353.3 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr56-cls-461"/>
-<path d="M155 122.2l573.5 0l0 24l-573.5 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr56-cls-461"/>
-<path d="M-5 -5l215.6 0l0 50l-215.6 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr56-cls-460"/>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(241.4171 313)" fill="#536170">300</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(327.8343 313)" fill="#536170">600</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(414.2514 313)" fill="#536170">900</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(500.6686 313)" fill="#536170">1,200</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(587.0857 313)" fill="#536170">1,500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(673.5029 313)" fill="#536170">1,800</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(759.92 313)" fill="#536170">2,100</text>
+<path d="M155 258.8l2.6 0l0 24l-2.6 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr56-cls-463"/>
+<path d="M155 190.5l302.1 0l0 24l-302.1 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr56-cls-463"/>
+<path d="M155 122.2l534.2 0l0 24l-534.2 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr56-cls-463"/>
+<path d="M-5 -5l215.6 0l0 50l-215.6 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr56-cls-462"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="9.5" transform="translate(27 21)" fill="#17212b">Estimated AI model cost</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#536170">Through 2026-11-20; Asia/Shanghai</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#536170">Through 2026-11-21; Asia/Shanghai</text>
 <style><![CDATA[
-.zr56-cls-460:hover {
+.zr56-cls-462:hover {
 pointer-events:none;
 }
-.zr56-cls-461:hover {
+.zr56-cls-463:hover {
 cursor:pointer;
 fill:rgba(2,145,218,1);
 }
@@ -35,4 +39,4 @@ fill:rgba(2,145,218,1);
 ]]>
 
 </style>
-<title id="model-costs-title">Estimated AI model cost</title><desc id="model-costs-description">按来源 Token 价格估算的美元费用。 Through 2026-11-20; Asia/Shanghai </desc></svg>
+<title id="model-costs-title">Estimated AI model cost</title><desc id="model-costs-description">按来源 Token 价格估算的美元费用。 Through 2026-11-21; Asia/Shanghai </desc></svg>

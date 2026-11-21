@@ -2,10 +2,10 @@
 <rect width="400" height="300" x="0" y="0" fill="#111820"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(32 110)" fill="#edf2f7">Activity hours</text>
 <path d="M0 0l47.9 0l0 24l-47.9 0Z" transform="translate(32 136)" fill="none" pointer-events="visible" class="zr7-cls-14"/>
-<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(32 136)" fill="#edf2f7">117.2</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(32 136)" fill="#edf2f7">119.7</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(216 110)" fill="#edf2f7">Daily average hours</text>
 <path d="M0 0l26.6 0l0 24l-26.6 0Z" transform="translate(216 136)" fill="none" pointer-events="visible" class="zr7-cls-14"/>
-<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(216 136)" fill="#edf2f7">3.9</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(216 136)" fill="#edf2f7">4.0</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(32 210)" fill="#edf2f7">Active days</text>
 <path d="M0 0l21.3 0l0 24l-21.3 0Z" transform="translate(32 236)" fill="none" pointer-events="visible" class="zr7-cls-14"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:sans-serif;" y="12" transform="translate(32 236)" fill="#edf2f7">30</text>
