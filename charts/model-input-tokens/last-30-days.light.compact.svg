@@ -1,13 +1,13 @@
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 400 300" role="img" aria-labelledby="model-input-tokens-title model-input-tokens-description">
 <rect width="400" height="300" x="0" y="0" fill="#ffffff"/>
-<path d="M110.5 100L110.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-484"/>
-<path d="M144.5 100L144.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-484"/>
-<path d="M178.5 100L178.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-484"/>
-<path d="M213.5 100L213.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-484"/>
-<path d="M247.5 100L247.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-484"/>
-<path d="M281.5 100L281.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-484"/>
-<path d="M315.5 100L315.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-484"/>
-<path d="M110.5 245L110.5 100" fill="none" pointer-events="visible" stroke="#e5e9ed" stroke-linecap="round" class="zr61-cls-484"/>
+<path d="M110.5 100L110.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-486"/>
+<path d="M144.5 100L144.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-486"/>
+<path d="M178.5 100L178.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-486"/>
+<path d="M213.5 100L213.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-486"/>
+<path d="M247.5 100L247.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-486"/>
+<path d="M281.5 100L281.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-486"/>
+<path d="M315.5 100L315.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr61-cls-486"/>
+<path d="M110.5 245L110.5 100" fill="none" pointer-events="visible" stroke="#e5e9ed" stroke-linecap="round" class="zr61-cls-486"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(330.6 245)" fill="#536170">input_tokens</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 220.8333)" fill="#536170">Vscode</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 172.5)" fill="#536170">Codex-Vscode</text>
@@ -18,17 +18,17 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(212.8 253)" fill="#536170">30,000,000</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(247.0667 253)" fill="#536170">40,000,000</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(281.3333 253)" fill="#536170">50,000,000</text>
-<path d="M110 208.8l1 0l0 24l-1 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr61-cls-485"/>
-<path d="M110 160.5l26.5 0l0 24l-26.5 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr61-cls-485"/>
-<path d="M110 112.2l172.2 0l0 24l-172.2 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr61-cls-485"/>
-<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr61-cls-484"/>
+<path d="M110 208.8l1 0l0 24l-1 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr61-cls-487"/>
+<path d="M110 160.5l26.5 0l0 24l-26.5 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr61-cls-487"/>
+<path d="M110 112.2l173.3 0l0 24l-173.3 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr61-cls-487"/>
+<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr61-cls-486"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#17212b">AI model input tokens</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#536170">30/30 days available; Asia/Shanghai</text>
 <style><![CDATA[
-.zr61-cls-484:hover {
+.zr61-cls-486:hover {
 pointer-events:none;
 }
-.zr61-cls-485:hover {
+.zr61-cls-487:hover {
 cursor:pointer;
 fill:rgba(2,145,218,1);
 }
