@@ -1,15 +1,15 @@
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 400 300" role="img" aria-labelledby="models-title models-description">
 <rect width="400" height="300" x="0" y="0" fill="#ffffff"/>
-<path d="M110.5 100L110.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-474"/>
-<path d="M141.5 100L141.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-474"/>
-<path d="M172.5 100L172.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-474"/>
-<path d="M203.5 100L203.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-474"/>
-<path d="M234.5 100L234.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-474"/>
-<path d="M266.5 100L266.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-474"/>
-<path d="M297.5 100L297.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-474"/>
-<path d="M328.5 100L328.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-474"/>
-<path d="M359.5 100L359.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-474"/>
-<path d="M110.5 245L110.5 100" fill="none" pointer-events="visible" stroke="#e5e9ed" stroke-linecap="round" class="zr53-cls-474"/>
+<path d="M110.5 100L110.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-464"/>
+<path d="M141.5 100L141.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-464"/>
+<path d="M172.5 100L172.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-464"/>
+<path d="M203.5 100L203.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-464"/>
+<path d="M234.5 100L234.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-464"/>
+<path d="M266.5 100L266.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-464"/>
+<path d="M297.5 100L297.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-464"/>
+<path d="M328.5 100L328.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-464"/>
+<path d="M359.5 100L359.5 245" fill="none" pointer-events="visible" stroke="#e5e9ed" class="zr53-cls-464"/>
+<path d="M110.5 245L110.5 100" fill="none" pointer-events="visible" stroke="#e5e9ed" stroke-linecap="round" class="zr53-cls-464"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(374.28 245)" fill="#536170">lines</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 220.8333)" fill="#536170">Vscode</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 172.5)" fill="#536170">Codex-Vscode</text>
@@ -22,17 +22,17 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(265.8 253)" fill="#536170">50,000</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(296.96 253)" fill="#536170">60,000</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(328.12 253)" fill="#536170">70,000</text>
-<path d="M110 208.8l0.9 0l0 24l-0.9 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr53-cls-475"/>
-<path d="M110 160.5l64.8 0l0 24l-64.8 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr53-cls-475"/>
-<path d="M110 112.2l228.3 0l0 24l-228.3 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr53-cls-475"/>
-<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr53-cls-474"/>
+<path d="M110 208.8l0.9 0l0 24l-0.9 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr53-cls-465"/>
+<path d="M110 160.5l64.8 0l0 24l-64.8 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr53-cls-465"/>
+<path d="M110 112.2l228.3 0l0 24l-228.3 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr53-cls-465"/>
+<path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr53-cls-464"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#17212b">AI model code changes</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#536170">Through 2026-11-21; Asia/Shanghai</text>
 <style><![CDATA[
-.zr53-cls-474:hover {
+.zr53-cls-464:hover {
 pointer-events:none;
 }
-.zr53-cls-475:hover {
+.zr53-cls-465:hover {
 cursor:pointer;
 fill:rgba(2,145,218,1);
 }
