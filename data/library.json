@@ -3,7 +3,7 @@
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
-  "fetchedAt": "2026-11-22T02:50:59.492Z",
+  "fetchedAt": "2026-11-22T10:46:06.740Z",
   "sourceUpdatedAt": "2026-11-21T16:06:12.000Z",
   "privacyHash": "de65fae96f3138069d45a745c30c1e574d27355cab5ecc952bbdd98a52f08671",
   "sourceRange": {
@@ -4496,7 +4496,7 @@
     },
     {
       "date": "2026-11-16",
-      "fetchedAt": "2026-11-22T02:50:59.492Z",
+      "fetchedAt": "2026-11-22T10:46:06.740Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4709,7 +4709,7 @@
     },
     {
       "date": "2026-11-17",
-      "fetchedAt": "2026-11-22T02:50:59.492Z",
+      "fetchedAt": "2026-11-22T10:46:06.740Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4866,7 +4866,7 @@
     },
     {
       "date": "2026-11-18",
-      "fetchedAt": "2026-11-22T02:50:59.492Z",
+      "fetchedAt": "2026-11-22T10:46:06.740Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -4995,7 +4995,7 @@
     },
     {
       "date": "2026-11-19",
-      "fetchedAt": "2026-11-22T02:50:59.492Z",
+      "fetchedAt": "2026-11-22T10:46:06.740Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5152,7 +5152,7 @@
     },
     {
       "date": "2026-11-20",
-      "fetchedAt": "2026-11-22T02:50:59.492Z",
+      "fetchedAt": "2026-11-22T10:46:06.740Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5265,7 +5265,7 @@
     },
     {
       "date": "2026-11-21",
-      "fetchedAt": "2026-11-22T02:50:59.492Z",
+      "fetchedAt": "2026-11-22T10:46:06.740Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5414,11 +5414,15 @@
     },
     {
       "date": "2026-11-22",
-      "fetchedAt": "2026-11-22T02:50:59.492Z",
+      "fetchedAt": "2026-11-22T10:46:06.740Z",
       "categories": [
         {
           "name": "AI Coding",
-          "seconds": 9352.843
+          "seconds": 15925.974
+        },
+        {
+          "name": "Coding",
+          "seconds": 1901.913
         },
         {
           "name": "Writing Docs",
@@ -5428,43 +5432,67 @@
       "editors": [
         {
           "name": "Codex Vscode",
-          "seconds": 9115.753
+          "seconds": 14749.751
         },
         {
           "name": "VS Code",
-          "seconds": 238.897
+          "seconds": 2140.81
         },
         {
           "name": "Codex CLI",
-          "seconds": 5.498
+          "seconds": 944.631
         }
       ],
       "languages": [
         {
           "name": "TypeScript",
-          "seconds": 4306.682
+          "seconds": 5355.222
         },
         {
           "name": "Markdown",
-          "seconds": 2547.542
+          "seconds": 3373.738
         },
         {
           "name": "CSS",
-          "seconds": 2386
+          "seconds": 2697.655
         },
         {
           "name": "Other",
-          "seconds": 119.924
+          "seconds": 2149.082
+        },
+        {
+          "name": "TeX",
+          "seconds": 1901.913
+        },
+        {
+          "name": "JavaScript",
+          "seconds": 1821.132
+        },
+        {
+          "name": "JSON",
+          "seconds": 520.411
+        },
+        {
+          "name": "HTML",
+          "seconds": 16.039
         }
       ],
       "projects": [
         {
           "name": "pagewise",
-          "seconds": 8811.476
+          "seconds": 14959.688
+        },
+        {
+          "name": "Unknown Project",
+          "seconds": 1901.913
         },
         {
           "name": "sites-checkout",
           "seconds": 428.748
+        },
+        {
+          "name": "仪器分析实验",
+          "seconds": 424.919
         },
         {
           "name": "blog_susurrium",
@@ -5474,41 +5502,41 @@
       "operatingSystems": [
         {
           "name": "Windows",
-          "seconds": 9360.148
+          "seconds": 17835.192
         }
       ],
-      "totalSeconds": 9360.148,
+      "totalSeconds": 17835.192,
       "ai": {
-        "ai_additions": 651,
-        "ai_deletions": 9,
-        "human_additions": 2,
+        "ai_additions": 1678,
+        "ai_deletions": 39,
+        "human_additions": 26,
         "human_deletions": 0,
-        "ai_input_tokens": 2456893,
-        "ai_output_tokens": 289900,
-        "ai_sessions": 9,
-        "ai_prompt_events_total": 30,
-        "ai_prompt_length_avg": 741,
-        "ai_prompt_length_avg_per_session": 700,
-        "ai_prompt_length_median_per_session": 82,
+        "ai_input_tokens": 3528600,
+        "ai_output_tokens": 390858,
+        "ai_sessions": 16,
+        "ai_prompt_events_total": 48,
+        "ai_prompt_length_avg": 1306,
+        "ai_prompt_length_avg_per_session": 2299,
+        "ai_prompt_length_median_per_session": 629,
         "ai_prompt_events_avg_per_session": 3,
-        "ai_prompt_events_median_per_session": 3,
-        "ai_model_total_cost": 24.482954,
+        "ai_prompt_events_median_per_session": 2,
+        "ai_model_total_cost": 96.363299,
         "models": [
           {
             "name": "GPT",
-            "lines": 660,
-            "cost": 24.482954,
-            "input_tokens": 2456893,
-            "output_tokens": 289900,
-            "cached_input_tokens": 205776896
+            "lines": 1717,
+            "cost": 91.647074,
+            "input_tokens": 3507254,
+            "output_tokens": 385557,
+            "cached_input_tokens": 272866944
           },
           {
             "name": "Codex-Vscode",
             "lines": 0,
-            "cost": 0,
-            "input_tokens": 0,
-            "output_tokens": 0,
-            "cached_input_tokens": 0
+            "cost": 4.716225,
+            "input_tokens": 21346,
+            "output_tokens": 5301,
+            "cached_input_tokens": 1524224
           }
         ]
       }
@@ -5694,7 +5722,8 @@
       "hours": [
         3600.0000000000005,
         3600,
-        2160.148,
+        2236.263,
+        24.773,
         0,
         0,
         0,
@@ -5704,13 +5733,12 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1218.699,
+        2201.641,
+        419.882,
+        3600,
+        641.098,
+        292.836,
         0,
         0,
         0,
@@ -5724,8 +5752,8 @@
       "name": "Daily 3h",
       "targetSeconds": 10800,
       "period": "day",
-      "status": "pending",
-      "actualSeconds": 9360.148,
+      "status": "success",
+      "actualSeconds": 17835.192,
       "periodTarget": 10800
     }
   ],

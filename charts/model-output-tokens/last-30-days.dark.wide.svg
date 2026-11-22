@@ -1,12 +1,12 @@
 <svg width="800" height="360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 360" role="img" aria-labelledby="model-output-tokens-title model-output-tokens-description">
 <rect width="800" height="360" x="0" y="0" fill="#111820"/>
-<path d="M155.5 100L155.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-482"/>
-<path d="M265.5 100L265.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-482"/>
-<path d="M375.5 100L375.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-482"/>
-<path d="M485.5 100L485.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-482"/>
-<path d="M596.5 100L596.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-482"/>
-<path d="M706.5 100L706.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-482"/>
-<path d="M155.5 305L155.5 100" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr66-cls-482"/>
+<path d="M155.5 100L155.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-500"/>
+<path d="M265.5 100L265.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-500"/>
+<path d="M375.5 100L375.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-500"/>
+<path d="M485.5 100L485.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-500"/>
+<path d="M596.5 100L596.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-500"/>
+<path d="M706.5 100L706.5 305" fill="none" pointer-events="visible" stroke="#344251" class="zr66-cls-500"/>
+<path d="M155.5 305L155.5 100" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr66-cls-500"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(721.16 305)" fill="#a6b3c1">output_tokens</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 270.8333)" fill="#a6b3c1">Vscode</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(147 202.5)" fill="#a6b3c1">Codex-Vscode</text>
@@ -17,17 +17,17 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(485.696 313)" fill="#a6b3c1">6,000,000</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(595.928 313)" fill="#a6b3c1">8,000,000</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(706.16 313)" fill="#a6b3c1">10,000,000</text>
-<path d="M155 258.8l2.4 0l0 24l-2.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr66-cls-483"/>
-<path d="M155 190.5l81.2 0l0 24l-81.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr66-cls-483"/>
-<path d="M155 122.2l464.1 0l0 24l-464.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr66-cls-483"/>
-<path d="M-5 -5l205.3 0l0 50l-205.3 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr66-cls-482"/>
+<path d="M155 258.8l2.4 0l0 24l-2.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr66-cls-501"/>
+<path d="M155 190.5l81.5 0l0 24l-81.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr66-cls-501"/>
+<path d="M155 122.2l469.4 0l0 24l-469.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr66-cls-501"/>
+<path d="M-5 -5l205.3 0l0 50l-205.3 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr66-cls-500"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="9.5" transform="translate(27 21)" fill="#edf2f7">AI model output tokens</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#a6b3c1">30/30 days available; Asia/Shanghai</text>
 <style><![CDATA[
-.zr66-cls-482:hover {
+.zr66-cls-500:hover {
 pointer-events:none;
 }
-.zr66-cls-483:hover {
+.zr66-cls-501:hover {
 cursor:pointer;
 fill:rgba(61,207,255,1);
 }
