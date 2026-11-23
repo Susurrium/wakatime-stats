@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T18:15:39.554Z",
-  "sourceUpdatedAt": "2026-11-21T16:06:12.000Z",
+  "generatedAt": "2026-11-23T00:00:21.415Z",
+  "sourceUpdatedAt": "2026-11-22T18:15:40.000Z",
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
   "sourceRange": {
     "start": "2026-09-08T16:00:00.000Z",
-    "end": "2026-11-21T15:59:59.000Z",
+    "end": "2026-11-22T15:59:59.000Z",
     "includingToday": false
   },
   "sources": {
@@ -38,7 +38,7 @@
         {
           "theme": "neutral",
           "size": "badge",
-          "width": 156,
+          "width": 162,
           "height": 20,
           "svg": "badges/coding/all-time.svg",
           "png": "badges/coding/all-time.png"
@@ -133,7 +133,7 @@
         {
           "theme": "neutral",
           "size": "badge",
-          "width": 160,
+          "width": 154,
           "height": 20,
           "svg": "badges/editors/Q29kZXggQ0xJ/all-time.svg",
           "png": "badges/editors/Q29kZXggQ0xJ/all-time.png"
@@ -148,7 +148,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-21; Asia/Shanghai",
+      "subtitle": "Through 2026-11-22; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -236,7 +236,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-21; Asia/Shanghai",
+      "subtitle": "Through 2026-11-22; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -280,7 +280,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-21; Asia/Shanghai",
+      "subtitle": "Through 2026-11-22; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -324,7 +324,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-21; Asia/Shanghai",
+      "subtitle": "Through 2026-11-22; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -368,7 +368,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-21; Asia/Shanghai",
+      "subtitle": "Through 2026-11-22; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -412,7 +412,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-21; Asia/Shanghai",
+      "subtitle": "Through 2026-11-22; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -676,7 +676,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-21; Asia/Shanghai",
+      "subtitle": "Through 2026-11-22; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -720,7 +720,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-21; Asia/Shanghai",
+      "subtitle": "Through 2026-11-22; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",
@@ -764,7 +764,7 @@
       "range": "all-time",
       "status": "ready",
       "reason": null,
-      "subtitle": "Through 2026-11-21; Asia/Shanghai",
+      "subtitle": "Through 2026-11-22; Asia/Shanghai",
       "variants": [
         {
           "theme": "light",

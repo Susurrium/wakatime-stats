@@ -22,11 +22,11 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(325.9314 253)" fill="#a6b3c1">1,800</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(361.92 253)" fill="#a6b3c1">2,100</text>
 <path d="M110 208.8l1.1 0l0 24l-1.1 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr59-cls-477"/>
-<path d="M110 160.5l125.8 0l0 24l-125.8 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr59-cls-477"/>
-<path d="M110 112.2l222.5 0l0 24l-222.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr59-cls-477"/>
+<path d="M110 160.5l126.4 0l0 24l-126.4 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr59-cls-477"/>
+<path d="M110 112.2l233.5 0l0 24l-233.5 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr59-cls-477"/>
 <path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr59-cls-476"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#edf2f7">Estimated AI model cost</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#a6b3c1">Through 2026-11-21; Asia/Shanghai</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#a6b3c1">Through 2026-11-22; Asia/Shanghai</text>
 <style><![CDATA[
 .zr59-cls-476:hover {
 pointer-events:none;
@@ -39,4 +39,4 @@ fill:rgba(61,207,255,1);
 ]]>
 
 </style>
-<title id="model-costs-title">Estimated AI model cost</title><desc id="model-costs-description">按来源 Token 价格估算的美元费用。 Through 2026-11-21; Asia/Shanghai </desc></svg>
+<title id="model-costs-title">Estimated AI model cost</title><desc id="model-costs-description">按来源 Token 价格估算的美元费用。 Through 2026-11-22; Asia/Shanghai </desc></svg>
