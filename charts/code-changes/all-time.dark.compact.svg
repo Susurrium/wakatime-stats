@@ -1,13 +1,13 @@
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 400 300" role="img" aria-labelledby="code-changes-title code-changes-description">
 <rect width="400" height="300" x="0" y="0" fill="#111820"/>
-<path d="M110 245.5L370 245.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-470"/>
-<path d="M110 216.5L370 216.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-470"/>
-<path d="M110 187.5L370 187.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-470"/>
-<path d="M110 158.5L370 158.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-470"/>
-<path d="M110 129.5L370 129.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-470"/>
-<path d="M110 100.5L370 100.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-470"/>
+<path d="M110 245.5L370 245.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-472"/>
+<path d="M110 216.5L370 216.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-472"/>
+<path d="M110 187.5L370 187.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-472"/>
+<path d="M110 158.5L370 158.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-472"/>
+<path d="M110 129.5L370 129.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-472"/>
+<path d="M110 100.5L370 100.5" fill="none" pointer-events="visible" stroke="#344251" class="zr51-cls-472"/>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="-6" transform="translate(110 85)" fill="#a6b3c1">lines</text>
-<path d="M110 245.5L370 245.5" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr51-cls-470"/>
+<path d="M110 245.5L370 245.5" fill="none" pointer-events="visible" stroke="#344251" stroke-linecap="round" class="zr51-cls-472"/>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 245)" fill="#a6b3c1">0</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 216)" fill="#a6b3c1">20,000</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 187)" fill="#a6b3c1">40,000</text>
@@ -16,33 +16,33 @@
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" transform="translate(102 100)" fill="#a6b3c1">100,000</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(175 253)" fill="#a6b3c1">AI</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" y="6" transform="translate(305 253)" fill="#a6b3c1">Human</text>
-<path d="M127.6 245l45.2 0l0 -137.9l-45.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr51-cls-471"/>
-<path d="M257.6 245l45.2 0l0 -1.3l-45.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr51-cls-471"/>
-<path d="M177.3 245l45.2 0l0 -1.6l-45.2 0Z" fill="#34d399" ecmeta_series_index="1" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr51-cls-472"/>
-<path d="M307.3 245l45.2 0l0 -0.6l-45.2 0Z" fill="#34d399" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr51-cls-472"/>
-<path d="M-5 -5l148.1 0l0 24l-148.1 0Z" transform="translate(130.965 61)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr51-cls-470"/>
-<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(130.965 61)" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr51-cls-470"/>
+<path d="M127.6 245l45.2 0l0 -137.9l-45.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr51-cls-473"/>
+<path d="M257.6 245l45.2 0l0 -1.3l-45.2 0Z" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr51-cls-473"/>
+<path d="M177.3 245l45.2 0l0 -1.6l-45.2 0Z" fill="#34d399" ecmeta_series_index="1" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr51-cls-474"/>
+<path d="M307.3 245l45.2 0l0 -0.6l-45.2 0Z" fill="#34d399" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr51-cls-474"/>
+<path d="M-5 -5l148.1 0l0 24l-148.1 0Z" transform="translate(130.965 61)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr51-cls-472"/>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(130.965 61)" fill="#38bdf8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr51-cls-472"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" x="30" y="7" transform="translate(130.965 61)" fill="#edf2f7">Added</text>
-<path d="M0 0l62 0l0 14l-62 0Z" transform="translate(130.965 61)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" class="zr51-cls-473"/>
-<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(200.975 61)" fill="#34d399" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr51-cls-470"/>
+<path d="M0 0l62 0l0 14l-62 0Z" transform="translate(130.965 61)" fill="none" pointer-events="visible" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" class="zr51-cls-475"/>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0Z" transform="translate(200.975 61)" fill="#34d399" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr51-cls-472"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" x="30" y="7" transform="translate(200.975 61)" fill="#edf2f7">Deleted</text>
-<path d="M0 0l68.1 0l0 14l-68.1 0Z" transform="translate(200.975 61)" fill="none" pointer-events="visible" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" class="zr51-cls-473"/>
-<path d="M-5 -5l217.4 0l0 47l-217.4 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr51-cls-470"/>
+<path d="M0 0l68.1 0l0 14l-68.1 0Z" transform="translate(200.975 61)" fill="none" pointer-events="visible" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" class="zr51-cls-475"/>
+<path d="M-5 -5l217.4 0l0 47l-217.4 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr51-cls-472"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="8" transform="translate(27 21)" fill="#edf2f7">Code additions and deletions</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#a6b3c1">Through 2026-11-23; Asia/Shanghai</text>
 <style><![CDATA[
-.zr51-cls-470:hover {
+.zr51-cls-472:hover {
 pointer-events:none;
 }
-.zr51-cls-471:hover {
+.zr51-cls-473:hover {
 cursor:pointer;
 fill:rgba(61,207,255,1);
 }
-.zr51-cls-472:hover {
+.zr51-cls-474:hover {
 cursor:pointer;
 fill:rgba(57,232,168,1);
 }
-.zr51-cls-473:hover {
+.zr51-cls-475:hover {
 cursor:pointer;
 fill:rgba(0,0,0,0);
 }
