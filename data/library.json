@@ -3,7 +3,7 @@
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
-  "fetchedAt": "2026-11-24T04:38:39.398Z",
+  "fetchedAt": "2026-11-24T15:33:36.316Z",
   "sourceUpdatedAt": "2026-11-23T19:36:35.000Z",
   "privacyHash": "de65fae96f3138069d45a745c30c1e574d27355cab5ecc952bbdd98a52f08671",
   "sourceRange": {
@@ -4874,7 +4874,7 @@
     },
     {
       "date": "2026-11-18",
-      "fetchedAt": "2026-11-24T04:38:39.398Z",
+      "fetchedAt": "2026-11-24T15:33:36.316Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5003,7 +5003,7 @@
     },
     {
       "date": "2026-11-19",
-      "fetchedAt": "2026-11-24T04:38:39.398Z",
+      "fetchedAt": "2026-11-24T15:33:36.316Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5160,7 +5160,7 @@
     },
     {
       "date": "2026-11-20",
-      "fetchedAt": "2026-11-24T04:38:39.398Z",
+      "fetchedAt": "2026-11-24T15:33:36.316Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5273,7 +5273,7 @@
     },
     {
       "date": "2026-11-21",
-      "fetchedAt": "2026-11-24T04:38:39.398Z",
+      "fetchedAt": "2026-11-24T15:33:36.316Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5422,7 +5422,7 @@
     },
     {
       "date": "2026-11-22",
-      "fetchedAt": "2026-11-24T04:38:39.398Z",
+      "fetchedAt": "2026-11-24T15:33:36.316Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5563,7 +5563,7 @@
     },
     {
       "date": "2026-11-23",
-      "fetchedAt": "2026-11-24T04:38:39.398Z",
+      "fetchedAt": "2026-11-24T15:33:36.316Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5668,11 +5668,11 @@
     },
     {
       "date": "2026-11-24",
-      "fetchedAt": "2026-11-24T04:38:39.398Z",
+      "fetchedAt": "2026-11-24T15:33:36.316Z",
       "categories": [
         {
           "name": "AI Coding",
-          "seconds": 883.44
+          "seconds": 8240.972
         },
         {
           "name": "Coding",
@@ -5686,7 +5686,7 @@
       "editors": [
         {
           "name": "Codex Vscode",
-          "seconds": 739.759
+          "seconds": 7968.311
         },
         {
           "name": "VS Code",
@@ -5694,31 +5694,63 @@
         },
         {
           "name": "Codex CLI",
-          "seconds": 13.051
+          "seconds": 142.031
         }
       ],
       "languages": [
+        {
+          "name": "Other",
+          "seconds": 7637.201
+        },
         {
           "name": "Markdown",
           "seconds": 598.234
         },
         {
-          "name": "Other",
-          "seconds": 283.413
-        },
-        {
           "name": "C++",
           "seconds": 28.535
+        },
+        {
+          "name": "PowerShell",
+          "seconds": 3.744
         }
       ],
       "projects": [
+        {
+          "name": "计概A",
+          "seconds": 2003.949
+        },
+        {
+          "name": "new-chat",
+          "seconds": 1446.775
+        },
+        {
+          "name": "https-support-typora-io-quick-start",
+          "seconds": 1406.826
+        },
+        {
+          "name": "new-chat-4",
+          "seconds": 1126.268
+        },
+        {
+          "name": "new-chat-3",
+          "seconds": 850.96
+        },
         {
           "name": "科普文章大赛",
           "seconds": 598.234
         },
         {
-          "name": "new-chat",
-          "seconds": 283.413
+          "name": "https-github-com-obgnail-typora-plugin",
+          "seconds": 415.52
+        },
+        {
+          "name": "new-chat-2",
+          "seconds": 263.255
+        },
+        {
+          "name": "https-github-com-typora-theme-typora",
+          "seconds": 127.392
         },
         {
           "name": "practice",
@@ -5728,33 +5760,33 @@
       "operatingSystems": [
         {
           "name": "Windows",
-          "seconds": 910.182
+          "seconds": 8267.714
         }
       ],
-      "totalSeconds": 910.182,
+      "totalSeconds": 8267.714,
       "ai": {
-        "ai_additions": 0,
+        "ai_additions": 157,
         "ai_deletions": 0,
         "human_additions": 0,
         "human_deletions": 0,
-        "ai_input_tokens": 198861,
-        "ai_output_tokens": 13484,
-        "ai_sessions": 3,
-        "ai_prompt_events_total": 4,
-        "ai_prompt_length_avg": 4009,
-        "ai_prompt_length_avg_per_session": 4009,
-        "ai_prompt_length_median_per_session": 4008,
-        "ai_prompt_events_avg_per_session": 1,
-        "ai_prompt_events_median_per_session": 2,
-        "ai_model_total_cost": 4.63337,
+        "ai_input_tokens": 844546,
+        "ai_output_tokens": 86414,
+        "ai_sessions": 11,
+        "ai_prompt_events_total": 39,
+        "ai_prompt_length_avg": 2406,
+        "ai_prompt_length_avg_per_session": 3395,
+        "ai_prompt_length_median_per_session": 2663,
+        "ai_prompt_events_avg_per_session": 4,
+        "ai_prompt_events_median_per_session": 3,
+        "ai_model_total_cost": 16.150259,
         "models": [
           {
             "name": "GPT",
-            "lines": 0,
-            "cost": 4.63337,
-            "input_tokens": 198861,
-            "output_tokens": 13484,
-            "cached_input_tokens": 1970560
+            "lines": 157,
+            "cost": 16.150259,
+            "input_tokens": 844546,
+            "output_tokens": 86414,
+            "cached_input_tokens": 10676608
           },
           {
             "name": "Codex-Vscode",
@@ -5958,18 +5990,18 @@
         0,
         0,
         0,
-        283.413,
+        752.752,
+        1822.346,
+        0,
+        39.492,
+        87.9,
+        263.255,
+        0,
+        865.879,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        2071.993,
+        1737.328
       ]
     }
   ],
@@ -5979,7 +6011,7 @@
       "targetSeconds": 10800,
       "period": "day",
       "status": "pending",
-      "actualSeconds": 910.182,
+      "actualSeconds": 8267.714,
       "periodTarget": 10800
     }
   ],
