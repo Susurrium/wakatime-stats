@@ -23,13 +23,13 @@
 <path d="M110 189.2l39 0l0 10l-39 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr9-cls-19"/>
 <path d="M110 174.7l39.7 0l0 10l-39.7 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr9-cls-19"/>
 <path d="M110 160.2l62.7 0l0 10l-62.7 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr9-cls-19"/>
-<path d="M110 145.7l66.4 0l0 10l-66.4 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr9-cls-19"/>
+<path d="M110 145.7l67.9 0l0 10l-67.9 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr9-cls-19"/>
 <path d="M110 131.2l125.5 0l0 10l-125.5 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr9-cls-19"/>
 <path d="M110 116.7l173.7 0l0 10l-173.7 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr9-cls-19"/>
-<path d="M110 102.2l215.3 0l0 10l-215.3 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr9-cls-19"/>
+<path d="M110 102.2l223.1 0l0 10l-223.1 0Z" fill="#0284c7" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr9-cls-19"/>
 <path d="M-5 -5l188.2 0l0 47l-188.2 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr9-cls-18"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" y="8" transform="translate(27 21)" fill="#17212b">Languages</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#536170">Through 2026-11-25; Asia/Shanghai</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="31.5" transform="translate(27 21)" fill="#536170">Through 2026-11-26; Asia/Shanghai</text>
 <style><![CDATA[
 .zr9-cls-18:hover {
 pointer-events:none;
@@ -42,4 +42,4 @@ fill:rgba(2,145,218,1);
 ]]>
 
 </style>
-<title id="languages-title">Languages</title><desc id="languages-description">按累计活动小时排列，显示前十项。 Through 2026-11-25; Asia/Shanghai </desc></svg>
+<title id="languages-title">Languages</title><desc id="languages-description">按累计活动小时排列，显示前十项。 Through 2026-11-26; Asia/Shanghai </desc></svg>
