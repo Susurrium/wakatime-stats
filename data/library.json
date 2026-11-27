@@ -3,7 +3,7 @@
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
-  "fetchedAt": "2026-11-27T03:57:51.089Z",
+  "fetchedAt": "2026-11-27T13:38:49.170Z",
   "sourceUpdatedAt": "2026-11-26T19:34:19.000Z",
   "privacyHash": "de65fae96f3138069d45a745c30c1e574d27355cab5ecc952bbdd98a52f08671",
   "sourceRange": {
@@ -5289,7 +5289,7 @@
     },
     {
       "date": "2026-11-21",
-      "fetchedAt": "2026-11-27T03:57:51.089Z",
+      "fetchedAt": "2026-11-27T13:38:49.170Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5438,7 +5438,7 @@
     },
     {
       "date": "2026-11-22",
-      "fetchedAt": "2026-11-27T03:57:51.089Z",
+      "fetchedAt": "2026-11-27T13:38:49.170Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5579,7 +5579,7 @@
     },
     {
       "date": "2026-11-23",
-      "fetchedAt": "2026-11-27T03:57:51.089Z",
+      "fetchedAt": "2026-11-27T13:38:49.170Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5684,7 +5684,7 @@
     },
     {
       "date": "2026-11-24",
-      "fetchedAt": "2026-11-27T03:57:51.089Z",
+      "fetchedAt": "2026-11-27T13:38:49.170Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5817,7 +5817,7 @@
     },
     {
       "date": "2026-11-25",
-      "fetchedAt": "2026-11-27T03:57:51.089Z",
+      "fetchedAt": "2026-11-27T13:38:49.170Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5918,7 +5918,7 @@
     },
     {
       "date": "2026-11-26",
-      "fetchedAt": "2026-11-27T03:57:51.089Z",
+      "fetchedAt": "2026-11-27T13:38:49.170Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -6015,14 +6015,22 @@
     },
     {
       "date": "2026-11-27",
-      "fetchedAt": "2026-11-27T03:57:51.089Z",
+      "fetchedAt": "2026-11-27T13:38:49.170Z",
       "categories": [
+        {
+          "name": "AI Coding",
+          "seconds": 439.113
+        },
         {
           "name": "Coding",
           "seconds": 0
         }
       ],
       "editors": [
+        {
+          "name": "Codex Vscode",
+          "seconds": 439.113
+        },
         {
           "name": "VS Code",
           "seconds": 0
@@ -6031,38 +6039,63 @@
       "languages": [
         {
           "name": "C++",
+          "seconds": 388.922
+        },
+        {
+          "name": "Other",
+          "seconds": 50.191
+        },
+        {
+          "name": "Python",
           "seconds": 0
         }
       ],
       "projects": [
         {
+          "name": "cpp",
+          "seconds": 439.113
+        },
+        {
           "name": "practice",
+          "seconds": 0
+        },
+        {
+          "name": "new-chat",
           "seconds": 0
         }
       ],
       "operatingSystems": [
         {
           "name": "Windows",
-          "seconds": 0
+          "seconds": 439.113
         }
       ],
-      "totalSeconds": 0,
+      "totalSeconds": 439.113,
       "ai": {
-        "ai_additions": 0,
+        "ai_additions": 215,
         "ai_deletions": 0,
         "human_additions": 0,
         "human_deletions": 0,
-        "ai_input_tokens": 0,
-        "ai_output_tokens": 0,
-        "ai_sessions": 0,
-        "ai_prompt_events_total": 0,
-        "ai_prompt_length_avg": 0,
-        "ai_prompt_length_avg_per_session": 0,
-        "ai_prompt_length_median_per_session": 0,
-        "ai_prompt_events_avg_per_session": 0,
-        "ai_prompt_events_median_per_session": 0,
-        "ai_model_total_cost": 0,
-        "models": []
+        "ai_input_tokens": 12720,
+        "ai_output_tokens": 6071,
+        "ai_sessions": 2,
+        "ai_prompt_events_total": 7,
+        "ai_prompt_length_avg": 592,
+        "ai_prompt_length_avg_per_session": 617,
+        "ai_prompt_length_median_per_session": 617,
+        "ai_prompt_events_avg_per_session": 4,
+        "ai_prompt_events_median_per_session": 4,
+        "ai_model_total_cost": 0.146001,
+        "models": [
+          {
+            "name": "GPT",
+            "lines": 215,
+            "cost": 0.146001,
+            "input_tokens": 12720,
+            "output_tokens": 6071,
+            "cached_input_tokens": 598528
+          }
+        ]
       }
     }
   ],
@@ -6259,7 +6292,7 @@
         0,
         0,
         0,
-        0,
+        439.113,
         0,
         0,
         0,
@@ -6277,7 +6310,7 @@
       "targetSeconds": 10800,
       "period": "day",
       "status": "pending",
-      "actualSeconds": 0,
+      "actualSeconds": 439.113,
       "periodTarget": 10800
     }
   ],
