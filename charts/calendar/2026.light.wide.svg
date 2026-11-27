@@ -444,7 +444,8 @@
 <path d="M690.1 133l11.5 0l0 20l-11.5 0Z" fill="rgb(187,214,230)" ecmeta_series_index="0" ecmeta_data_index="76" ecmeta_ssr_type="chart" class="zr40-cls-128"/>
 <path d="M690.1 155l11.5 0l0 20l-11.5 0Z" fill="rgb(161,203,226)" ecmeta_series_index="0" ecmeta_data_index="77" ecmeta_ssr_type="chart" class="zr40-cls-129"/>
 <path d="M690.1 177l11.5 0l0 20l-11.5 0Z" fill="rgb(202,221,233)" ecmeta_series_index="0" ecmeta_data_index="78" ecmeta_ssr_type="chart" class="zr40-cls-130"/>
-<path d="M690.1 199l11.5 0l0 20l-11.5 0Z" fill="rgb(227,232,237)" ecmeta_series_index="0" ecmeta_data_index="79" ecmeta_ssr_type="chart" class="zr40-cls-97"/>
+<path d="M690.1 199l11.5 0l0 20l-11.5 0Z" fill="rgb(218,228,235)" ecmeta_series_index="0" ecmeta_data_index="79" ecmeta_ssr_type="chart" class="zr40-cls-104"/>
+<path d="M690.1 221l11.5 0l0 20l-11.5 0Z" fill="rgb(229,233,237)" ecmeta_series_index="0" ecmeta_data_index="80" ecmeta_ssr_type="chart" class="zr40-cls-96"/>
 <polyline points="68.5 110 68.5 132 68.5 132 68.5 154 68.5 154 68.5 176 55 176 55 198 55 198 55 220 55 220 55 242 55 242 55 264" fill="none" pointer-events="visible" stroke="#54555a" class="zr40-cls-131"/>
 <polyline points="122.5 110 122.5 132 122.5 132 122.5 154 122.5 154 122.5 176 122.5 176 122.5 198 122.5 198 122.5 220 122.5 220 122.5 242 109 242 109 264" fill="none" pointer-events="visible" stroke="#54555a" class="zr40-cls-131"/>
 <polyline points="176.4 110 176.4 132 176.4 132 176.4 154 176.4 154 176.4 176 176.4 176 176.4 198 176.4 198 176.4 220 176.4 220 176.4 242 162.9 242 162.9 264" fill="none" pointer-events="visible" stroke="#54555a" class="zr40-cls-131"/>
@@ -486,7 +487,7 @@
 </g>
 <path d="M-5 -5l194.5 0l0 50l-194.5 0Z" transform="translate(27 21)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr40-cls-132"/>
 <text dominant-baseline="central" text-anchor="start" style="font-size:19px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;font-weight:bold;" xml:space="preserve" y="9.5" transform="translate(27 21)" fill="#17212b">2026 activity calendar</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#536170">80/80 days available; Asia/Shanghai</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11px;font-family:Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif;" xml:space="preserve" y="34.5" transform="translate(27 21)" fill="#536170">81/81 days available; Asia/Shanghai</text>
 <defs>
 <clipPath id="zr40-c0">
 <path d="M3 0L17 0A3 3 0 0 1 20 3L20 137A3 3 0 0 1 17 140L3 140A3 3 0 0 1 0 137L0 3A3 3 0 0 1 3 0Z" transform="matrix(0,-1,1,0,330,329)" fill="#000" class="zr40-cls-133"/>
@@ -861,4 +862,4 @@ fill:[object Object];
 ]]>
 
 </style>
-<title id="calendar-title">2026 activity calendar</title><desc id="calendar-description">每天的全部活动小时，空白表示尚无已验证记录。 80/80 days available; Asia/Shanghai </desc></svg>
+<title id="calendar-title">2026 activity calendar</title><desc id="calendar-description">每天的全部活动小时，空白表示尚无已验证记录。 81/81 days available; Asia/Shanghai </desc></svg>
