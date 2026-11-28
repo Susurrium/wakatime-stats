@@ -3,7 +3,7 @@
   "timezone": "Asia/Shanghai",
   "timeout": 15,
   "writesOnly": false,
-  "fetchedAt": "2026-11-28T04:33:14.700Z",
+  "fetchedAt": "2026-11-28T13:55:16.568Z",
   "sourceUpdatedAt": "2026-11-27T19:22:17.000Z",
   "privacyHash": "de65fae96f3138069d45a745c30c1e574d27355cab5ecc952bbdd98a52f08671",
   "sourceRange": {
@@ -5442,7 +5442,7 @@
     },
     {
       "date": "2026-11-22",
-      "fetchedAt": "2026-11-28T04:33:14.700Z",
+      "fetchedAt": "2026-11-28T13:55:16.568Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5583,7 +5583,7 @@
     },
     {
       "date": "2026-11-23",
-      "fetchedAt": "2026-11-28T04:33:14.700Z",
+      "fetchedAt": "2026-11-28T13:55:16.568Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5688,7 +5688,7 @@
     },
     {
       "date": "2026-11-24",
-      "fetchedAt": "2026-11-28T04:33:14.700Z",
+      "fetchedAt": "2026-11-28T13:55:16.568Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5821,7 +5821,7 @@
     },
     {
       "date": "2026-11-25",
-      "fetchedAt": "2026-11-28T04:33:14.700Z",
+      "fetchedAt": "2026-11-28T13:55:16.568Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -5922,7 +5922,7 @@
     },
     {
       "date": "2026-11-26",
-      "fetchedAt": "2026-11-28T04:33:14.700Z",
+      "fetchedAt": "2026-11-28T13:55:16.568Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -6019,7 +6019,7 @@
     },
     {
       "date": "2026-11-27",
-      "fetchedAt": "2026-11-28T04:33:14.700Z",
+      "fetchedAt": "2026-11-28T13:55:16.568Z",
       "categories": [
         {
           "name": "AI Coding",
@@ -6120,29 +6120,103 @@
     },
     {
       "date": "2026-11-28",
-      "fetchedAt": "2026-11-28T04:33:14.700Z",
-      "categories": [],
-      "editors": [],
-      "languages": [],
-      "projects": [],
-      "operatingSystems": [],
-      "totalSeconds": 0,
+      "fetchedAt": "2026-11-28T13:55:16.568Z",
+      "categories": [
+        {
+          "name": "AI Coding",
+          "seconds": 11035.388
+        },
+        {
+          "name": "Coding",
+          "seconds": 4361.011
+        }
+      ],
+      "editors": [
+        {
+          "name": "Codex Vscode",
+          "seconds": 10068.636
+        },
+        {
+          "name": "VS Code",
+          "seconds": 5299.796
+        },
+        {
+          "name": "Codex CLI",
+          "seconds": 27.967
+        }
+      ],
+      "languages": [
+        {
+          "name": "TeX",
+          "seconds": 7272.289
+        },
+        {
+          "name": "Other",
+          "seconds": 5869.779
+        },
+        {
+          "name": "Python",
+          "seconds": 2254.331
+        }
+      ],
+      "projects": [
+        {
+          "name": "ppt_master",
+          "seconds": 5082.066
+        },
+        {
+          "name": "仪器分析实验",
+          "seconds": 4902.357
+        },
+        {
+          "name": "Unknown Project",
+          "seconds": 4806.272
+        },
+        {
+          "name": "有机实验",
+          "seconds": 605.704
+        }
+      ],
+      "operatingSystems": [
+        {
+          "name": "Windows",
+          "seconds": 15396.399
+        }
+      ],
+      "totalSeconds": 15396.399,
       "ai": {
-        "ai_additions": 0,
-        "ai_deletions": 0,
-        "human_additions": 0,
-        "human_deletions": 0,
-        "ai_input_tokens": 0,
-        "ai_output_tokens": 0,
-        "ai_sessions": 0,
-        "ai_prompt_events_total": 0,
-        "ai_prompt_length_avg": 0,
-        "ai_prompt_length_avg_per_session": 0,
-        "ai_prompt_length_median_per_session": 0,
-        "ai_prompt_events_avg_per_session": 0,
-        "ai_prompt_events_median_per_session": 0,
-        "ai_model_total_cost": 0,
-        "models": []
+        "ai_additions": 1032,
+        "ai_deletions": 4,
+        "human_additions": 44,
+        "human_deletions": 54,
+        "ai_input_tokens": 1181540,
+        "ai_output_tokens": 189269,
+        "ai_sessions": 6,
+        "ai_prompt_events_total": 34,
+        "ai_prompt_length_avg": 2560,
+        "ai_prompt_length_avg_per_session": 4069,
+        "ai_prompt_length_median_per_session": 2767,
+        "ai_prompt_events_avg_per_session": 6,
+        "ai_prompt_events_median_per_session": 5,
+        "ai_model_total_cost": 8.705515,
+        "models": [
+          {
+            "name": "GPT",
+            "lines": 1036,
+            "cost": 8.705515,
+            "input_tokens": 1181540,
+            "output_tokens": 189269,
+            "cached_input_tokens": 44497536
+          },
+          {
+            "name": "Codex-Vscode",
+            "lines": 0,
+            "cost": 0,
+            "input_tokens": 0,
+            "output_tokens": 0,
+            "cached_input_tokens": 0
+          }
+        ]
       }
     }
   ],
@@ -6337,15 +6411,15 @@
         0,
         0,
         0,
+        368.063,
+        1391.502,
+        2384.648,
+        3600,
+        2179.187,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        706.9649999999999,
+        3046.726,
+        1719.308,
         0,
         0
       ]
@@ -6356,8 +6430,8 @@
       "name": "Daily 3h",
       "targetSeconds": 10800,
       "period": "day",
-      "status": "pending",
-      "actualSeconds": 0,
+      "status": "success",
+      "actualSeconds": 15396.399,
       "periodTarget": 10800
     }
   ],
